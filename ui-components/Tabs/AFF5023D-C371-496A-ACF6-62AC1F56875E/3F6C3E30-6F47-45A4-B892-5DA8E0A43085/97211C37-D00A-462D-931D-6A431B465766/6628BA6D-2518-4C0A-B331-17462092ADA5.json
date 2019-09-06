@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6628BA6D-2518-4C0A-B331-17462092ADA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "611678FA-04E9-4167-AFEE-61C4F69A87EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3066A935-0095-4CA8-91A6-904E7C8F65E2",
+    "height": 43,
+    "width": 150,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashboard/horizontaltab/employers/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "038E5187-5D2A-4BE4-9D7A-8F0F4FF4C41B",
+      "overrideName": "084E63D6-233F-4DD6-9615-F8F75467C6EA_stringValue",
+      "value": "lorem ipsum (100)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48E26D82-7799-4820-A53F-443BF5ED409A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "39A90934-ECFD-4C61-94D1-DF4D82D8B595",
+  "verticalSpacing": 0
+}

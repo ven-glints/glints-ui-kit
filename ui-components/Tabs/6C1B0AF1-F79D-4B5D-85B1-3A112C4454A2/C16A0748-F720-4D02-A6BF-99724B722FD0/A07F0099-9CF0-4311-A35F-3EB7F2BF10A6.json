@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A07F0099-9CF0-4311-A35F-3EB7F2BF10A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35EE9022-0FF2-4BAF-94B4-6017A33248E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F983E475-3932-4DAA-A2F5-FB9191F8CE82",
+    "height": 23,
+    "width": 300,
+    "x": 10,
+    "y": 302
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item/Regular",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "177C1D8E-4FDA-47DF-A82B-02646DAD35E2",
+      "overrideName": "020EA173-5452-486B-9B19-D74A91546517_stringValue",
+      "value": "Engineering"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "9F873148-C8E1-44EE-9EF8-A05C7AF1151A",
+      "opacity": 0.2
+    },
+    "do_objectID": "977D9596-A362-4B1E-9F7B-4666E5FA5678",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "14889267-9383-4AAA-BA0D-E019592A3D00",
+  "verticalSpacing": 0
+}

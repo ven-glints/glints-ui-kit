@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "85406CD4-1C53-4899-8F27-2D2FAD7B5E84",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 960,
+  "clippingMaskMode": 0,
+  "do_objectID": "F4D8C913-4D17-4971-895A-53AA92F5F7D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C638D921-4CAC-4528-9912-D41C4846E4FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "641FB177-82A3-46E3-999D-4EA055FF783A",
+    "height": 55,
+    "width": 55,
+    "x": 17325,
+    "y": -699
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0569356D-95B4-4E07-B6AF-05F2CE794E70",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "605FB829-D999-45D2-B929-79F275B6AAD0"
+    }
+  ],
+  "name": "✱/Color/light-grey",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B4589489-32AC-4CF0-B816-4390E8D8FC24",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B2D27FC8-2835-4029-A0BC-8D1EBFE19368",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "11395B7B-E7DB-4484-B23B-9BFD2EDD727A",
+    "guides": [
+    ]
+  }
+}

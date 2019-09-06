@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AB04810C-25CF-4F8A-8891-DEDC0C59D12A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 572,
+  "clippingMaskMode": 0,
+  "do_objectID": "490C66B1-5E5F-4864-AF64-2F18158E1A61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E99EC09D-E32F-4382-951F-78C8FDAA502A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "001B0CD2-4B58-48FB-A33F-CDC0F35CF4C8",
+    "height": 75,
+    "width": 321,
+    "x": 51527,
+    "y": -1233
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A7AE91B8-A1F0-4D8D-8029-C8AF5F5D0CDB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B7CE1F6E-C071-44A4-A6D0-E850C5741DF1"
+    }
+  ],
+  "name": "Job Card/Desktop/Component/Title 3-lines",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "66F652FA-0AE8-4627-946D-FA4C3EEA4A66",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D8D267B5-0478-4B41-A806-669B4FC6306D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "01B11182-A00E-438C-9936-39980B181C00",
+    "guides": [
+    ]
+  }
+}

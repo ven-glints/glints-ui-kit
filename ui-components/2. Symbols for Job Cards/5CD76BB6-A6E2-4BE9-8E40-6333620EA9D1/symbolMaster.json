@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F619A0A3-8E42-4682-9536-FC3F66E8B888",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 906,
+  "clippingMaskMode": 0,
+  "do_objectID": "5CD76BB6-A6E2-4BE9-8E40-6333620EA9D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE96A7CD-1025-4A28-928F-7016C733BF6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F2C0902F-995D-4AE3-8A69-0541ED9F5FF2",
+    "height": 50,
+    "width": 77,
+    "x": -2088,
+    "y": 1372
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "164CE307-C5D8-487B-8480-39520BC9A50F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CFF968F6-F860-43C9-B927-780A6151C427"
+    }
+  ],
+  "name": "Job Card/Desktop/Component/CTA/Save-Focus",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7CBB305A-A754-47BA-9D10-BD4C5749FB41",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F162937D-7582-450D-A5F1-24144C98CBFD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "32AECBE5-9477-4686-AE54-84196E6C8366",
+    "guides": [
+    ]
+  }
+}

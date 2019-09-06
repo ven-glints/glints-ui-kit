@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E11BF4A0-57DC-4F19-ADB2-5E405D0A06E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A84CDE7D-A645-4868-87A6-BD6E81CB10ED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07E74933-506C-4411-835E-9AD1EC3033BB",
+    "height": 17,
+    "width": 124,
+    "x": 5,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/text-Field/Floating-Label/Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4E25503-46D9-4D7B-90D5-97C9FEBD0A19",
+      "overrideName": "506A9B4F-7B42-4496-A7BC-BD492483C518_stringValue",
+      "value": "Create a Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF70B08D-62CD-4E2E-983F-787F4EC98416",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7508CDEB-FE8F-4F62-87FE-A7DA1EDD6C79",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "74C429BF-D625-4A5D-AAE5-D00E1284BD08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF426A3E-2054-4AF8-BF8B-3DD6571A0404",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55C2C1FC-8D3A-4A3C-8223-9A4E698CE176",
+    "height": 23,
+    "width": 300,
+    "x": 10,
+    "y": 431
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item/Regular",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "177C1D8E-4FDA-47DF-A82B-02646DAD35E2",
+      "overrideName": "020EA173-5452-486B-9B19-D74A91546517_stringValue",
+      "value": "Software Engineering"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B57EF933-024A-4618-92DA-8A4A68A19AC7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "14889267-9383-4AAA-BA0D-E019592A3D00",
+  "verticalSpacing": 0
+}

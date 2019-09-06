@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "993169CD-D825-4B06-8851-460515F46362",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9142CF79-EF70-4E31-A925-E3C33C3099E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9F761D67-F552-49E1-BA84-F25BC9CC0E31",
+    "height": 155,
+    "width": 400,
+    "x": 1400,
+    "y": 1172
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3B5C9131-E58B-4322-91C2-BEDF00C6E1BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B8F1BA8-9DF9-404E-8F5B-0BDBBC634FC9"
+    }
+  ],
+  "name": "double check mark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D048C93-A266-4FA9-9149-69000D9F8506",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

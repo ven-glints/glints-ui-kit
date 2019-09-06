@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E37FE57B-BB21-4404-A953-304565C08ED5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AEF1441C-C207-413D-BEE7-43A2CB28E652",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7C798D2-4259-43F2-A086-3E004EAED8A6",
+    "height": 63,
+    "width": 260,
+    "x": 1440,
+    "y": 93
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "85A10712-760F-478F-9FFC-E88ECC52C470"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C9C3C13-9F6E-45D9-822E-3407E25004E3"
+    }
+  ],
+  "name": "Password Field - Ideal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F55A4A7-1AD3-4E42-92C9-63B11E258128",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

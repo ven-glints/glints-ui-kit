@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7697745A-2045-44B6-A6E9-3C04436E9C33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "22F31D38-936D-49BD-BC2A-CF5529318574",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "388E8F0A-813F-4A95-ADBF-907161D88C50",
+    "height": 62,
+    "width": 600,
+    "x": 122,
+    "y": 384
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tabs/signup-login",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50B224B3-6FED-4E36-878A-F46EB2FC2E81",
+      "overrideName": "50EF61CD-5D3A-43FE-89EB-9DB4D8A5C7F3_symbolID",
+      "value": "B31056B2-0F56-4E73-BD6C-343B15A4D877"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE6CA136-88CD-4313-A513-14ED80F99527",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9E5B5604-2715-493A-8A2A-ECB201CBE78C",
+  "verticalSpacing": 0
+}

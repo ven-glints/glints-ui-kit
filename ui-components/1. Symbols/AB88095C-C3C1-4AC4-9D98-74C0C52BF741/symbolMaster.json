@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "98A4E96D-EB47-4D9E-AA21-13DD5604FEC8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2124,
+  "clippingMaskMode": 0,
+  "do_objectID": "AB88095C-C3C1-4AC4-9D98-74C0C52BF741",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84B52D6C-3737-4293-A2D2-49BDC8E62EC0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CEEDDCB-A32F-45C3-ADA3-50DE3177F2D6",
+    "height": 17,
+    "width": 400,
+    "x": 42188,
+    "y": -918
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "230D1514-6B80-47B3-92F5-673C692BE65E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4371928C-9A8F-4045-B9F1-06A9A89BE9BE"
+    }
+  ],
+  "name": "Form/Text-Field/Floating-Label/Error",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B1C423BB-FDD6-45D3-893C-2EDA9A6A96C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC3E2784-FF15-4C47-B8C9-3D5C954C57F1",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3781AF4A-5836-4147-AD41-A222E4CDB160",
+    "guides": [
+    ]
+  }
+}

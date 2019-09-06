@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE1D2FCE-8097-4510-BA82-B36B11AD6542",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6EF87C72-C825-4E8E-88C9-DE2A6FB63B69",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B9CF1052-3638-4285-9765-7D1688A8139B",
+    "height": 254,
+    "width": 516,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "81467C96-1C55-4F07-813E-29C22093D897"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4AAE3FA-A04E-4050-B49C-2C649436AAFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "817699D3-584F-452D-B01A-09CCB7000074"
+    }
+  ],
+  "name": "item hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "93362FAC-CF1C-4653-B0DF-F3E7C7F8B21D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7A88746-0E5E-4E05-83E1-5A598C27B00C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E88B330-5F96-4E0C-A99D-3E1B3901AB08",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6962F7F3-FEAF-4C99-A573-5546B737436D",
+    "height": 17,
+    "width": 290,
+    "x": 0,
+    "y": 22
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "jobdetails-timestamp",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C40AAEA8-4AFA-40D9-8D15-46FF705B4889",
+      "overrideName": "752E3738-CD97-4DCE-BB84-C8724D7DAF86_stringValue",
+      "value": "The company was login 2 days ago"
+    }
+  ],
+  "resizingConstraint": 23,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1FED946-7E9A-4DAC-9B28-B6DE6BED44E4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7BAD718F-2880-464D-B7EB-8C312A3A4962",
+  "verticalSpacing": 0
+}

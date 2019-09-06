@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "02D78575-3957-45F5-9B19-A6B6B64B855E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F715785-394A-44E6-84E3-539A00A87182",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B2F0767-5574-4232-9D10-E1ADF6FC257B",
+    "height": 23,
+    "width": 440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B54E020F-B944-4DA5-B572-D88100B067F3",
+      "overrideName": "020EA173-5452-486B-9B19-D74A91546517_stringValue",
+      "value": "Role"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B43B32A-6304-4A89-8825-901A30C8EE34",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "14889267-9383-4AAA-BA0D-E019592A3D00",
+  "verticalSpacing": 0
+}

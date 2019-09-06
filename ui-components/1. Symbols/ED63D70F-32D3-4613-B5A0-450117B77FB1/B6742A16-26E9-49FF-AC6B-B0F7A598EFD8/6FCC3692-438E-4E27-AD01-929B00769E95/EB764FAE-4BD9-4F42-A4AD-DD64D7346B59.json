@@ -1,0 +1,60 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "EB764FAE-4BD9-4F42-A4AD-DD64D7346B59",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA3FD350-00DF-4218-8F0D-2434EB9D8689",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "71107810-346B-4288-88FC-4F109A5DA1A4",
+    "height": 397.8666666666667,
+    "width": 212.2448979591837,
+    "x": 0,
+    "y": -87.46666666666667
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/3b2e32aaa43e42fbbed33cb892d1a60e97c433e1.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "warningphoto2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "4001A4AE-B510-4072-85B8-CAB6244E7761",
+      "opacity": 0.1000000014901161
+    },
+    "do_objectID": "B00A3D82-E9AF-43A8-8062-6401D04A0241",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

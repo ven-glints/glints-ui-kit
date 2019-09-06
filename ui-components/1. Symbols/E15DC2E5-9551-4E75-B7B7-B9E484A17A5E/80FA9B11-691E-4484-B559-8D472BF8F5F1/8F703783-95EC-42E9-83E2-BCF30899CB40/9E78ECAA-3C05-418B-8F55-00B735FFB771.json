@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9E78ECAA-3C05-418B-8F55-00B735FFB771",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "591D34A4-5E9F-485D-9081-7C8F160F5ACB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8AB5F1BE-01F2-4765-84C1-14887A5310C7",
+    "height": 17,
+    "width": 406,
+    "x": 0,
+    "y": 22
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Card/Desktop/Component/Timestamp",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD4DB2B5-F47C-4BFA-BA8A-90D855953B6B",
+      "overrideName": "81ED0F50-D44A-48F9-9346-4824042AC231_stringValue",
+      "value": "This job was posted 2 days ago"
+    }
+  ],
+  "resizingConstraint": 31,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "93538736-939E-4AE0-908B-43877FF4B254",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "37315328-E43E-4745-9A73-08D05D45C3A8",
+  "verticalSpacing": 0
+}

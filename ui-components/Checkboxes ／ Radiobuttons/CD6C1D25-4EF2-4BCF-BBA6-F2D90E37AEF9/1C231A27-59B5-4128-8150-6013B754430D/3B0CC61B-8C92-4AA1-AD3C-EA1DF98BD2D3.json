@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3B0CC61B-8C92-4AA1-AD3C-EA1DF98BD2D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "689BF522-4E26-4F18-AE8F-1CE1A8D0893D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0725980E-EB54-48DD-98D5-DDF36CCD0C4E",
+    "height": 23,
+    "width": 200,
+    "x": 0,
+    "y": 97
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC2F2CAF-BDAB-4DB4-B4BF-B65772C4B95D",
+      "overrideName": "AC65D71C-6759-47D3-99C2-E208E6824771_stringValue",
+      "value": "Mbah Enow"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48D6C144-89DE-4E94-8772-D6A37AA2C71E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "46E510C7-27BB-4A9B-A717-EECDE771FD1A",
+  "verticalSpacing": 0
+}

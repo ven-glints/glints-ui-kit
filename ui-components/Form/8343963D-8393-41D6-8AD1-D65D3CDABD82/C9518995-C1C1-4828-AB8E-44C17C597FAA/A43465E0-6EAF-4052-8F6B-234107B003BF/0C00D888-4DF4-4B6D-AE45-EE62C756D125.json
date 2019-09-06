@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C00D888-4DF4-4B6D-AE45-EE62C756D125",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "747A68A9-C3B5-41A2-A068-2704D31E4DD0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C35C1B2C-93DC-42F6-A04E-600DDD8A9876",
+    "height": 23,
+    "width": 178,
+    "x": 157,
+    "y": 23
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/text-Field/Text-Field-Value/Active Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EE7557B-9B2D-4248-BD4C-2AB177C6EB4D",
+      "overrideName": "9D9A092A-F8E0-459D-B03F-107946F805B3_stringValue",
+      "value": "5524"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "962E864E-23FB-4B5B-8D0C-762CDB298090",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8845348A-0706-4E63-B672-AEF724C9614D",
+  "verticalSpacing": 0
+}

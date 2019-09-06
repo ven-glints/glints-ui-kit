@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "EE00BF28-9860-4220-A256-A758157752EE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 444,
+  "clippingMaskMode": 0,
+  "do_objectID": "F340D6DB-9439-4668-840A-3A9DCCDB078A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34A9B80F-5C00-4048-BA9D-595A4B23BE2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4CBAC15B-80A5-42E3-8822-9C58614478C0",
+    "height": 80,
+    "width": 406,
+    "x": -1368,
+    "y": 2009
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "875ADF2E-2D80-435F-BB62-979441E978C6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9A24D1E2-7AEA-46C5-9495-BB808D17FF57"
+    }
+  ],
+  "name": "Job Card/Desktop/Component/Desc-text",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "779FA54D-883B-44E3-9B99-BA09E3B2BC5A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B96DC27A-E8E4-4FE9-A8CD-3E7FF00605C3",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4F3D2F43-FF40-46F1-BB9A-E03043F9CF02",
+    "guides": [
+    ]
+  }
+}

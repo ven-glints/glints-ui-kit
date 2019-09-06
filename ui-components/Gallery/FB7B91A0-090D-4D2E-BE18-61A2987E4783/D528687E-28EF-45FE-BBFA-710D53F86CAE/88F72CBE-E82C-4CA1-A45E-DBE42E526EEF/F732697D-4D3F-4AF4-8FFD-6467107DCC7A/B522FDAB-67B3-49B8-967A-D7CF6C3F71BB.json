@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B522FDAB-67B3-49B8-967A-D7CF6C3F71BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4962515-DDA3-4997-B656-71FAD22621B6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "783ECBCB-5D53-424C-9FFA-3E6BA3A84A1F",
+    "height": 70,
+    "width": 70,
+    "x": 80,
+    "y": 386
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "gallery/photo-default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2965ABE-CFD3-4FEA-9211-DEE2C85695D3",
+      "overrideName": "8447459B-6D57-42B6-A15A-806DC6AA0E99_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d0ba1b9b6a0389ece07806835fa6ae426aacefa6.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03165544-7B43-47E1-B7FD-34DD6F088863",
+      "overrideName": "5CCB7465-6763-47BC-A05D-DD3010C14B6A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "327E0D26-5342-4802-A316-C95F81EE5FD4",
+      "overrideName": "21470882-A77C-4D84-A913-AAA6BA286D2F_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "727E19B7-A84A-4AAC-9192-FBFB4316CE0E",
+      "overrideName": "9DEB717D-F05A-408C-B731-BF7806A86703_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7DF5BC89-ABCB-46E3-86D8-623F3A8652DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9ECFF42A-9A5A-470E-9DC5-116251E5CB8C",
+  "verticalSpacing": 0
+}

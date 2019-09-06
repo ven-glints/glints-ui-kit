@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F99BF73D-4C7C-4FF4-BFAB-E27F6B09FB3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9296481C-FC50-4794-8AAF-6323AB041C4D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05CF56DB-AA34-4DB1-97BB-8F6065885C38",
+    "height": 40,
+    "width": 57,
+    "x": 442,
+    "y": 20
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "filtertab/career-active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5765C538-6370-46AE-AAC9-F4504C2D9ED3",
+      "overrideName": "AF9FBFAB-E9B2-49BD-8009-68F19B77CC28_stringValue",
+      "value": "salary"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0BB39F8B-70E8-4B5E-93BD-36FEFC37E1F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3887E072-D098-49F4-8B6F-CE64EAB76B37",
+  "verticalSpacing": 0
+}

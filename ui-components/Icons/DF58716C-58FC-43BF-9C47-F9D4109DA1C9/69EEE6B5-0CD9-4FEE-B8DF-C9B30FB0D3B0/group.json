@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "69EEE6B5-0CD9-4FEE-B8DF-C9B30FB0D3B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3223AE9-EB67-4E13-978E-1A5AED72D4F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1CA3A881-3EC0-473C-A3B7-A0928BFA1EF2",
+    "height": 158,
+    "width": 400,
+    "x": 1000,
+    "y": 4937
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "73059DE2-A7A9-4F38-9A8C-36F77EA2BD02"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD5EB9B5-C856-42A5-85E3-4571F6A7FE49"
+    }
+  ],
+  "name": "whatsup copy 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "140D63A8-8952-4C60-84AC-0B3A661BD92D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

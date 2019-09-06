@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B5B11619-B0D0-4995-9FA4-8A8F70617A53",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 7520,
+  "clippingMaskMode": 0,
+  "do_objectID": "10600EA9-2DDE-4CA0-A663-0DB46F6601FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5309B43-961F-4466-B9F6-EA5E46373D85",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D092A59F-7957-46C9-A4B0-ED20FE81F954",
+    "height": 178,
+    "width": 406,
+    "x": -1368,
+    "y": 1582
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4E54C0DD-DB74-4CBD-BCF6-F8851C0940AA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F51DDFAD-FF6F-450B-901B-FBCA63765B34"
+    }
+  ],
+  "name": "Job Card/Desktop/Component/Salary-Data",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D56EEA1-96F6-4A72-9D13-60612341DBD8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E9B1DE8B-752F-403B-86D0-4D3479692778",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "17320B1F-5BEE-4F39-833D-47D587B45ACA",
+    "guides": [
+    ]
+  }
+}

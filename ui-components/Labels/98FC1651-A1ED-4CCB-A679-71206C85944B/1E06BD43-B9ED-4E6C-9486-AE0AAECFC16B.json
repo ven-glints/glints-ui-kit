@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1E06BD43-B9ED-4E6C-9486-AE0AAECFC16B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3079AF00-6CE8-4E4B-AEA0-4CD846DF3694",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B026DB7A-C045-4916-95A4-3342B573BC2D",
+    "height": 26,
+    "width": 118,
+    "x": 200,
+    "y": 700
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "companycard/label-soft",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3DC949A8-D8BB-4EE3-A52D-373DAB60175B",
+      "overrideName": "78C9320F-D052-4A6E-B948-2FC64FE9B352_stringValue",
+      "value": "lorem ipsum"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A31081E2-C856-4877-8C40-7FA8C00ACE2B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BCEF3DC8-7EEE-400E-9E67-4082D97FD01C",
+  "verticalSpacing": 0
+}

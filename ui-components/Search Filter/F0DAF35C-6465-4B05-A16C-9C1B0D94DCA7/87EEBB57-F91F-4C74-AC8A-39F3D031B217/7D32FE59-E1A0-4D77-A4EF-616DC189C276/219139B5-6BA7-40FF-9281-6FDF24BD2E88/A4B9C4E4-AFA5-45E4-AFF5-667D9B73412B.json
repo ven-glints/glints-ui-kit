@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4B9C4E4-AFA5-45E4-AFF5-667D9B73412B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B9E44F9-6079-4E00-966A-6A81E9C67DC6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B34765D-BF4B-45D4-B0FD-B76D43AB9BF3",
+    "height": 40,
+    "width": 45,
+    "x": 277,
+    "y": 20
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "filtertab/career-active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5765C538-6370-46AE-AAC9-F4504C2D9ED3",
+      "overrideName": "AF9FBFAB-E9B2-49BD-8009-68F19B77CC28_stringValue",
+      "value": "job type"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A70D11D5-9C05-4146-A200-59B0481559AC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3887E072-D098-49F4-8B6F-CE64EAB76B37",
+  "verticalSpacing": 0
+}

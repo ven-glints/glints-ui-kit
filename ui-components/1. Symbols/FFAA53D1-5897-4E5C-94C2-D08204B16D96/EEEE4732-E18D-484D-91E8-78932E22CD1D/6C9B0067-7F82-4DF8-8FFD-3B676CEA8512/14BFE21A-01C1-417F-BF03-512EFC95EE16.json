@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "14BFE21A-01C1-417F-BF03-512EFC95EE16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "144F6194-9D78-464D-8AED-59A4D16CEAA0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "29C25489-ECC0-4ED0-BB6B-A2B7CE78CC31",
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 96
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sidebar Mobile/Menu/Default Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5407BDED-0A9C-4635-9D09-868781593151",
+      "overrideName": "E61E521C-C93A-4EAC-84BA-245C3C0FF9E0_stringValue",
+      "value": "INTERNSHIPS"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A04992EA-5FCA-4EF5-B082-AEB2E352D034",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AFD805A7-CD69-4FA5-B3DC-B325ED87254B",
+  "verticalSpacing": 0
+}

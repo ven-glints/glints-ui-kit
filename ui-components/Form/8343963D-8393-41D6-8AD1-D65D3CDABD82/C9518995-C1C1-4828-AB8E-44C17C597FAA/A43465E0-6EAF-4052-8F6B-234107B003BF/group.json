@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A43465E0-6EAF-4052-8F6B-234107B003BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4710DD5A-1CC4-4634-ACA8-093ED4D1912D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66B4C294-4333-481A-9520-B4D4C5786028",
+    "height": 61,
+    "width": 350,
+    "x": 1863,
+    "y": 90
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4751ECAC-5A22-457D-807D-D9DD6578736A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A36E4891-A589-4F0F-9D9F-3BB3D102E197"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3690E40-2D65-4FBE-99A9-2A449C89D536"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89B71EC0-D1B9-4A73-9884-FEA150E88BB7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F45A667E-D8B9-4D23-ACA4-5A21FBAEFE2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C00D888-4DF4-4B6D-AE45-EE62C756D125"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E796352-04BF-4E77-A527-E4D09CD205C6"
+    }
+  ],
+  "name": "Phone number - default - active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CB9C59DF-86EB-41D2-90C9-3678B5AC39FB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "EEE80B6E-829F-4684-B77C-E759E903852C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 406,
+  "clippingMaskMode": 0,
+  "do_objectID": "8DA7FF70-DA22-47AE-8509-3F7E8C393062",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E0E9BBBF-330E-4B89-AC6E-C0603299D80E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2AC0A54C-F577-48C1-B066-67957F4BDDB1",
+    "height": 30,
+    "width": 137,
+    "x": 19815,
+    "y": 70
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CBADFB0C-0152-4EFA-88C1-2ABCA600E629",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4FB2B035-40A8-4A69-9AD4-5E4E42607F44"
+    }
+  ],
+  "name": "tag/skill-tags",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8917CD80-8861-4504-985B-42F171D94A14",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5CC535ED-06EF-41C8-8A9A-8617B2F7A670",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7C47C49C-9C9F-4F3A-A9BD-0B8DF374C46D",
+    "guides": [
+    ]
+  }
+}

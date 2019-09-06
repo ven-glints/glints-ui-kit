@@ -1,0 +1,108 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "21556D6B-3AF9-4EC4-A9D3-B24A463FD4A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB3806F7-4D14-4E24-AB8D-DD2BE44F1F50",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "639EB61D-DE50-4551-A575-1235D71ABF30",
+    "height": 91.9999999999999,
+    "width": 99.99999999999979,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "BE8464C6-C5F8-4922-AEDA-6E52853D2749"
+    },
+    {
+      "class": "shapePath",
+      "id": "8C6B149F-DB85-405B-842F-E38D355CA569"
+    },
+    {
+      "class": "shapePath",
+      "id": "DBB28411-6612-4B21-9C29-881E27E31369"
+    },
+    {
+      "class": "shapePath",
+      "id": "A2DDD6A5-C386-4360-9E38-17744629F6EE"
+    },
+    {
+      "class": "shapePath",
+      "id": "76B258DD-BB69-497E-BA8C-8423C6715029"
+    },
+    {
+      "class": "shapePath",
+      "id": "FB4AA927-E5BD-47A7-90EF-75531017DA57"
+    },
+    {
+      "class": "shapePath",
+      "id": "E0C17F89-227B-4461-B63A-353BF8812786"
+    },
+    {
+      "class": "shapePath",
+      "id": "9B548050-CF7A-4E41-9351-9608A210A45D"
+    },
+    {
+      "class": "shapePath",
+      "id": "733739CE-9A12-46D7-BE8B-0EF3D8450357"
+    },
+    {
+      "class": "shapePath",
+      "id": "7A0AB86D-9807-44C6-9859-7B68EB7FE2AA"
+    }
+  ],
+  "name": "icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F35F169-BD71-48AD-9767-879E42DAC26A",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

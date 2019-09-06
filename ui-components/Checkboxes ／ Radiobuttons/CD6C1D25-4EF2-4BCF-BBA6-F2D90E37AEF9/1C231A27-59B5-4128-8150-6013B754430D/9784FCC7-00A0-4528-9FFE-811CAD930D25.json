@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9784FCC7-00A0-4528-9FFE-811CAD930D25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E58F1E4-D7F7-4FD7-BDDD-C828E3038AF7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B793CB83-FA50-4045-9152-41785B139909",
+    "height": 23,
+    "width": 200,
+    "x": 0,
+    "y": 163
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB8ACBC9-6188-4140-A3D8-8301105922F2",
+      "overrideName": "AC65D71C-6759-47D3-99C2-E208E6824771_stringValue",
+      "value": "Okazaki Suzuko"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A90F991C-BCFB-4B32-A147-41D4A54B9C6A",
+      "overrideName": "FC3C7C71-9C64-44DC-A1FF-A0530E104DD7_symbolID",
+      "value": "E14838FB-40A5-4F27-B0C3-03AD690BD05D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E93DCE1-3CE7-4AA5-82A2-C7069C55F2EB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "46E510C7-27BB-4A9B-A717-EECDE771FD1A",
+  "verticalSpacing": 0
+}

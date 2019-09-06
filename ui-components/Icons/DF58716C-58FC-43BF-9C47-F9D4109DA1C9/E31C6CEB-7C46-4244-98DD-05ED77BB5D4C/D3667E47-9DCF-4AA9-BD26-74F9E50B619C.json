@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D3667E47-9DCF-4AA9-BD26-74F9E50B619C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "820B24B6-1A35-4759-9B76-CA8D5EEF707A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53CEC0F7-60FE-4403-A063-B41C6283C8D1",
+    "height": 99.99999999999997,
+    "width": 100,
+    "x": 150,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/candidate-add",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1DEEF2AA-5E97-42DE-939B-6515213BC0DF",
+      "overrideName": "2A218F55-774B-4364-8DB7-40D2CE114890_symbolID",
+      "value": "4A925367-4506-427A-9BBE-1CB371622AFE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8847C52C-C288-4A9D-B6D8-90C2FDA30938",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B8292409-78F0-449A-BECE-985A516C74E9",
+  "verticalSpacing": 0
+}

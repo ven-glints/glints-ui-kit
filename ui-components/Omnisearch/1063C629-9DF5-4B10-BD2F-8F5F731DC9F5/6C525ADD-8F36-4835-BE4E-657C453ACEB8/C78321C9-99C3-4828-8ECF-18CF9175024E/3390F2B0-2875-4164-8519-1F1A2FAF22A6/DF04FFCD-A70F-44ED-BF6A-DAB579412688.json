@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DF04FFCD-A70F-44ED-BF6A-DAB579412688",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "947987CF-136A-410A-8438-FE90FFF6EBF7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "128BAFF2-EE71-4818-BC7C-5F19ABD48F60",
+    "height": 40,
+    "width": 293,
+    "x": 0,
+    "y": 50
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "company-list",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "305FCC46-57CE-4C75-848A-683E6F4264EF",
+      "overrideName": "F5CDC662-E4F6-4117-A16E-8CFCEF3DA3B0_stringValue",
+      "value": "Glints Engineering Indonesia"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D1800977-DFFC-4230-83E8-0A0C1F4D7AFE",
+      "overrideName": "E8268D0A-F1AE-459A-9536-791337F4A6A1/E84D56F5-1EEE-4B9B-BE01-FB08F9A7F1FB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b2cb226b0c860247118b25147eb4b137b3a545cb.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "10BCB644-3CB1-4526-9CC1-C1EC427FEF4B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1F0D4D58-6BA4-4E11-A405-F1D7C4841B48",
+  "verticalSpacing": 0
+}

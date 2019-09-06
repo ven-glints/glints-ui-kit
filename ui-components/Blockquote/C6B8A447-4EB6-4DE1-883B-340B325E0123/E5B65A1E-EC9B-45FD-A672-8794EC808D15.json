@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E5B65A1E-EC9B-45FD-A672-8794EC808D15",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D784DC9-5609-4F1E-B5AB-0E1EF4831D6E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF8BB6D1-B741-4027-8A90-CB9AA0055943",
+    "height": 416,
+    "width": 307,
+    "x": 830,
+    "y": 1680
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "blockquote-mobile-portrait",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EF9E731-B17E-4CD2-A21A-95FEB7B6DCFE",
+      "overrideName": "E97B2063-79BB-4141-96BE-48BA11D0EE99_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3abc1d05853d68cb8536bfa8b9f98ca5c1a3ffd5.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C266BBA0-C1CE-4AA9-9D73-D5B6F0A4267F",
+      "overrideName": "C7217A79-D596-42FE-A33B-86588E9BEB9F_stringValue",
+      "value": "Jia Ann"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6126839C-29AE-4C05-9C0C-B9F1F8DF4A1C",
+      "overrideName": "41AE6EAA-6F1D-442E-A633-7D53822B0994_stringValue",
+      "value": "Nanyang Technological University"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8C23589F-2197-4EC6-84C3-51A795433D08",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1D33F3AF-405D-48E4-913C-AE63572A37C0",
+  "verticalSpacing": 0
+}

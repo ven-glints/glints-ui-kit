@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A5419494-D563-45CF-9453-947D4D744745",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C31ABE3-7307-4A24-AF15-6FBAAE772A71",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B91E951D-9539-472C-9A9A-308A2E77FD71",
+    "height": 20,
+    "width": 292,
+    "x": 0,
+    "y": 40
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "location-list",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BEA34E7E-A7E4-4E73-91DC-C5A7C6F2B74F",
+      "overrideName": "A8E81C8C-894A-4766-879F-325B87EFDEF5_stringValue",
+      "value": "Singapore"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54F9C951-2765-4635-84A7-2358D792A1A1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "712D431E-269C-4EBB-BD5B-6A63B963A5E6",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0514BA98-3363-452E-8AED-D9DA6BB5041E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26F9A0DA-62DB-42DA-97EB-A003A21B8539",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9B3AF86-1554-4250-9EE1-92C5C7F7C9F7",
+    "height": 17,
+    "width": 120,
+    "x": 6,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/text-Field/Floating-Label/Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4E25503-46D9-4D7B-90D5-97C9FEBD0A19",
+      "overrideName": "506A9B4F-7B42-4496-A7BC-BD492483C518_stringValue",
+      "value": "Select with Search"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED363091-3F2B-4D58-ACC2-E3D45EE1D0DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7508CDEB-FE8F-4F62-87FE-A7DA1EDD6C79",
+  "verticalSpacing": 0
+}

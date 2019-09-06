@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "076E89B0-291F-492D-BFD0-5521FA10B0D1",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2623,
+  "clippingMaskMode": 0,
+  "do_objectID": "19701D96-095A-424B-9B55-402DF73BE8F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "25F4A3EB-E156-4161-99BF-7CD5D3143CE2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC43C35B-E543-49C1-9463-EC33FAEFD711",
+    "height": 520,
+    "width": 446,
+    "x": -416,
+    "y": 1372
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "99CD2EF7-8D45-411D-82A1-55C62E822804",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C673435D-2245-43C6-9FC2-3E390DEC7D17"
+    }
+  ],
+  "name": "Job Card/Desktop/Regular 2 lines",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D89F4426-7FAD-4598-B9F5-BAC55FBCAA3F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1F8C8FE9-268E-409E-A4BF-C8D277A9FB2F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4CB62F27-CE35-4EC3-A96D-1034F64871E2",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F2A7631E-4966-4297-8904-472EA7CD6B57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F5AC827-F44D-4F1D-ACE1-58EC3E69B022",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E1561C67-0AD8-4AE6-B18D-E8944B764C2C",
+    "height": 40,
+    "width": 593,
+    "x": 392,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "floating-message-alert/success copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C33A9AC4-F06C-4EDD-A1FF-644FDBA44281",
+      "overrideName": "663AB44F-12C9-4633-B28F-57DDF9104AEE/816FCC3A-C3F1-4BC3-BEAC-9A1C2CA923E5_stringValue",
+      "value": "Holy guacamole! You should check in on some of those fields below. really!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D03B5CE5-9017-4EA1-BD69-041879448AF1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "118AB69A-9FBE-46C2-8CBA-F0910E46E60E",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C9786B07-0D60-4599-A58E-707A24A16513",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A02F58C7-306D-49C6-A6EA-CB0690917B55",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D594706-0868-4E7E-AB7C-8859EA4D306D",
+    "height": 546,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1E9E0368-2CE7-4D0F-991C-EF8407819C50"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7E6E1B6-719F-42EA-9052-EFD5FC301B3F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B119499-665E-48D6-B60E-F8EDE066942E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ECAD1C54-2C3F-4602-BC51-62C48D8AF50F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E86A5BAA-1A8C-40A5-AE74-C10D74361E2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "333B9606-105A-4D05-ACC1-1CEF2156C7B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "070C3C5F-474A-4CB9-BBAF-4DD0B109610E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5DDCC9B6-08C5-4174-BBD1-6930E5BCDE2D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8F998FE-10B1-4E75-9AC6-016B948A0882"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD47DE91-D5DE-4194-8B28-49EC0DFB0E2F"
+    }
+  ],
+  "name": "item",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0E05F046-CBAF-4686-BAC2-D248845F9217",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

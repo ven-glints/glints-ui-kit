@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE10046F-1039-4E3F-B990-313FC7B6599A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28C8BC20-2001-483D-93F3-596A9CB56E87",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7004A4C-528C-4AF2-B74C-6EF9B73ECBAB",
+    "height": 17,
+    "width": 240,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Card/Desktop/Component/Timestamp",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F02850E-8BF0-48D6-A0A9-E88D7874E108",
+      "overrideName": "D7B95458-63D0-43A5-BFF9-7C24A4C50844_stringValue",
+      "value": "Last modified on September 5, 2018"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "51786737-7C21-47EF-A681-DBD831F5E080",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "165FB3A9-02CE-4BA7-AFB9-28D4BBC43721",
+  "verticalSpacing": 0
+}

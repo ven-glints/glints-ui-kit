@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A8F199AA-D51A-435C-9D1B-9806D973836F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B4EF86B-895B-4D8D-9347-3BCACA154ECB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F5D85A80-3A2A-4DCA-BF2A-2BF9A6C2099E",
+    "height": 1118,
+    "width": 290,
+    "x": 2244,
+    "y": 1307
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "05C049F7-6F24-4B80-8CDE-064D4B067ACA"
+    },
+    {
+      "class": "group",
+      "id": "00FF7F2C-738D-4440-AD19-79633E0EE81F"
+    },
+    {
+      "class": "group",
+      "id": "D6D6B7BF-525D-4DBA-A04A-F04C5309F532"
+    }
+  ],
+  "name": "salary dropdown",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B483C1EF-47A6-4A40-84DC-4E5341DCC898",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

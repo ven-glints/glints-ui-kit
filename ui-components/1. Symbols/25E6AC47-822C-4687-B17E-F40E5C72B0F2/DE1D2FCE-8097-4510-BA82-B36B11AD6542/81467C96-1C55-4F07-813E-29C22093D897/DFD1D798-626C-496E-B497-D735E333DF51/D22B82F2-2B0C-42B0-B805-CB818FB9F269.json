@@ -1,0 +1,54 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "D22B82F2-2B0C-42B0-B805-CB818FB9F269",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0BDB4610-A576-4F77-B5FC-D7EC4295E9D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A55BDEDA-B67D-426C-8DD6-7E87314828A5",
+    "height": 382,
+    "width": 520,
+    "x": -1,
+    "y": -93
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/7ed5438f9ae74a3ffbcfa1ab3584a403f15d0065.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "stock-photo-asian-business-people-team-drawing-on-white-wall-whiteboard-with-sticky-notes-creative-real-office-364217699",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25B919D0-FA52-4289-A675-27F15D82BD3B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

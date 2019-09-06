@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6DEF77AB-07F2-4383-9E31-D5C2550FB908",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "33722053-A841-4A9F-B641-F703F2452580",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63F15104-D83D-413D-A28C-182B363D9032",
+    "height": 23,
+    "width": 292,
+    "x": 0,
+    "y": 43
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "career-list",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C789E0D-CD33-46FA-9A15-4BB87DE2966C",
+      "overrideName": "BAA0230E-9B61-4AEF-AFB2-F65254F8CD12_stringValue",
+      "value": "Design"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "43752396-696D-4884-9B2F-E123188FF286",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DE10157D-3618-4B3D-BB27-EE9EC9683A56",
+  "verticalSpacing": 0
+}

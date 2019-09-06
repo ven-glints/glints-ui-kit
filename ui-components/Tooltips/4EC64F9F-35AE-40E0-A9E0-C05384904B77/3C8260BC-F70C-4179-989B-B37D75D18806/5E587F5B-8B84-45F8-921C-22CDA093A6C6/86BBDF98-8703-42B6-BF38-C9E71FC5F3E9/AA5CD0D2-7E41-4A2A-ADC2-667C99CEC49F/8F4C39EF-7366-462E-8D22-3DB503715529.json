@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F4C39EF-7366-462E-8D22-3DB503715529",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0CC946EA-CA37-44F4-B6D1-8A6A2817B3DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1638273A-B62C-4A3C-9F3D-5C3D4EEAE34A",
+    "height": 475,
+    "width": 336,
+    "x": 366,
+    "y": 505
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Application Card 336px/Special Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7FB00EFF-A52E-438E-85E8-A862E6B23E4B",
+      "overrideName": "776F6A3D-925F-4520-8AA4-23A977FC644A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d372bc1892dc839d4e07a9fb438f5c348d7c83d8.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9938C988-20FB-4041-864B-B858E9C8A159",
+      "overrideName": "65324110-EE4E-4B54-9EAF-3BF4AEE76286_stringValue",
+      "value": "Marketing Manager"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4F746929-7431-4A54-9C44-8154F9DE0CC1",
+      "overrideName": "76AE744B-F218-4661-8D5A-398EF0385742_stringValue",
+      "value": "AACT International"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18AB29E9-8F0F-4F8B-B4EC-363FBFAF36F7",
+      "overrideName": "5D679D70-E169-4A62-9BB5-FF5024FABA32/CB791738-7AE8-451B-9F80-0644A6B3B750_symbolID",
+      "value": "F8527D24-2509-457C-A141-B8EE1417DA18"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "73E81F74-B06E-40C7-B2D9-27915E311B7C",
+      "overrideName": "D601A4A2-C3B0-40CE-B36E-FAC5E6340709/DC974953-0783-4C26-984C-E23E1DE16261_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d372bc1892dc839d4e07a9fb438f5c348d7c83d8.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D7A616C-41AA-4009-BD8D-EEFC5478B630",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "11A6039B-97DC-4F03-9A7D-9B0F9205D045",
+  "verticalSpacing": 0
+}

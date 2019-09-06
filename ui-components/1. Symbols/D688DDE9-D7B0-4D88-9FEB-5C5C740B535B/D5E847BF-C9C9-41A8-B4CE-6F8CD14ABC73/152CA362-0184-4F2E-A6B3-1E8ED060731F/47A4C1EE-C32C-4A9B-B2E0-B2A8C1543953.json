@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "47A4C1EE-C32C-4A9B-B2E0-B2A8C1543953",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A9F6935-7BB8-4DC2-A5DA-6826EC10A04B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F6B8500E-80A2-4C70-885D-66C745F1B7C6",
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 240
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sidebar Mobile/Menu/Default Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FE91E6EA-68CA-444D-BDDA-063D9DB98BCC_stringValue",
+      "value": "BLOG"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9BF31FAD-23DB-4CE9-B44E-18AC52016B98",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "25B8D99E-9A24-434A-9BB3-DE61AC816832",
+  "verticalSpacing": 0
+}

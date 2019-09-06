@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "70CBBB5C-22C2-4F1A-9E3F-07CCDBA194C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C8A2B06-30C5-42B8-87DF-6A28A40A029E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "18EB4268-5555-4E5E-A076-C8D279304DFC",
+    "height": 23,
+    "width": 325,
+    "x": 331,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "jobdetails-bullet-info",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C2BA3612-6EA5-43EE-AB5A-B56AE5AD50BE",
+      "overrideName": "63D3F673-C9D2-4F56-A678-6AFE9D26BC28_stringValue",
+      "value": "Basic salary of IDR 7,000,000 - 14,000,000"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A83E4DD9-CDD8-49A9-AF03-ABDBBA868610",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DACF69C7-0436-4EDD-B9D3-1E1209FEDBE9",
+  "verticalSpacing": 0
+}

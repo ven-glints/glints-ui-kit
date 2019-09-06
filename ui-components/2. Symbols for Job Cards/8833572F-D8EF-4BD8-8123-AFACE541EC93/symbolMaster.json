@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FBA562EF-F9C8-4158-99B2-428AC30090F8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1787,
+  "clippingMaskMode": 0,
+  "do_objectID": "8833572F-D8EF-4BD8-8123-AFACE541EC93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A4FD1F1-D8BF-48E2-A869-E3973E79A524",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "776B83DD-523B-4547-BC3F-10B8BEECBC81",
+    "height": 122,
+    "width": 406,
+    "x": -1368,
+    "y": 1825
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DD146EFB-1EF1-41C2-BE37-E3365D6AF992",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B5A9D046-7324-4DE1-A7A4-8DCF401DA6F5"
+    }
+  ],
+  "name": "Job Card/Desktop/Component/Salary Regular",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BD3EE28C-A69A-4A2C-8554-574A1BC3E243",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5D732467-7EC2-41CC-B583-DAA9C7473B71",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "63F208A0-EFBB-40B6-B542-B974AF61AFA4",
+    "guides": [
+    ]
+  }
+}

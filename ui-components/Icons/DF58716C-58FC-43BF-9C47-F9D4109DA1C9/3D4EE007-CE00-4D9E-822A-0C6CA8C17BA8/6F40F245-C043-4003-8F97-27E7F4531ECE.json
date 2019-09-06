@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F40F245-C043-4003-8F97-27E7F4531ECE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C24CF73-308E-4DD9-B5CB-01EC3D22D819",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D6109747-3CEB-4A8D-941D-0C970B8CD7F1",
+    "height": 100,
+    "width": 100,
+    "x": 150,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/employer-checkmark-circle",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0B433328-C247-4060-A26F-E88A54A908BB",
+      "overrideName": "3F83C2C5-593E-4A2C-9C47-A02152390E16_symbolID",
+      "value": "39D82034-4426-4EBF-B848-A822A1E735AD"
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA2EB462-01AC-4B5C-916B-AB288A05DFBC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2184EC46-E325-4E4C-A59E-779FAF6A32B8",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AFF00B99-680E-4621-A26D-06ED1531D63C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E0EEE40-0FC7-4316-A08B-0FE0B7909560",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "62F8F725-DE05-4872-93C7-045665B74758",
+    "height": 15,
+    "width": 15,
+    "x": 0,
+    "y": 7
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/candidate-quotation-mark",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF685FDC-CB39-4B03-A8DB-7A1282975DBC",
+      "overrideName": "8BA37B63-B65D-440F-AF44-39627169A759_symbolID",
+      "value": "8BC34B4B-59CE-477F-9624-61B153BF5C45"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BAFDF71C-80EB-4C3B-A36E-7B91516CC167",
+      "overrideName": "08A492C4-1437-46E2-9C8C-9B13B746B3EF_symbolID",
+      "value": "8BC34B4B-59CE-477F-9624-61B153BF5C45"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4B31A70-0DF1-4F65-A10D-F70CF382E2E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3F234A09-91A4-495C-A096-919CA3DDF59F",
+  "verticalSpacing": 0
+}

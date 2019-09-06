@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A929BECD-9B77-4776-9DF2-74613D49CCFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "36000679-E10B-436C-8071-121AA9A7AAF0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B93626FF-A5D4-4471-9F3A-67F97AB53FCA",
+    "height": 61,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1724165F-D365-4F8C-A042-BFC6C9628019"
+    },
+    {
+      "class": "text",
+      "id": "BCB789CF-BE88-4046-B86B-9A5C4B64644E"
+    }
+  ],
+  "name": "signup active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4030270-A723-410B-BACB-3A3DE78DA5C3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

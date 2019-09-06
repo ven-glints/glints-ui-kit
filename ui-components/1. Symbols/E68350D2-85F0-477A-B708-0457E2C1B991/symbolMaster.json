@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DEF8CC10-609E-4A95-B535-0811FA465EC4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1038,
+  "clippingMaskMode": 0,
+  "do_objectID": "E68350D2-85F0-477A-B708-0457E2C1B991",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "00B48119-5F20-4A68-89B6-DA7F35A2FBED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D6AE1BCE-CB53-4A44-AC5C-7F24257BD6CB",
+    "height": 23,
+    "width": 300,
+    "x": 2254,
+    "y": 575
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0A452ACD-3103-4FFE-A2D5-32009390B7C6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3635964E-2737-42FA-8C00-57FD767F1E89"
+    }
+  ],
+  "name": "Button/Mobile/Text/Grey",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B5BDAF4C-488D-4BC3-9F26-B724AFCE0FA7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "56DFB3FC-5CE5-47CE-8CC7-73659B545352",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "16399E06-3EDE-41F4-8C1F-1EC6C517AC2F",
+    "guides": [
+    ]
+  }
+}

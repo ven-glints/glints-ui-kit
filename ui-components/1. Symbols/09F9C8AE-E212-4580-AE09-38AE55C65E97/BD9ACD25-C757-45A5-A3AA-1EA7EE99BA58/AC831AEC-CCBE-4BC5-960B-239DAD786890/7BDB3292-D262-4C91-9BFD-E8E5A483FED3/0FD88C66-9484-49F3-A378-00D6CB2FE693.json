@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0FD88C66-9484-49F3-A378-00D6CB2FE693",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "43A35CA1-620F-48E4-A109-E861244E44A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "25D1F6EB-3A05-46BF-81B1-584676438985",
+    "height": 10.35000038146973,
+    "width": 10.35000038146973,
+    "x": 38,
+    "y": 5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/candidate-arrow-down",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "209842BE-56C3-4D26-81C5-4D48B226A526",
+      "overrideName": "4081178B-72C7-4EA3-A834-4995CACF4953_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "048DF5D6-81BA-4FBF-B5A8-A8E4E7B022EA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5A879009-EFA0-448D-A6E8-FD7019908D04",
+  "verticalSpacing": 0
+}

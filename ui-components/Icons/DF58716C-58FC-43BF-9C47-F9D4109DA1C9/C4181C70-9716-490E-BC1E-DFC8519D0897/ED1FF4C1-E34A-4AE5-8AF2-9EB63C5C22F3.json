@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "ED1FF4C1-E34A-4AE5-8AF2-9EB63C5C22F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B1DBEAF-D7A8-42E4-9F4B-D80B5CC60CC6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2B50C9FA-4701-4FB7-8083-B187CB274F14",
+    "height": 99.99999999999997,
+    "width": 100,
+    "x": 150,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/employer-upload",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F92150A6-F38E-4189-B9F4-EBBD9713BC97",
+      "overrideName": "F7F3D286-734E-4DAB-BD76-C5DE261E77DF_symbolID",
+      "value": "39D82034-4426-4EBF-B848-A822A1E735AD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0AD0E06D-D146-47E5-B369-0B9073A4918B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0031B1FE-5EBE-4618-B828-AA20E5A0E616",
+  "verticalSpacing": 0
+}

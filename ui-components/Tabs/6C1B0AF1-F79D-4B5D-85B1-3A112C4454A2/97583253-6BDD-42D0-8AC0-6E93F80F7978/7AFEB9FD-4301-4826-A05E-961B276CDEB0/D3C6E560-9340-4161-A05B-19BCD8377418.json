@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D3C6E560-9340-4161-A05B-19BCD8377418",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "30A01FC9-99FE-4F9C-A009-44E3AE8ECEC9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "182DFCF0-80C0-448F-BE4C-B060E77165C5",
+    "height": 63,
+    "width": 210,
+    "x": 0,
+    "y": 63
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashboard sidemenu/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A462A161-8472-437D-B2DF-1DDB00BB6396",
+      "overrideName": "0D46BC5F-98B7-4753-8E77-E0E1DC3E75EA_stringValue",
+      "value": "MY APPLICATIONS"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0844B19B-CF73-4BE7-9946-4E825E9ED95C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "428C9ABD-4038-419C-A1A6-7DE496C44F07",
+  "verticalSpacing": 0
+}

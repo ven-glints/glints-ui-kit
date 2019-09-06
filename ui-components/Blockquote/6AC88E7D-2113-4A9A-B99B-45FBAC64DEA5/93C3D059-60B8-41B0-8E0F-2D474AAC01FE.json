@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "93C3D059-60B8-41B0-8E0F-2D474AAC01FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F4911F22-9AAA-4B25-8A70-C70A7EEEC146",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "850906E4-FF04-43C1-B195-433DD4F81E50",
+    "height": 615,
+    "width": 266,
+    "x": 1740,
+    "y": 297
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bq-mobile-candidate-no-pic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF7E7649-7D4F-443B-A932-6B87D54D86E3",
+      "overrideName": "7CC3B81C-6620-4F6F-8922-1FBD31E6FD91_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8440e930a0ada8e7096cf9521d71bd89b9d13742.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70D97B5A-F720-4C9C-9401-8572541B1641",
+      "overrideName": "0605A7B3-3C36-4B22-9766-DD182C35AB68_stringValue",
+      "value": "Zai Muhd"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A3C3B44-3B08-41D6-B56D-A10E30E1E1F0",
+      "overrideName": "53E8C9A4-75C6-46E6-B39A-973688F15979_stringValue",
+      "value": "National University of Singapore"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C9E6D03-37D6-4476-BB3F-EF55836BC10E",
+      "overrideName": "19095F0D-DCDD-4BFA-B932-88288A78BAAE/749DF537-2323-47CD-8EB5-62219D1A08E4_symbolID",
+      "value": "123D7151-544B-40D9-9266-C556A878035A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F947D194-5F8F-43F7-AFB4-98AB833BC26F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE7D3A88-9E83-4E2C-820B-596D489CB2FE",
+  "verticalSpacing": 0
+}

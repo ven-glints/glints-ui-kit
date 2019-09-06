@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "105CF77F-92CC-4405-BE38-991A290CD851",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 281,
+  "clippingMaskMode": 0,
+  "do_objectID": "73CE9BB4-1F7D-4D39-9034-A090974ED13C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A7B05757-D9CC-4B17-A789-A3DF82F71CDA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33CA4B11-4635-4334-A3B9-115CC6AFBFAB",
+    "height": 46,
+    "width": 406,
+    "x": -1368,
+    "y": 2486
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "12903A9C-C9B3-40DD-80B3-089A4F1F6093",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A54FCD7D-B243-445C-B238-0C8B83B40938"
+    }
+  ],
+  "name": "Job Card/Desktop/Component/Salary-Data/Item",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F6CB4FF0-5BD3-4574-A081-C969013EE2D9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "88CA64FE-507B-4899-A78D-257EAFC42554",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7E74AC90-31E8-44FC-85F1-875475105205",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6A3A8914-9B48-4F78-AA46-40A840581D17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E49B455-68D9-41FB-9A5E-EADB49D9CDEA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F13BA3FE-A650-438D-AB66-ABBA62B85A6C",
+    "height": 14,
+    "width": 14,
+    "x": 107,
+    "y": 10
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "093838AC-8E4A-4C65-A888-29F1D3F10537"
+    },
+    {
+      "class": "shapePath",
+      "id": "6AB20D3A-64B9-4F1B-A39F-36F587E5DB54"
+    },
+    {
+      "class": "shapePath",
+      "id": "61F9D0FB-216E-439A-B744-4F56D81851AE"
+    }
+  ],
+  "name": "question-circle copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9C07E5A3-8757-4D2F-A4C0-28CE95A51C49",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

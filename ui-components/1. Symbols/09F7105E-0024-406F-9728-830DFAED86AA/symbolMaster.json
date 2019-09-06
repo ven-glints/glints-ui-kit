@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B51E8350-029D-48DE-80E8-DB06E4208537",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 869,
+  "clippingMaskMode": 0,
+  "do_objectID": "09F7105E-0024-406F-9728-830DFAED86AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ECF35656-B58E-4147-A7F2-5E9FBD50E3AE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8FEB7599-EBD0-4BCB-AE05-52D387C4F932",
+    "height": 53,
+    "width": 138,
+    "x": 33985,
+    "y": -444
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6C76C9F6-CD2B-4650-8CF7-334AAA9ADF86",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0380D39E-B0DD-4D7E-A294-001DB6031A3F"
+    }
+  ],
+  "name": "filter/heading-default-with badge",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D7CE881-7A5F-4944-A703-20C6798B628C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "11C5DC41-3547-472B-AE8A-3D6A69C49595",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D62BC2A0-0152-4CDB-9769-365D9031D578",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C27D79CD-8E40-4788-BA58-A6C52F04379F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1193,
+  "clippingMaskMode": 0,
+  "do_objectID": "915026B7-EF20-456B-BAE4-0013DB430E61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "69A234B2-9F53-4C6E-B353-FCA123B21378",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43B14002-82BB-48D5-8BED-8949A231AD5B",
+    "height": 55,
+    "width": 55,
+    "x": 17645,
+    "y": -616
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3C781522-353D-4DEA-B66D-6FBAE8789194",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8A26D460-3A62-491E-86C8-3B5BB4BA12D1"
+    }
+  ],
+  "name": "✱/Color/BG-success",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89F76998-0139-45C1-9393-951A1AE4ED7F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A7D6EA63-0870-43F9-BFED-EB68FBB145F6",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AB1EE2A5-7B80-460E-AFCC-5A74DD2BD983",
+    "guides": [
+    ]
+  }
+}

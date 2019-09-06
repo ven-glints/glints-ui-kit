@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8848B2D8-4159-4D06-9A39-028C1DE76975",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DFE0AC58-942C-497B-9D68-F74738E65957",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82B0FFC5-5A06-4D8A-9E9A-544B807ABB7D",
+    "height": 23,
+    "width": 440,
+    "x": 0,
+    "y": 66
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59A28DA4-B16E-46CA-880A-D76AB9BD46C8",
+      "overrideName": "020EA173-5452-486B-9B19-D74A91546517_stringValue",
+      "value": "Company management"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "83703A4B-0DE2-4095-92CD-E1738CE7BE5E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "14889267-9383-4AAA-BA0D-E019592A3D00",
+  "verticalSpacing": 0
+}

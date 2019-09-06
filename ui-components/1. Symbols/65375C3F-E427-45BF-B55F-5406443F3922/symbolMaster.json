@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8D5162F8-C73D-419A-BBB6-3D80EC615B74",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 626,
+  "clippingMaskMode": 0,
+  "do_objectID": "65375C3F-E427-45BF-B55F-5406443F3922",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6235E4AF-C21F-40B2-BDE9-F66986066433",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0183E3D3-1FD8-4D0C-94BB-A0F917B807E9",
+    "height": 23,
+    "width": 49,
+    "x": 22354,
+    "y": -278
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "11D5AC7D-A603-4A11-8C21-BC70957DDF1B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "769ECF3C-B56E-4DEE-821C-F6DEAD9697AA"
+    }
+  ],
+  "name": "dashboard/horizontaltab/employers/hover",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2C98F121-F8A3-450F-8909-BF166CE2DB64",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F941D4DE-F580-47F9-8568-40D48A4E46F9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "15B0267A-133E-422D-A560-F86A19CC75FB",
+    "guides": [
+    ]
+  }
+}

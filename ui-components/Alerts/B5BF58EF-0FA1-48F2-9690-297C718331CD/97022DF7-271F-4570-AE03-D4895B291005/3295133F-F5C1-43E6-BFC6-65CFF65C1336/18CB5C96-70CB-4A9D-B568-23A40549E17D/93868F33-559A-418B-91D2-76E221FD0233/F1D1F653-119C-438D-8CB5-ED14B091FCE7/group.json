@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F1D1F653-119C-438D-8CB5-ED14B091FCE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "931E46EE-DBA3-47FE-A2A4-224AE0B0AEAC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC570614-EDA0-4870-94EA-F62091CF1219",
+    "height": 17,
+    "width": 103,
+    "x": 0,
+    "y": 708
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FAB34C92-7837-4327-8F6A-D24D88556249"
+    },
+    {
+      "class": "text",
+      "id": "5E734446-E28B-4CB8-B082-80EC3ED53215"
+    }
+  ],
+  "name": "report",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "334B7241-995D-484D-814A-1887E67DAF2B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D35ECAA9-94F2-4594-B519-AF18293A7904",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F7BA520-72FF-4044-B856-1E822DBD4E52",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79EAC89B-0930-4987-B330-B4DED6E170C4",
+    "height": 75,
+    "width": 185,
+    "x": 100,
+    "y": 25
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Card/Desktop/Component/Title 3-lines",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E54753CF-541D-4C77-B1D2-7EB1B9CAAA5D",
+      "overrideName": "E3E97219-3816-4DEC-832D-D2FD5040570D_stringValue",
+      "value": "Sales & Marketing (Business Travel Opportunities)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7A3E6B6-9ACB-409B-9C67-FD089BE56C5C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B0CF3B4E-4DD2-4154-A6D4-2097DAAA2C47",
+  "verticalSpacing": 0
+}

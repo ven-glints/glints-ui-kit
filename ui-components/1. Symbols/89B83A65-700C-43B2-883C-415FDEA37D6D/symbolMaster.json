@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "259F2A56-84D3-492F-B60D-72A95263355A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 711,
+  "clippingMaskMode": 0,
+  "do_objectID": "89B83A65-700C-43B2-883C-415FDEA37D6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04C22C83-3E27-403E-8546-0B4D99391A2A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "677721CA-79C2-46E1-9E1C-88A905A19F33",
+    "height": 33,
+    "width": 250,
+    "x": 44922,
+    "y": -906
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8C1B59C5-2C4C-4388-AF71-ED5D7D3723AB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AC4FFAD5-69AA-4EAE-B621-EEE47B2EE94A"
+    }
+  ],
+  "name": "Status of Application/Interviewing",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A472DE36-50AE-49DE-99A1-416D6D0BEF1D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F8527D24-2509-457C-A141-B8EE1417DA18",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "11812F9C-B70C-4487-8D9A-8D27CE232E33",
+    "guides": [
+    ]
+  }
+}

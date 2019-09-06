@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D18BE8CE-FA12-4233-9B3F-0EAAD185BE01",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9E79EBD2-558E-4226-87BB-BD729D7B31BC",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "795A944A-8CA6-46E9-AED5-33F911C196BA",
+    "height": 14,
+    "width": 14,
+    "x": 64,
+    "y": 10
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/help-solid",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03BB74B9-4B97-4D69-80B7-3C80A7B1FB10",
+      "overrideName": "B068D383-2155-4233-8AA4-DC08DA99D127_symbolID",
+      "value": "8BC34B4B-59CE-477F-9624-61B153BF5C45"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9828C8EE-E968-45C8-B383-CEACDD6FD46A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "41C1C25E-B854-40E0-811A-A9C37C24DBC7",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DE7AE9E1-F38E-407C-AAAD-832B5A15ED1F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1945,
+  "clippingMaskMode": 0,
+  "do_objectID": "793CBF2E-27A5-47B5-936A-BB5EDDBBCC65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A4A8941-9EA9-4C09-9AA6-01974A7E9850",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A91423EC-8B60-4B47-B946-677CB156170D",
+    "height": 50,
+    "width": 105,
+    "x": -1395,
+    "y": 2959
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "035B2087-C096-46DD-981A-06899FC9C0AC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2EDB2BA9-A494-44C0-8C90-97430CEAE941"
+    }
+  ],
+  "name": "Job Card/Mobile/Component/CTA/Details-Focus",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D9B218C-3B03-430B-BDDB-FDE793A9478B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E4660AD2-5B77-4DE3-9B2A-4516090433E5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B58D258D-4EF7-46C1-9E78-59262BE6594F",
+    "guides": [
+    ]
+  }
+}

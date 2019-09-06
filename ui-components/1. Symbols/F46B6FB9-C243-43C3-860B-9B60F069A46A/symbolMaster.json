@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BB5F3156-56BF-45D2-A1CF-2BA8DF5200C5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 401,
+  "clippingMaskMode": 0,
+  "do_objectID": "F46B6FB9-C243-43C3-860B-9B60F069A46A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34253D4E-1E7A-49B9-98E1-9664E638C26D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B7D38FB7-7261-415F-957C-A2273FE3CE9C",
+    "height": 53,
+    "width": 300,
+    "x": 100,
+    "y": 2072
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0A890C96-3488-4EBC-B37C-515DB4D2B6D2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0FD04715-89DC-46FA-9455-DF1CE0252562"
+    }
+  ],
+  "name": "Button/Mobile/BG/White",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B394677B-346C-41BA-9DB1-322B0DB4869B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "62D299B6-1C04-4DEA-BB49-A92690A6CF59",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7BB33CA7-9B6C-4945-BF47-0EBEF5183C76",
+    "guides": [
+    ]
+  }
+}

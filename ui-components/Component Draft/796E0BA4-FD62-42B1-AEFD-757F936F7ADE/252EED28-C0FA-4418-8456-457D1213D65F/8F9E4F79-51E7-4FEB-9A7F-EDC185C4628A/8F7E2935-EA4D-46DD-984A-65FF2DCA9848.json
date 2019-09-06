@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F7E2935-EA4D-46DD-984A-65FF2DCA9848",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "023FA9CD-C04B-48D5-8CC5-025B761CA766",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A406CE0-86E4-476F-A834-A89E00FA7AAF",
+    "height": 23,
+    "width": 440,
+    "x": 0,
+    "y": 132
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9EA27D1D-D0CC-4EA6-87B2-10309B508508",
+      "overrideName": "020EA173-5452-486B-9B19-D74A91546517_stringValue",
+      "value": "Other"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F8FE9C3B-FAC5-40A1-9AFB-2315A72F8C99",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "14889267-9383-4AAA-BA0D-E019592A3D00",
+  "verticalSpacing": 0
+}

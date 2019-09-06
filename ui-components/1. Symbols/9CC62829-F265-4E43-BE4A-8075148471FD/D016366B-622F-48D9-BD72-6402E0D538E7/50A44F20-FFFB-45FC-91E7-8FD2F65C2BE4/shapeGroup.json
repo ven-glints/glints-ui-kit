@@ -1,0 +1,150 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "50A44F20-FFFB-45FC-91E7-8FD2F65C2BE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 100,
+    "width": 92.85714285714285,
+    "x": 0.5406162464969384,
+    "y": 0.2800118689447118
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E5826D68-FAFE-400F-86C0-CF34E19E3EBE"
+    },
+    {
+      "class": "shapePath",
+      "id": "2EF51567-4FAB-4FCA-8F7F-37BA71601C58"
+    },
+    {
+      "class": "shapePath",
+      "id": "79F956BA-5D1D-4C13-936B-CE16DF32451E"
+    },
+    {
+      "class": "shapePath",
+      "id": "034C9807-FB5B-4416-9C6B-820F6E284963"
+    },
+    {
+      "class": "shapePath",
+      "id": "5365FD36-8334-4BA7-B178-839EBCA7F9F7"
+    },
+    {
+      "class": "shapePath",
+      "id": "0C1FC3F6-E71B-4DC8-AC71-0A4982423EB2"
+    },
+    {
+      "class": "shapePath",
+      "id": "73BBFBE5-E0E4-401E-B754-D89C7E23977B"
+    },
+    {
+      "class": "shapePath",
+      "id": "A3D605D5-D1A2-4A84-8C9D-E9F39F1AB3A1"
+    },
+    {
+      "class": "shapePath",
+      "id": "AF9E4035-2780-4C74-9F58-1A814C5A785D"
+    },
+    {
+      "class": "shapePath",
+      "id": "7DDA169D-1C8E-43B8-967B-29210A061B0A"
+    },
+    {
+      "class": "shapePath",
+      "id": "AD90D990-4696-4E09-87AA-E99744EE0FEE"
+    },
+    {
+      "class": "shapePath",
+      "id": "1E75975C-6DF3-412D-AAC1-9D6D6F3AF6E4"
+    },
+    {
+      "class": "shapePath",
+      "id": "B4D9A9D9-1D5B-4FB3-BD43-45E4FA403FFF"
+    },
+    {
+      "class": "shapePath",
+      "id": "0B0E739C-4DDF-44E4-845E-81AED0D46439"
+    },
+    {
+      "class": "shapePath",
+      "id": "AF79701E-78EF-4768-BBBF-41D22C818B20"
+    }
+  ],
+  "name": "calendar - FontAwesome",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4666666666666667,
+          "green": 0.4666666666666667,
+          "red": 0.4666666666666667
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4666666666666667,
+          "green": 0.4666666666666667,
+          "red": 0.4666666666666667
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "FontAwesome",
+            "size": 50
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

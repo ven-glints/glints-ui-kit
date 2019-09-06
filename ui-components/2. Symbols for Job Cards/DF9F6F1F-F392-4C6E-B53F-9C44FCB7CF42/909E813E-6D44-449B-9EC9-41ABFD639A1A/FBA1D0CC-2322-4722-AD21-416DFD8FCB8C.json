@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FBA1D0CC-2322-4722-AD21-416DFD8FCB8C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68E96FEA-7E74-4458-9E78-8143CA7F301D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E7F1154-EEC1-4E2A-A50A-A510B24AA398",
+    "height": 80,
+    "width": 270,
+    "x": 15,
+    "y": 277
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Card/Desktop/Component/Desc-text",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4C43673F-6098-4A83-827F-0867DDB9C99D",
+      "overrideName": "9A24D1E2-7AEA-46C5-9495-BB808D17FF57_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipicing elit. Nulla quis sodales purus, lobortis congue tortors. Ut scelerisque malesuada efficitur dil…"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F12B35AA-6EDA-45E3-8426-7F1D6C63C881",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B96DC27A-E8E4-4FE9-A8CD-3E7FF00605C3",
+  "verticalSpacing": 0
+}

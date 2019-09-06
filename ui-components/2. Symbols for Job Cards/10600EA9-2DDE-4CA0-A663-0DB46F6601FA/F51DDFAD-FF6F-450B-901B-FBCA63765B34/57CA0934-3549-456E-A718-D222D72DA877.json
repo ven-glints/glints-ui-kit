@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "57CA0934-3549-456E-A718-D222D72DA877",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E481FEC2-9A3B-418A-A227-0979A114AB17",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E69AB31C-2718-4E93-AE0D-DEF25DA3515B",
+    "height": 23,
+    "width": 406,
+    "x": 0,
+    "y": 99
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Card/Desktop/Component/Salary-Data/1-line Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DA2B8215-2909-41D9-BA49-CFFA311BE05D",
+      "overrideName": "0328FBE0-E1DD-4E81-9F30-D3DDCAD80811_stringValue",
+      "value": "Basic Salary of IDR 9 Mil - 13 Mil"
+    }
+  ],
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A4F4EE2-10D2-48E4-874B-550CEF1D2543",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "88CA64FE-507B-4899-A78D-257EAFC42554",
+  "verticalSpacing": 0
+}

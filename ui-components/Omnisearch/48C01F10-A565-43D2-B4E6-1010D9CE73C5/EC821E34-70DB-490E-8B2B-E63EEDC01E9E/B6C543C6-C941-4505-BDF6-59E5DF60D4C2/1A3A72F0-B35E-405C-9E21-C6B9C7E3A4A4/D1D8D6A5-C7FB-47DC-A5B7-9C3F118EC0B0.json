@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D1D8D6A5-C7FB-47DC-A5B7-9C3F118EC0B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5F759485-186D-4FEE-BC99-AF6C5FC6FB5A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA8CC395-1EA9-4CF4-B449-5456DB548C76",
+    "height": 40,
+    "width": 333,
+    "x": 0,
+    "y": 100
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "company-list",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "305FCC46-57CE-4C75-848A-683E6F4264EF",
+      "overrideName": "F5CDC662-E4F6-4117-A16E-8CFCEF3DA3B0_stringValue",
+      "value": "Shell Engineering"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D1800977-DFFC-4230-83E8-0A0C1F4D7AFE",
+      "overrideName": "E8268D0A-F1AE-459A-9536-791337F4A6A1/E84D56F5-1EEE-4B9B-BE01-FB08F9A7F1FB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f9ba5ad38d582e1e61e149b45ecfe5fe87b05d07.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CD4E8BD2-6453-47FF-926A-4471468796BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1F0D4D58-6BA4-4E11-A405-F1D7C4841B48",
+  "verticalSpacing": 0
+}

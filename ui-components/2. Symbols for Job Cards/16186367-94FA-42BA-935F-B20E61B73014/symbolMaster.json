@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6CABFEEF-32BF-4817-A011-4A4791C73DE7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 6316,
+  "clippingMaskMode": 0,
+  "do_objectID": "16186367-94FA-42BA-935F-B20E61B73014",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FA3336F-BC74-48B3-B934-62D302BDB123",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A6E26431-2D08-480C-A896-526F25998BE2",
+    "height": 155,
+    "width": 406,
+    "x": -1368,
+    "y": 1372
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5351CFB2-D1CB-497A-82DB-EFBBD62F26B6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "42E1C48B-BF60-4505-BC2E-E30E6EC40691"
+    }
+  ],
+  "name": "Job Card/Desktop/Component/Salary with Bonus",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C9C52D1-9C84-4288-BC56-83EA126FADD3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "371216B0-5FD4-4632-9E64-657BF399B551",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "617DE0FF-F7E2-4110-8D9A-55092CB08336",
+    "guides": [
+    ]
+  }
+}

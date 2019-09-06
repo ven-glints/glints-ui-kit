@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9DC1C9B1-96E6-4EE8-93FF-63AA96B81305",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D806DE8B-3DA5-4754-9768-CF80CD5C37F6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2E2059B-778E-4E71-BC38-631844B619F6",
+    "height": 15,
+    "width": 52,
+    "x": 15,
+    "y": 283
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "omnisearch-section-heading-mobile",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D68BFBD-7FC5-4B90-882E-5D2595E49435",
+      "overrideName": "377634A5-0B5A-4A71-8235-E6261C77352F_stringValue",
+      "value": "company"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8A6DC53-6A1E-4E25-AA30-191CD8D0EEBF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "593804E6-0DC5-48A2-9941-B06B4BAE2F90",
+  "verticalSpacing": 0
+}

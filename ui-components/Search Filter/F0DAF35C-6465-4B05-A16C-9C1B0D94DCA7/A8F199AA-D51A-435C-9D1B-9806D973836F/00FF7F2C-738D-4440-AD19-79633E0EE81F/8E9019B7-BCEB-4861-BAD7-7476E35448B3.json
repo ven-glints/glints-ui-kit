@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8E9019B7-BCEB-4861-BAD7-7476E35448B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB9794F2-8BF7-4436-AFE8-0ECC6CAE1089",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06A99C89-3A04-4D7E-ADEF-61C1D5F2D1CB",
+    "height": 53,
+    "width": 249,
+    "x": 20,
+    "y": 156
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Text-Field",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0950351E-6E34-40B0-8AD5-CF857CD10E11",
+      "overrideName": "BD020F6D-882F-4804-8B8D-2993EBBE8B29_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD62650D-8F58-4B6E-8F2F-84C098875856",
+      "overrideName": "2FE7336A-9C82-4A44-B2AF-9ECEE71E35E3/73F05C0D-589D-49C7-888E-12C9983EE9FA_stringValue",
+      "value": "Search by city"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "77685EC5-A246-4972-B565-098C9225C68F",
+      "overrideName": "83274881-2620-4409-93F5-5B0A95F44681_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D0DB1BF-08EB-4E76-9198-62EF12A04E4F",
+      "overrideName": "2FE7336A-9C82-4A44-B2AF-9ECEE71E35E3/7C57F918-319D-409D-A26E-2F8BB4D57804_stringValue",
+      "value": "Search by city"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "12D05DA1-E290-46DE-AEEE-11602A8AE7A6",
+      "overrideName": "2FE7336A-9C82-4A44-B2AF-9ECEE71E35E3/B3110987-5E06-4894-A50D-B291F82B607B_stringValue",
+      "value": "Maximum salary"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7BC33770-9FB7-4928-A447-4BA2462E35FF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1AC97544-D4EF-4061-8B43-21A3A711A8F0",
+  "verticalSpacing": 0
+}

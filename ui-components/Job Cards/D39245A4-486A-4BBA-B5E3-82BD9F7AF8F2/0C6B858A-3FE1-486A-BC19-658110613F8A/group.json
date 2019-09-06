@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C6B858A-3FE1-486A-BC19-658110613F8A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "771072C5-472F-42AE-A7C2-CF13F35EEE11",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6057FE6E-D9AE-4502-9C67-3EF91EC30C86",
+    "height": 523,
+    "width": 310,
+    "x": 1800,
+    "y": 389
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "51689FC8-2DB6-42CC-B543-B957709815AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "972467F2-18AC-40CE-B771-221E474A2BB5"
+    },
+    {
+      "class": "group",
+      "id": "F744D3F3-9B59-4D65-AFF5-726D9612CB6C"
+    }
+  ],
+  "name": "Job Card/Mobile/Special",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F405691-2399-4605-941D-77CC6B06AD9E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

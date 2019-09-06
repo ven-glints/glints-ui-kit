@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5E46A147-3042-44B9-A6E0-447F7AD43697",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1095,
+  "clippingMaskMode": 0,
+  "do_objectID": "F2CF23FB-0D8E-4C45-B5EF-82859D3A3FAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31E37A46-6BFB-49ED-9E8F-2001DE953D0E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D2239CE4-B55A-4C34-9BF1-06EAB9BD6A6B",
+    "height": 53,
+    "width": 300,
+    "x": 101,
+    "y": 620
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F0945BDA-288B-4B55-B749-15A15A2E1525",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "99D2FD1B-47DA-4D69-83B3-9F13E11ED8BB"
+    }
+  ],
+  "name": "Button/Mobile/Yellow-Default",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1013F566-2868-4C2C-9874-1FBD577B1137",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4DCE98FC-8B67-4431-A89D-C9497DB1AFBF",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "131FD7DB-447E-4249-BDFA-7EFA5140C202",
+    "guides": [
+    ]
+  }
+}

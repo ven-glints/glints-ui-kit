@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3A7FB17B-A2BB-4A28-A089-239EB5AFA775",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F9BE3EE-A49F-47FD-933A-E38B551DACA1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2BD93DF9-CB2B-423D-BFF0-8CACA457A779",
+    "height": 23,
+    "width": 200,
+    "x": 0,
+    "y": 130
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7CDD80DE-065C-4EFA-B688-E1368DF46C73",
+      "overrideName": "020EA173-5452-486B-9B19-D74A91546517_stringValue",
+      "value": "Dushane Daniel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D8CCE2E-6EC2-483A-A1AE-9562518D1A56",
+      "overrideName": "2908A6C2-686D-436D-A922-F2BA6FB0A0EC_symbolID",
+      "value": "5F89DDEC-8F74-48CE-BF26-AE3995FC70AD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ECCCD00D-C962-437F-B07A-C3312ADDDA70",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "14889267-9383-4AAA-BA0D-E019592A3D00",
+  "verticalSpacing": 0
+}

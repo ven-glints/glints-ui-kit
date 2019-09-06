@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "32EA1BDE-9A89-4E51-91F8-0D33D41F92D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B8A337A-0CA3-4872-9F3F-B31441CAFD88",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "32CE6E6D-07AD-4720-9391-13F2844DF89E",
+    "height": 30,
+    "width": 30,
+    "x": 86,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/candidate-spinner",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "206BBD31-22B4-4752-9C57-163CF61B6C78",
+      "overrideName": "F361CFFB-27C9-4887-B139-AA59CCF242C8_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EEB2F7F8-BCF7-4C6B-9850-285BBDA65F99",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "17C1B1E0-947D-4D16-B7D4-DABAFD5E47C6",
+  "verticalSpacing": 0
+}

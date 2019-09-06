@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8167D0F4-9FF5-4794-8C39-9942213CB16B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B32DB5E4-D5C7-4CEB-B884-0BB336D3ABF4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F7EDF84A-ABDC-440E-B25C-EDCAC9B75159",
+    "height": 155,
+    "width": 400,
+    "x": 200,
+    "y": 4191
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A147DC94-33B2-403C-91F0-D0C2DFC06E36"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0457FA35-33CF-4BAF-8E5C-397ED0F0EFCA"
+    }
+  ],
+  "name": "fb",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "43657210-6B45-4D01-80E4-809A60DAC2DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

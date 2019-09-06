@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E5E3FFA2-8175-449C-904D-3AFC913D4C6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5EC7821-4C2B-4266-B77D-E1EA8D2BE401",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "55C877ED-AC95-4DAE-9021-C407CF66782F",
+    "height": 155,
+    "width": 400,
+    "x": 1000,
+    "y": 3178
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "75719D0D-6D7A-4ABE-A675-B1F1A8973A02"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2950BD28-7C57-4587-A975-DC667C735CDB"
+    }
+  ],
+  "name": "eye slash",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CF9036EA-CE1C-4B70-936F-766D92DCAC0B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

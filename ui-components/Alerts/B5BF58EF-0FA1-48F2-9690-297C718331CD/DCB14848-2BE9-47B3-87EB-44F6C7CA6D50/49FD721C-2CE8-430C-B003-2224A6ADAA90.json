@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "49FD721C-2CE8-430C-B003-2224A6ADAA90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1ACEC344-83D9-4F72-B031-58C4681C0DFB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0404805-9796-438F-ABD0-21526F25492E",
+    "height": 40,
+    "width": 500,
+    "x": 392,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "floating-message-alert/success copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "926D0C31-69AD-4157-9E8B-C248F4429848",
+      "overrideName": "022271B3-119B-49C5-BD23-2703F88038B7/816FCC3A-C3F1-4BC3-BEAC-9A1C2CA923E5_stringValue",
+      "value": "Whenever you need to, be sure to use that to keep things nice."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4C4B89B-F14C-4C97-ADF0-8018581382C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7E20A351-CC11-4590-8565-D8A9FAA2B76B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0804DBB2-BEBF-433A-A7E7-4B37D73CCE12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B84672CE-631F-4200-AC44-1071D01BDA43",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD209EC1-613B-4B64-985E-31FFB0A317A9",
+    "height": 63,
+    "width": 210,
+    "x": 0,
+    "y": 126
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashboard sidemenu/default copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD559A2C-2D93-4036-95D3-E1695E56DF08",
+      "overrideName": "0D46BC5F-98B7-4753-8E77-E0E1DC3E75EA_stringValue",
+      "value": "MY BOOKMARKS"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34C116D4-862F-4C39-8866-C04336DA1520",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "428C9ABD-4038-419C-A1A6-7DE496C44F07",
+  "verticalSpacing": 0
+}

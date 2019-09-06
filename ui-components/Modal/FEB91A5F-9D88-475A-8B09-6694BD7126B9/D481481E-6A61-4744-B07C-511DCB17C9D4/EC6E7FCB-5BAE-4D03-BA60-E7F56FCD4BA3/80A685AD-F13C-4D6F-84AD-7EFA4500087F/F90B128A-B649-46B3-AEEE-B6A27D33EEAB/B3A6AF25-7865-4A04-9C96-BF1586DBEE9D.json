@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B3A6AF25-7865-4A04-9C96-BF1586DBEE9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "659AD4F3-8E9D-4B5F-9BC2-344305FBF85E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1B2089E8-39A4-481B-9AD1-391D2523B270",
+    "height": 20,
+    "width": 62,
+    "x": 20,
+    "y": 10
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Mobile/Text/White",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C8C4D99C-AEF1-43BA-9E05-9648DC00F59F_stringValue",
+      "value": "REJECT"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C2742B37-6CC8-4A8E-A96A-A80AEE1D9393_stringValue",
+      "value": "BUTTON TEXT"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "823A95A3-88B6-478A-8BF3-F9E68BC5C74C_stringValue",
+      "value": "SAVE"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9F9E34A3-C4AF-428C-801B-2E43DA9CB45E_stringValue",
+      "value": "SUBMIT"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "71B68858-7B86-42B8-80FA-66E6B60D3BBE_stringValue",
+      "value": "CANCEL"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "91738BA6-5579-43A2-894D-235A100D08F9",
+      "overrideName": "D986C25E-F94C-40B5-8CE6-4E14C2F554A6_stringValue",
+      "value": "CANCEL"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2545147C-3B11-43D4-91F4-F2BA6ABC3850",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C9DB3022-4AFD-4D71-8AB7-A640D74FC9F2",
+  "verticalSpacing": 0
+}

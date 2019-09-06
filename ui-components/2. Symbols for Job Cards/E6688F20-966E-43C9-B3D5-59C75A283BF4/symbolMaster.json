@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1A927C05-FBBE-4510-9495-8B3EDF1D6C75",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1017,
+  "clippingMaskMode": 0,
+  "do_objectID": "E6688F20-966E-43C9-B3D5-59C75A283BF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A99DFDFD-CEB0-4ADA-83C1-99B5632751DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F748A28A-59A7-486C-8991-040A879ACFFE",
+    "height": 50,
+    "width": 84,
+    "x": -2074,
+    "y": 1442
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A5E614C0-D0CD-4010-93AE-9EA2FE12A368",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1BF5047F-8416-440D-AAE3-91CBEE8F98D9"
+    }
+  ],
+  "name": "Job Card/Desktop/Component/CTA/Apply-Focus",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B9A27F9-4E8A-4142-BB9E-DCCB4FFE328D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "92A33A49-91B5-4C8D-B6AA-C82112E3FCA9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "82863A72-6AE8-4720-AF33-608D65DADE35",
+    "guides": [
+    ]
+  }
+}

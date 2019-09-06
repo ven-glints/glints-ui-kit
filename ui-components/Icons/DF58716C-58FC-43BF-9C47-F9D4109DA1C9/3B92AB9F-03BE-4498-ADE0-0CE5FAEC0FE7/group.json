@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3B92AB9F-03BE-4498-ADE0-0CE5FAEC0FE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11FEED1B-CB20-476D-93E0-EBD94266D333",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9A6EFBA5-A119-461E-81A7-628D6309C56D",
+    "height": 155,
+    "width": 400,
+    "x": 600,
+    "y": 426
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "80EA5A7E-BF33-4C3E-A0AA-D5692ABFC6AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D1BC039-E76F-4BF3-B918-E48681CA2DBC"
+    }
+  ],
+  "name": "hamburger menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "39485285-7ED6-428F-BFDD-43E567D8403B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

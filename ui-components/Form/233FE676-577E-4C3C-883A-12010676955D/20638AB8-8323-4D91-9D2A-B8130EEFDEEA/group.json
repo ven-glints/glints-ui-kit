@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "20638AB8-8323-4D91-9D2A-B8130EEFDEEA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "93538CAD-115F-466D-B141-7F2C5F213D17",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D696392D-DDB5-4B07-85E1-FFE69FF43B9B",
+    "height": 62,
+    "width": 300,
+    "x": 1400,
+    "y": 289
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1147E368-B35E-496B-9944-8C83DB9EF840"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4053A501-18C6-4EE6-8DFB-5C2647532056"
+    }
+  ],
+  "name": "Text Field - Ideal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B0C4536-CDF9-4D91-B064-FD099C0D5409",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

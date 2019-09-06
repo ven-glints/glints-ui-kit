@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AA131A28-671E-4CA6-9FE9-E7B6B37D57D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66A6D913-22C6-4DF2-8BC9-9844CF6E1965",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7290C881-89C0-4D0A-A785-8A970A5B2E66",
+    "height": 40,
+    "width": 500,
+    "x": 711,
+    "y": 89
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "floating-message-alert/success",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "082B58EC-2514-4123-B960-5C267864C1F2",
+      "overrideName": "830FC60E-91A0-41F3-84F9-63699FEC1A20/816FCC3A-C3F1-4BC3-BEAC-9A1C2CA923E5_stringValue",
+      "value": "This is a simple success alert. Go check it out!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D60E0EC6-DDCF-4ED3-B6F5-0CEF38356CE4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "547A5BCB-351B-4B5D-A4B6-137946388902",
+  "verticalSpacing": 0
+}

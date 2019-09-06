@@ -1,0 +1,221 @@
+{
+  "_class": "oval",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E3CB9D97-313E-4BAE-9FEF-BA5AA37456B9",
+  "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64BA06A7-6A01-42C1-AC99-4B623C507DBF",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E2A91BB8-C3B2-491C-852F-A30BC430D24C",
+    "height": 30,
+    "width": 30,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "profile-picture",
+  "nameIsFixed": true,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.77614237490000038, 1.0000000000000004}",
+      "curveMode": 2,
+      "curveTo": "{0.22385762510000012, 1.0000000000000004}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.50000000000000022, 1.0000000000000004}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.0000000000000004, 0.22385762510000012}",
+      "curveMode": 2,
+      "curveTo": "{1.0000000000000004, 0.77614237490000038}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{1.0000000000000004, 0.50000000000000022}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.22385762510000012, 0}",
+      "curveMode": 2,
+      "curveTo": "{0.77614237490000038, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.50000000000000022, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.77614237490000038}",
+      "curveMode": 2,
+      "curveTo": "{0, 0.22385762510000012}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.50000000000000022}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "73523BAB-5DCE-4A20-9621-A35841AABA62",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.77218856292517,
+          "green": 0.77218856292517,
+          "red": 0.77218856292517
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/27cf012d2261a3f8f4884ecbd57f79642fab85ef.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVyRUTMil7kCWnTdbOX1r0EXN-dsFDxc8J8guD6P-nrQvzVgAkgBXr7gs",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqFaPoUN0z6uWF7PZd5owrIgaXYZrUAd9dzEyeKOce6NVp6wi6b8NzDM0",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPzNfz9-FUtyLmSgxxKdOJkCOMCbT1DOE7VCI2DJoPUnlTIelPDnVUJA",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLPnrvb5RICpvV6y68qyIZrROB-ccLCw8kR9MyMMoRqW13Nkdm-LOwSg",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSwbxCWQLr8NVlLkHFxolOgwuoeyTnRwVmSDoIaY7p9AAFZXvJdqHNc82jzQ",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_MiE2P0iPDs2JVFo3cgQYOEw725AoIbZZQ7J_OujPI5CogmRjE0RQ72iF",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-kRQiusqypm7p3ZK2JeoQPCvH81gcVtKbIFiP_--RWOt-UHmF_Tu8tzqD",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFtnJ1Ip9dvkYupgv9dDBNeUPLRym80UfaPYc9L5AuGV4a-lOIBvIvPLw",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JRFZtIohoUTPiapDabVt9-u3U3pQClytLOUlVaFa2zNLNZSwsRDIJQ",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStH9qzPjyDcYAwirQzkrbmHQi37AuesMC3XTk5xJCNrwwUf4huZdAPpuc",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYry7PNI7GMHFRzZw33dHCcr36Jg3W1Wkr4fbciPWK0QnFlXEhjMNsZzI",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDM3qGunlKnSPEAhCvn6isk-59pPCIqIFOy22CHhNbzVq569wDy3PQ",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPDB7MjcmsHRWMDQL1oe740IEyj8VlcoPTEQ8CUxewueOo9gYp30qK7jA",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROvSKiyjhcvj6F-nx9bkXzjS5-cpDA2oBBrDdPN0r1K3ScLxIzia-8P_s3",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjceSeQZNsAA7pgwNyZ8-O_ZgjRBqYshIZN3tm0FRkQ-QyK8AZ65aZCrey",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_jmgF4rltBXDHmSnFJ6bp1JnT0BcEPWLtdmv-eg4JtuvT04Fa_iLh0-sh",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWLUCYWavSGZaLPykPR1zBTdjxhT-q35uqOqYtywAGzOgrRlT4Hzen8JwU",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrLJXiJp8HSUyrom-grKsLneSnENiz9hDoJFfpEI1OxzC095V0Bur2bVpD",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  }
+}

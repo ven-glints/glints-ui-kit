@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "98B5E442-5656-45FB-811E-B6289A41C24E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "74720901-5E1D-410E-ADA0-CEDC1CD57F18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C506AC70-156B-4A9F-9F51-35A3580FB430",
+    "height": 428,
+    "width": 1280,
+    "x": 251,
+    "y": 2645
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "48D70A1D-C352-47CD-B8C6-8BE88253A28E"
+    }
+  ],
+  "name": "blockquote - hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE6D2E4F-0A27-4457-9B04-13472C68EEE9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

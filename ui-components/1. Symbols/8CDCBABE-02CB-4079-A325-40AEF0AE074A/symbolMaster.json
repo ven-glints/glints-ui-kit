@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "34329FBD-BC68-44E2-B9D0-792DC1314BF6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 915,
+  "clippingMaskMode": 0,
+  "do_objectID": "8CDCBABE-02CB-4079-A325-40AEF0AE074A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "301E81BD-6722-47AB-A6B7-99A497168CFA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53EC95B7-1095-4E49-9E74-FEF2E02233C1",
+    "height": 55,
+    "width": 55,
+    "x": 17725,
+    "y": -699
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3F978087-DCFF-49B8-BE2D-2252456ABE5E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "52CB4E42-1E86-4030-BCF7-A3BC0C8C69E6"
+    }
+  ],
+  "name": "✱/Color/Yellow",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "70CBCA4C-40EE-4066-A4C4-83C3BBA8C8EE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B764AC61-A38F-4168-B57A-1F59E6056AEE",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C5D77DD0-A90D-4A9B-AEE1-2523C451C057",
+    "guides": [
+    ]
+  }
+}

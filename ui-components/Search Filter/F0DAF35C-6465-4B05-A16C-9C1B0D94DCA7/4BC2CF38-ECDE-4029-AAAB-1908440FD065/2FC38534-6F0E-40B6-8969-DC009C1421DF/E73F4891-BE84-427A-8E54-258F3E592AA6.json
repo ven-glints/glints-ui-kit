@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E73F4891-BE84-427A-8E54-258F3E592AA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E08F4DF8-82AE-460C-BC22-A01E2945816F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "260ECD31-637A-49B9-8C77-2F45FA6C7501",
+    "height": 20,
+    "width": 136,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "filtertab/topic-heading",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0166E583-1B0C-4849-B5B9-3DDACA064174",
+      "overrideName": "823E949C-B438-4555-ABAB-E5778B93F86B_stringValue",
+      "value": "All cities"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E58F6A5-5C02-4544-96B0-CC5A5BE43A72",
+      "overrideName": "6EA56A5F-4E6B-42D2-B4AD-8D2F053ED7FC_stringValue",
+      "value": "popular locations"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B5B5860F-FAD6-4098-BC95-160BB1367ED5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8763D711-33F0-4293-A3BE-E706CFBFAC17",
+  "verticalSpacing": 0
+}

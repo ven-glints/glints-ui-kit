@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4CE6FB4-77D1-43BC-8047-318A7D5BB1D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A2981663-01FC-42D8-8CA9-6C6493FD2260",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83530C4E-ACCD-4190-B6B7-FC040A61C558",
+    "height": 63,
+    "width": 440,
+    "x": 1080,
+    "y": 88
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A03F69D5-496E-43F8-AB2C-13FE050D5BD2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E11BF4A0-57DC-4F19-ADB2-5E405D0A06E7"
+    },
+    {
+      "class": "text",
+      "id": "2CD9FAE9-69D9-4B10-89A1-FD9B868DE995"
+    },
+    {
+      "class": "text",
+      "id": "56AFD6A0-C1A4-4BE4-A2C2-D027733BA00E"
+    }
+  ],
+  "name": "Password Field - Wide - Active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB27FC20-5ACF-49B0-AA30-5B428EA496E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

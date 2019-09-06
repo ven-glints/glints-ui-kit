@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7BD8F30D-1C5C-43D0-9E62-B18D358A4ECC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8CBF58C8-6C50-4778-93D8-61E7E9F7AC7F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "41E9E5E3-329A-43F1-BA26-6F759373FE6C",
+    "height": 562,
+    "width": 1498,
+    "x": 218,
+    "y": 1013
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0C04CC98-5D45-434E-BC9F-9F25865E1D65"
+    }
+  ],
+  "name": "jobs - hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BCBDCA17-CF70-45D7-A5A1-2AC7F4A48886",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

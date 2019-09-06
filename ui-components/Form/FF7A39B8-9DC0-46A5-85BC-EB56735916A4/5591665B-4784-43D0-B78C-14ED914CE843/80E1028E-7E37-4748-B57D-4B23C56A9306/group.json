@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "80E1028E-7E37-4748-B57D-4B23C56A9306",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B2FAE21-113A-4F09-94DB-FBB1FAE6BC74",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BBB65C85-2757-487E-B025-139E6ECC23C1",
+    "height": 132,
+    "width": 400,
+    "x": 500,
+    "y": 88
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "53B04488-9AAA-43E5-B3C5-6136879F3DE7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17D7BD6C-3ED3-4FBB-A9DB-64ACE1B61206"
+    }
+  ],
+  "name": "Textarea - Typing",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "208686D2-D4B5-4FBD-8A00-C7A8A749793D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

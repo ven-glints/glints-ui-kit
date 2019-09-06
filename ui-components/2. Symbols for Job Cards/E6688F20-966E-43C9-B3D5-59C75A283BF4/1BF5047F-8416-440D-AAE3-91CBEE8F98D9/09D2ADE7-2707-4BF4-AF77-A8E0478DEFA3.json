@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "09D2ADE7-2707-4BF4-AF77-A8E0478DEFA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "915603E8-2BA9-465B-A8E8-4741895E7B90",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "224368BF-7BDA-4548-A84E-1EE604AE1618",
+    "height": 20,
+    "width": 44,
+    "x": 20,
+    "y": 15
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Card/Desktop/Component/CTA-Button-text/Black",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "94668654-DF32-4FC5-BD45-7F3D42630925",
+      "overrideName": "EBCB12B1-D713-42BB-94FE-4B57419162A4_stringValue",
+      "value": "APPLY"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F00F141-5E9C-46CB-81FE-8D00E42B818B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "60617481-C7C4-401D-9FB9-EA45362480F3",
+  "verticalSpacing": 0
+}

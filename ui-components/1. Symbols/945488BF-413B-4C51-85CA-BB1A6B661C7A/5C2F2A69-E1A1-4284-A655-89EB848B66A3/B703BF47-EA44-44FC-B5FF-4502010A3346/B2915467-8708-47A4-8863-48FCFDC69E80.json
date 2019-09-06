@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B2915467-8708-47A4-8863-48FCFDC69E80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "841EF6A3-842D-4E69-9497-40619D453AA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "13722C5A-F8B4-49AD-9092-B3FAB58FD537",
+    "height": 23,
+    "width": 325,
+    "x": 0,
+    "y": 67
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "jobdetails-bullet-info",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C2BA3612-6EA5-43EE-AB5A-B56AE5AD50BE",
+      "overrideName": "63D3F673-C9D2-4F56-A678-6AFE9D26BC28_stringValue",
+      "value": "Full-time"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C571B4B0-4ACD-4721-88D7-BD54C4F57E4D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DACF69C7-0436-4EDD-B9D3-1E1209FEDBE9",
+  "verticalSpacing": 0
+}

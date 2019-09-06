@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "04308E8A-292A-4B62-838B-2DC2125980FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 13,
+    "width": 26,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B0696F52-87BE-4F06-B974-DBE7C0E7A87E"
+    },
+    {
+      "class": "rectangle",
+      "id": "8393F2EC-668C-473F-9B7A-737529C6CE97"
+    },
+    {
+      "class": "group",
+      "id": "5B7F53D7-3322-4C89-A158-293BBEFDC030"
+    },
+    {
+      "class": "group",
+      "id": "8C0EC27A-583E-4EDA-9A08-FF5CC0337631"
+    },
+    {
+      "class": "group",
+      "id": "248823D3-1619-4EF9-8C44-4764C5786CA0"
+    },
+    {
+      "class": "group",
+      "id": "5729DE64-AE4C-443E-A50D-F4E68A2D3E9C"
+    },
+    {
+      "class": "group",
+      "id": "6565F70B-2C13-4E49-BEC2-0100BD4EDA2F"
+    },
+    {
+      "class": "group",
+      "id": "5F0C807A-148C-4B66-B0A9-E23274230993"
+    },
+    {
+      "class": "rectangle",
+      "id": "7F3A182E-42E4-4E26-B1BE-9DD12FC8ABB6"
+    },
+    {
+      "class": "shapePath",
+      "id": "A92DC72F-A77E-4041-B960-56F8252C4B92"
+    },
+    {
+      "class": "shapePath",
+      "id": "C5BD9605-EDB4-4B4B-A795-585653C70170"
+    }
+  ],
+  "name": "Flag_of_Malaysia",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

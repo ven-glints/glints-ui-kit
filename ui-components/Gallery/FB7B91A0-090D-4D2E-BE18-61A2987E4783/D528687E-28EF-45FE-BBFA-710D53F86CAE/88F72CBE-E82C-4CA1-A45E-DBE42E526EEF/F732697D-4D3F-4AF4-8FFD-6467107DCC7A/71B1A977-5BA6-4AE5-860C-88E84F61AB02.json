@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "71B1A977-5BA6-4AE5-860C-88E84F61AB02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F3B42D52-B2EB-4E68-9B82-84E76BBEFB73",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "345A2C25-C400-4974-9B6E-44F7361191E6",
+    "height": 70,
+    "width": 70,
+    "x": 160,
+    "y": 386
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "gallery/photo-default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2965ABE-CFD3-4FEA-9211-DEE2C85695D3",
+      "overrideName": "8447459B-6D57-42B6-A15A-806DC6AA0E99_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9513d6f88d6d3a181f5b9607fbb4231fe9f28665.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F1ECA09-3F49-4F74-94A6-D9283094F8C3",
+      "overrideName": "5CCB7465-6763-47BC-A05D-DD3010C14B6A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C29F9E90-7B73-4BFA-A788-F0D2C47F1929",
+      "overrideName": "21470882-A77C-4D84-A913-AAA6BA286D2F_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "257B4130-2D95-4489-9EFF-80DE58D41049",
+      "overrideName": "9DEB717D-F05A-408C-B731-BF7806A86703_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "05DDE67A-219A-4239-86B0-ADC99303C5F5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9ECFF42A-9A5A-470E-9DC5-116251E5CB8C",
+  "verticalSpacing": 0
+}

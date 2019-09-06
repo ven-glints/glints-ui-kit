@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A3AEBB83-0CD1-49CE-AD65-70C948C21F08",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1350,
+  "clippingMaskMode": 0,
+  "do_objectID": "4EBF4EE2-C97E-4889-B670-D5A5BD6E7103",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F979D53-5586-465B-85D3-92251A9F7412",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ADF18C92-6F4A-4DA6-92C0-F47EE143498A",
+    "height": 50,
+    "width": 67,
+    "x": -1554,
+    "y": 2819
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E10AD971-6236-45A0-8ACF-4D838731CB9A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "67FB4062-597E-4603-BD90-A86C53A1781A"
+    }
+  ],
+  "name": "Job Card/Mobile/Component/CTA/Save-Hover",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "763DB134-2E52-4466-849C-4750E6A26F87",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0466B12B-35AC-417D-A7B8-938E63FDAF16",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "75C3335B-CC95-4DAC-B100-A1A533507B35",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A254A013-F34F-4E19-B199-D2767255EDFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "841B1C8B-F237-41B2-BE67-A429E0E697E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "365A519B-E6B1-41C6-9229-9C36FA347DFC",
+    "height": 20,
+    "width": 248,
+    "x": 20,
+    "y": 204
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1058BF4-60BE-456F-AFD7-0324914F0E9E",
+      "overrideName": "55062722-C0EF-40F0-9574-68A65300DEA1_stringValue",
+      "value": "Jakarta"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B86392D-6E44-4F9B-9970-1AFFFFF6AD88",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69D5FE0E-3982-4F99-AD3E-59EEC42B47E7",
+  "verticalSpacing": 0
+}

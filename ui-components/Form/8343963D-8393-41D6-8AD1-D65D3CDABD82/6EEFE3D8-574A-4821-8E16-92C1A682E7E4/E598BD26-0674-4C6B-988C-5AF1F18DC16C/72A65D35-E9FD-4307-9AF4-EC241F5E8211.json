@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "72A65D35-E9FD-4307-9AF4-EC241F5E8211",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "87914BCF-4D0A-40DA-92A0-173F8AB1FF33",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "13978C16-A064-4D61-8A1F-CB3F1EB49979",
+    "height": 20,
+    "width": 113,
+    "x": 137,
+    "y": 13
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Text-Field-Small/Text-Field-Value/Active Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4C38FDE-0411-4785-83DE-2FAD5EF28C01",
+      "overrideName": "78907290-A10D-41FC-A1DA-F85225920EA9_stringValue",
+      "value": "Phone number"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4DB7985E-94CE-4FF6-9892-A00A7A82A2AF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "06A40C9D-3500-4569-81FD-ADA24DE1915E",
+  "verticalSpacing": 0
+}

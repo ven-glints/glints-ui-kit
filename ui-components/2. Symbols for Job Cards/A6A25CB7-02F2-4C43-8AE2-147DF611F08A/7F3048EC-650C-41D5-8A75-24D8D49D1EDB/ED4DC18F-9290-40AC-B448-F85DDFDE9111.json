@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "ED4DC18F-9290-40AC-B448-F85DDFDE9111",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2220F564-04DB-4972-B6D1-855A175AAB0E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "70263EAA-EA38-4DCE-97BE-9752EDF03457",
+    "height": 25,
+    "width": 185,
+    "x": 100,
+    "y": 25
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Card/Desktop/Component/Title 3-lines",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD444A81-D429-417E-B7CA-CB32F0784C58",
+      "overrideName": "E3E97219-3816-4DEC-832D-D2FD5040570D_stringValue",
+      "value": "Sales & Marketing"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F08F54DD-5FB0-4952-B6AA-13664A855731",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B0CF3B4E-4DD2-4154-A6D4-2097DAAA2C47",
+  "verticalSpacing": 0
+}

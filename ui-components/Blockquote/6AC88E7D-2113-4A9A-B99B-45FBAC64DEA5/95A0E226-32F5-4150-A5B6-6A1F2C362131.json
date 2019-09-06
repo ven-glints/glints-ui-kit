@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "95A0E226-32F5-4150-A5B6-6A1F2C362131",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "177F34AA-0F52-4CA2-BAAA-FB48D28C3990",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E49E5AAD-DFA1-4523-BE62-A5053039A857",
+    "height": 346,
+    "width": 620,
+    "x": 970,
+    "y": 297
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "blockquote",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10C3CF38-8225-4AB3-A09B-378C6A311965",
+      "overrideName": "8B4E9554-63FF-4B8F-8C26-043745B7BC00/D0468376-D4AF-4252-A161-EDA5A6AC6C2E_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/db5841941eaaf1f608f0a419e753753ca644d2e6.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6856A584-E9E4-457F-BDF7-D90E07E73BA7",
+      "overrideName": "AFD9A5EE-FEE0-4972-B89D-9772EED2C0E3_symbolID",
+      "value": "3DD1B603-655A-4762-94E0-4F4F933CD5AB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D9393D3-AEDD-4B4C-AE7B-82FAC67D333D",
+      "overrideName": "2198DF88-32E3-4055-A3C4-233398984905_symbolID",
+      "value": "EFDDF5AF-9CBC-4F0C-AD39-5B26BF303DA5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4374B50B-0731-40DA-B1AB-32CB1E6070A8",
+      "overrideName": "AFD9A5EE-FEE0-4972-B89D-9772EED2C0E3/46A50A25-E3BE-4726-B753-65AE9C9E4843_stringValue",
+      "value": "National University of Singapore (NUS)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33EF56B2-B222-4018-9905-0D0E08D50CDE",
+      "overrideName": "AFD9A5EE-FEE0-4972-B89D-9772EED2C0E3/4354333E-9E74-4515-A5CD-0934E278FA57_stringValue",
+      "value": "Zai Muhd"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "384A9CC1-CB4F-4E25-9D41-5B108C24D2EB",
+      "overrideName": "A3E412CF-82D2-47FD-8CCF-8B415308D1F5/89717BA3-9820-4AD2-A991-3668B6830E85_symbolID",
+      "value": "123D7151-544B-40D9-9266-C556A878035A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "486F6F56-7B17-4C3F-8269-1ADC93F4C7CB",
+      "overrideName": "9686F635-F9D5-40F0-B15B-BE22E97B024B/89717BA3-9820-4AD2-A991-3668B6830E85_symbolID",
+      "value": "123D7151-544B-40D9-9266-C556A878035A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD308377-047F-4D5D-93EE-1B4ECD7B2893",
+      "overrideName": "9686F635-F9D5-40F0-B15B-BE22E97B024B/749DF537-2323-47CD-8EB5-62219D1A08E4_symbolID",
+      "value": "123D7151-544B-40D9-9266-C556A878035A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80A45B4F-D66A-43F3-8F0B-32016ED8AFA6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9721E56C-B7EE-43D8-9CA9-124D746565B8",
+  "verticalSpacing": 0
+}

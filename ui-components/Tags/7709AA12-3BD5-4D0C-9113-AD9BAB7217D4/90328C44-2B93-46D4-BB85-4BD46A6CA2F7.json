@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "90328C44-2B93-46D4-BB85-4BD46A6CA2F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1D70EED-FEBE-4DA5-8D3A-F69EEA93A180",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "67165C6A-5461-487D-A344-EFFB4D79F06E",
+    "height": 25,
+    "width": 72,
+    "x": 200,
+    "y": 574
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tags/onboarding-skills-default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DE34957-E74B-4B01-8A17-DB2C85A9AB18",
+      "overrideName": "4A1BB047-4DA6-4F6F-A7E3-72C7A75F00B1_stringValue",
+      "value": "Lorem"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E40615E5-517F-4C2F-90EF-C9BB0A9C7FE2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0469FBE8-8C08-45A7-A041-5B88B46A7420",
+  "verticalSpacing": 0
+}

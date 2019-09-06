@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E02066BA-B614-40B7-81AD-B06E2107A312",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2560,
+  "clippingMaskMode": 0,
+  "do_objectID": "BFE20615-1451-4233-8293-580606D9769E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "617C23A6-B05F-4AC3-A91B-88BDD0872827",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E1D7E526-D4E4-49F3-B87C-48184EF23F68",
+    "height": 26,
+    "width": 133,
+    "x": 33479,
+    "y": -98
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A449B46A-E17F-4493-86BF-3B8833784CAC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F722C3C2-4F0C-4066-85F6-27FA96DC44CA"
+    }
+  ],
+  "name": "companycard/label-outline-black",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B39540A-5A21-4D1B-9BBA-8ADE0B3C1635",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E4BBF716-C85B-4A97-9CE6-F6040D9FF9D1",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "47CD8175-EB3F-4970-BD5E-BC9DF18ED2E3",
+    "guides": [
+    ]
+  }
+}

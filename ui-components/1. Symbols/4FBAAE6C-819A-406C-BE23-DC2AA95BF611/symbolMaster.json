@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "441B9B59-926C-4F43-BBBA-C1FF26EB7536",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2008,
+  "clippingMaskMode": 0,
+  "do_objectID": "4FBAAE6C-819A-406C-BE23-DC2AA95BF611",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB6A65CF-D2A3-4617-BBDF-E206AEDB8817",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5AFE6CF4-1991-4657-B3DC-8641D5C80301",
+    "height": 20,
+    "width": 400,
+    "x": 43135,
+    "y": -1052
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7661EC62-E693-4DF6-8B3A-2B998AEE5C3F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "EFDD6C88-0AAA-4789-BA81-20658AC8A050"
+    }
+  ],
+  "name": "Form/Text-Field/Helper-Text/Error",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA4FE027-71CD-4CC2-90D9-35C8B0306E04",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A01EF5BA-A48D-4FB0-A896-DDEFEAC6BFA1",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6E07B235-BC6F-45DC-ADD2-ACF0EEF3E180",
+    "guides": [
+    ]
+  }
+}

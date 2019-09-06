@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6E6FDA1B-8FE2-4203-BF16-1D186D7F4BE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5196A52-3F5D-429C-8C3C-22C5EF2CF2D3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F830E4FF-F5E7-4CE3-99FF-EE7C0B37F082",
+    "height": 155,
+    "width": 400,
+    "x": 1400,
+    "y": 3935
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C223E59F-27A8-4841-B96E-9BA815AAF725"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BAA9FB83-8DCE-4F0B-9320-77F5E9CF8D4A"
+    }
+  ],
+  "name": "mail outline",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "67DD1E1A-5548-4FD9-94F1-5230442F9BB2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

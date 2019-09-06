@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D2AA1DDA-012E-4E6C-B11E-34DE4DDF2CBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F006B362-F8A7-4A04-82C6-B891D9F71457",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2773693B-B71D-42A9-9F8B-9F5F99AF73CD",
+    "height": 160,
+    "width": 158.9808917197452,
+    "x": 1,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C1C5A146-DA31-4FB6-B76E-9F2793D4EA02"
+    },
+    {
+      "class": "oval",
+      "id": "5D333DB7-67F5-48E7-B1FA-CF6DE0E25BB0"
+    },
+    {
+      "class": "oval",
+      "id": "B081F8BB-056E-4499-92B0-17CB4AF79522"
+    },
+    {
+      "class": "rectangle",
+      "id": "F2301E4C-49C9-476E-B58D-096FBA36EB0A"
+    }
+  ],
+  "name": "Photo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "68ADF540-90D7-432F-B867-2D1CD83452C2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

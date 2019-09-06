@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "09C3AF37-8CF0-41A2-8786-C74A6D909D7A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 396,
+  "clippingMaskMode": 0,
+  "do_objectID": "BB5108C4-EF41-4683-87FC-3E3216E971A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84C7CC78-3278-43C2-B61D-5F790D60B4D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A8E6E4C-093B-4DA2-9DBA-3559587D556D",
+    "height": 20,
+    "width": 100,
+    "x": -2282,
+    "y": 1698
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BE0BDC81-547A-420C-998A-48E950FD6106",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F15EDCE5-54D9-4801-B3DB-1C8B6C20B670"
+    }
+  ],
+  "name": "Job Card/Desktop/Component/CTA-Button-text/White",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D8918E90-402A-443D-B0F6-343E4603E5D0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B15DC263-EEAF-4050-8F04-23C63D508E39",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "14B2AF15-3825-456E-ACF2-296C5D91777C",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1020CF04-3D10-4365-9DD8-C86E56E40552",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1103,
+  "clippingMaskMode": 0,
+  "do_objectID": "E6AA4E9B-8628-4824-B199-60FD5C80E2C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44CC7C14-B7EC-429E-B4A5-867A613E0433",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98486550-E99C-4A8A-B3CD-96553825868A",
+    "height": 475,
+    "width": 336,
+    "x": 44486,
+    "y": -1172
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3AB28B4E-EA61-40BB-8B0C-AC2B377A2D3E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "58553882-2026-4589-BF6D-01A0F7700892"
+    }
+  ],
+  "name": "Job Application Card 336px/Regular 3 lines",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "35C08A35-2F6F-43E8-B780-C6153E0DB722",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2CB1D4B6-EDA3-4C83-B081-1C83BB0A8790",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CB1A70E1-1598-4021-81A9-4C1560C5E20A",
+    "guides": [
+    ]
+  }
+}

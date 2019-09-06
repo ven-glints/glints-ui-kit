@@ -1,0 +1,121 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "72544D21-5E5B-4410-B530-2943D53FAE12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A040A112-6489-4121-B20F-0A068E34ED43",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "05771183-8B59-4F78-A3A1-5021B1E38B8A",
+    "height": 100,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7FC0CB21-4D25-45F8-AACC-1AF22ADD17C4"
+    },
+    {
+      "class": "shapePath",
+      "id": "8AFE9EC1-57C7-4957-8244-FA342242F941"
+    },
+    {
+      "class": "shapePath",
+      "id": "34F90C66-C956-4363-8A14-D0881CA290B8"
+    },
+    {
+      "class": "shapePath",
+      "id": "99364774-9027-44D2-9A34-9A6D57BF1E6E"
+    },
+    {
+      "class": "shapePath",
+      "id": "D3AF165C-6082-40CE-96E3-D3E65E9FD95E"
+    },
+    {
+      "class": "shapePath",
+      "id": "442A118B-1969-455E-B321-7EA551E1FE85"
+    },
+    {
+      "class": "shapePath",
+      "id": "660C850E-68A8-472F-9A44-0480489C7846"
+    },
+    {
+      "class": "shapePath",
+      "id": "8DCB089D-E58B-420B-B49F-6C95ECBCF01F"
+    }
+  ],
+  "name": "codepen - FontAwesome",
+  "nameIsFixed": false,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1FEEE97-4DA4-4106-9EFF-CDBDFCC208AB",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "00D3F209-A20E-4B7F-B752-26A35C550A33",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "FontAwesome",
+            "size": 20
+          }
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

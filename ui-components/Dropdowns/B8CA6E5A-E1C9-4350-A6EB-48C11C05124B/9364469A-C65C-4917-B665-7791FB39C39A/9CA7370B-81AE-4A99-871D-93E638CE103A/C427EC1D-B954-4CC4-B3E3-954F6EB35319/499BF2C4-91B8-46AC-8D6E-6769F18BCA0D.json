@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "499BF2C4-91B8-46AC-8D6E-6769F18BCA0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D3FB481-56F9-4485-94EA-300857FED944",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3B91C5CB-58AD-4BEA-B638-D9F2AE213766",
+    "height": 53,
+    "width": 202,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dropdown/Blue",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4FA079E-2BEF-45CD-90D1-1889D9D34055",
+      "overrideName": "EEF90C97-6190-48A1-B4AE-F6AB0C07249E/C21FFECF-A102-45C8-ACCF-C07F156B656D_stringValue",
+      "value": "Hunter Leonard"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02091D25-E060-4A2C-B502-DC57F951B358",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "455CAA25-46F2-470F-939D-3866CA70654E",
+  "verticalSpacing": 0
+}

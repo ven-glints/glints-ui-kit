@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "07266DDE-87E6-4C7B-9F5E-96BC66B29D59",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4FFDE6AB-15A1-4740-87A0-525EB0974342",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E1D34F3-0AAA-4E4B-80F4-5344F2DCB760",
+    "height": 160,
+    "width": 160,
+    "x": 422,
+    "y": 297
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "blockquote/avatar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "206A8209-4805-4784-8B8B-3F4DC0EA450E",
+      "overrideName": "D0468376-D4AF-4252-A161-EDA5A6AC6C2E_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/db5841941eaaf1f608f0a419e753753ca644d2e6.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DB265FD6-1D8B-4985-A02D-214B2D2EC449",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B74032EC-821E-43A2-A32D-D7386B221AED",
+  "verticalSpacing": 0
+}

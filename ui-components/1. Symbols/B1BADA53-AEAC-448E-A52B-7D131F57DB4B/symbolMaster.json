@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AFC01FF7-E862-4AEE-9D7F-CFF7434EF893",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 641,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1BADA53-AEAC-448E-A52B-7D131F57DB4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BCD3EA7-B7AE-484F-9226-44181C40F582",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5E69DCE-1712-41EB-B61D-365E13561A6B",
+    "height": 53,
+    "width": 300,
+    "x": 820,
+    "y": 477
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2A440F27-A5D5-4F69-9832-2882A8B88884",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "62767323-D119-489C-BFD4-345D9FE4A8FC"
+    }
+  ],
+  "name": "Button/Mobile/Focus",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6541D20E-953B-451A-8B5C-45D4604E88DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "87C866AB-D5A4-4819-B0F8-6822D2B1F2CF",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D8D66663-BB84-4FAF-9577-88DC15092DC8",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3CE44996-F951-4216-8D29-BB6D2838399E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DFC7FC28-E68F-42E9-B376-A794164D8606",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F3F447A4-F2E9-4728-93B8-706598AC9A36",
+    "height": 175,
+    "width": 385,
+    "x": 30,
+    "y": 75
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9CFC3FE7-A13B-458A-BE6D-758EEBFD517B"
+    },
+    {
+      "class": "text",
+      "id": "E7B863F0-6422-4B10-9454-4B6BC7201F2E"
+    }
+  ],
+  "name": "• Lorem ipsum dolor",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F856A9A-E14B-4132-95F9-DA3A15026B5C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

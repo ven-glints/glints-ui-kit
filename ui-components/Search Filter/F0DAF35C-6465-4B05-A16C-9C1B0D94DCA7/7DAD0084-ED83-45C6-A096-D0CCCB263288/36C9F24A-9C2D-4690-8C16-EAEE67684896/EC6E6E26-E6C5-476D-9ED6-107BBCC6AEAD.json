@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC6E6E26-E6C5-476D-9ED6-107BBCC6AEAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49FBB3B3-EDBA-45AB-B6C7-AB810522BB2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "78566201-22DD-4625-9594-BE7DE8DC3972",
+    "height": 20,
+    "width": 248,
+    "x": 20,
+    "y": 106
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1058BF4-60BE-456F-AFD7-0324914F0E9E",
+      "overrideName": "55062722-C0EF-40F0-9574-68A65300DEA1_stringValue",
+      "value": "Consulting"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB4FF102-9C83-4E76-A973-FFD47C2CDFA9",
+      "overrideName": "9F9415EA-83AC-40B6-B258-D51D75E292D5_symbolID",
+      "value": "5F89DDEC-8F74-48CE-BF26-AE3995FC70AD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B5FF78C7-93C5-4F2D-9BAE-77A6FE340D4B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69D5FE0E-3982-4F99-AD3E-59EEC42B47E7",
+  "verticalSpacing": 0
+}

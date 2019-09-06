@@ -1,0 +1,115 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C176C5E6-540B-4119-B549-0DAA17288076",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "50083B9F-228D-46A8-9BE7-13EDE7C88C4D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "014AA953-4C68-45EF-8450-ABFF36131106",
+    "height": 74.64282393455505,
+    "width": 99.5237652460734,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "46BECF27-9F06-4091-9F2A-0196A3047E8B"
+    },
+    {
+      "class": "shapePath",
+      "id": "B5A04671-B596-4BFE-88E5-BDEF69C8C0E7"
+    },
+    {
+      "class": "shapePath",
+      "id": "2615439A-1EAB-4722-AB3C-A064AF6E970E"
+    },
+    {
+      "class": "shapePath",
+      "id": "D8B7D9B3-EB9C-430E-99F3-5D8BBCA655A3"
+    },
+    {
+      "class": "shapePath",
+      "id": "1390723A-2D17-46B8-88B8-67EADD72A25A"
+    }
+  ],
+  "name": "eye-slash - FontAwesome",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9AD6EA0C-FD02-479F-85EB-343A47D53825",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "F53CF71C-9653-4003-9D92-AB498EF473DF",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "FontAwesome",
+            "size": 20
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

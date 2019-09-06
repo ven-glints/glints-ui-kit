@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "469B5181-6853-4B63-B0DC-96D9D05AE14B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B047999B-BF1D-4E36-87A8-B464264354FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "32F2EE09-0550-41DE-93F0-B69A9354B7FD",
+    "height": 155,
+    "width": 400,
+    "x": 1000,
+    "y": 4447
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A6E643DD-7FAF-48F0-9637-171D957B30BA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE13BCA2-51E3-499B-8316-E2960449EA8D"
+    }
+  ],
+  "name": "Codepen",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "721388AE-DEF5-4E3C-94F6-1FC845477809",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

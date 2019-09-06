@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "64EA8B3E-91C0-40BF-946D-3F6726B0D333",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A04C7342-35BD-4A03-9662-2D8302B38BA6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8CDEE36C-DFA2-4921-B7DC-3D3757B59CFA",
+    "height": 14,
+    "width": 20,
+    "x": 335,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E1CEE6D0-5024-455D-A815-8EE2622294B0"
+    },
+    {
+      "class": "rectangle",
+      "id": "0F583EC8-C37C-4515-B082-B923BF36A488"
+    },
+    {
+      "class": "rectangle",
+      "id": "0E82EE98-4776-47F1-881B-5E84E6F06F4A"
+    }
+  ],
+  "name": "hamburger-nav",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0225DEDC-D986-46C9-805B-8063DBD80DF0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

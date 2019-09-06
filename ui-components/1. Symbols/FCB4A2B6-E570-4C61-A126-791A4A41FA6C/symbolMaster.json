@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "955C0119-CA86-4707-B7F8-75F44ED87813",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 940,
+  "clippingMaskMode": 0,
+  "do_objectID": "FCB4A2B6-E570-4C61-A126-791A4A41FA6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A4377CE-2BCA-4875-844F-E5E25B0D25C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "02598695-CCF7-47CA-BF2C-B106CBA8E4B5",
+    "height": 55,
+    "width": 55,
+    "x": 17565,
+    "y": -700
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B856D498-DE46-4920-A624-15EF929F64F3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CCE92EEC-D296-4D7D-910B-0172DA18FCCF"
+    }
+  ],
+  "name": "✱/Color/white",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BC4471B9-C452-4344-92A5-70D2B608A202",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8BC34B4B-59CE-477F-9624-61B153BF5C45",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3F7040D4-1CE3-4F68-9C1D-5B7D2510D456",
+    "guides": [
+    ]
+  }
+}

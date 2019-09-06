@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3CA69F91-43BD-4FAF-8FE0-085C5D3B286D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 719,
+  "clippingMaskMode": 0,
+  "do_objectID": "EA7B937E-11BA-4ACE-894F-D51DDCC8CC8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D3C64A3-573E-4258-A02A-F576D6EBFD1E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27802D4A-142D-41CA-9024-AA3A97130976",
+    "height": 53,
+    "width": 300,
+    "x": 1180,
+    "y": 477
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "52A71A08-4652-4B6D-A526-739A57688FDB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DA2C3D7D-3718-4534-9481-B24DDE017AC4"
+    }
+  ],
+  "name": "Button/Mobile/Disabled",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A687AA9E-2505-49CC-A3FC-550165897B66",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C5F2B368-76D2-4257-9F6C-656D733ED8AF",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "81F074CE-22D9-4FF7-9239-7051D3A3CD30",
+    "guides": [
+    ]
+  }
+}

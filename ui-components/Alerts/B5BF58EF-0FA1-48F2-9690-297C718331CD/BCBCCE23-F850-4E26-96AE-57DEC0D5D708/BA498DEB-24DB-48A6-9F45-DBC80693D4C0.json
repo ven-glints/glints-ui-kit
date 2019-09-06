@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BA498DEB-24DB-48A6-9F45-DBC80693D4C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D57986B4-61F8-4CC7-B802-F97379D6ED98",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "02BACC7D-9973-4BF8-AC6B-90F08BD3F6CE",
+    "height": 40,
+    "width": 500,
+    "x": 392,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "floating-message-alert/success copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "58396514-DD04-4ED9-BA5B-F9B72DC773D6",
+      "overrideName": "9BEEC9FD-0DFA-4294-879F-F5D5217096E6/816FCC3A-C3F1-4BC3-BEAC-9A1C2CA923E5_stringValue",
+      "value": "A simple danger alert—check it out!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA225730-0F97-49F7-A74C-A16651823785",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "375CA4C5-1AE4-4516-A20C-35FCC2C775E4",
+  "verticalSpacing": 0
+}

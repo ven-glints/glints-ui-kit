@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3B863BED-4E4A-4EB5-9CAA-F6AA2D5AD4D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 287,
+    "width": 595,
+    "x": 1979,
+    "y": 126
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "816772ED-73A9-40F5-9E2F-C97C608FB73F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D22E8E46-A8F9-41E9-A385-F3F7ACA7905F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7CEAB15D-726E-44FD-B950-FFCDB38044F7"
+    },
+    {
+      "class": "text",
+      "id": "7A2BBA32-4772-40E8-A53C-3EB1C531267F"
+    }
+  ],
+  "name": "Right Pop Over Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1228AE3E-92B4-4EC9-B9AB-31395B68A6C9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "48C01F10-A565-43D2-B4E6-1010D9CE73C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B32244B7-84B4-444C-9EDE-9C2245D68CDA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DFD8F21B-EA97-4BBC-899F-A11118599589",
+    "height": 1643,
+    "width": 2461,
+    "x": 1830,
+    "y": -634
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5336C741-A13E-4261-96B4-B4D87D56F346",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6AA2B245-8CD4-4F57-BAB3-3660DAAE7E4C"
+    },
+    {
+      "class": "group",
+      "id": "70E29505-3B63-4851-B46F-8564DA5B2D8B"
+    },
+    {
+      "class": "group",
+      "id": "A08E36CF-0D48-4307-B8DA-A3971A00FB61"
+    },
+    {
+      "class": "text",
+      "id": "AC89D9BC-BBE2-4AEE-B961-89E338C4106D"
+    },
+    {
+      "class": "group",
+      "id": "EC821E34-70DB-490E-8B2B-E63EEDC01E9E"
+    },
+    {
+      "class": "group",
+      "id": "86522106-C0D8-4F36-9990-7497A9435E40"
+    },
+    {
+      "class": "group",
+      "id": "9286293A-F0A8-4BBC-9A23-8205F398F098"
+    },
+    {
+      "class": "group",
+      "id": "A5B6DF35-EC49-4F5E-A98E-0E766301CC68"
+    }
+  ],
+  "name": "Job List - Omnisearch ",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5802B133-DA56-44FE-85E1-994F862D4454",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0907A07A-439E-4733-A8EA-8A9C9D536F1C",
+    "guides": [
+    ]
+  }
+}

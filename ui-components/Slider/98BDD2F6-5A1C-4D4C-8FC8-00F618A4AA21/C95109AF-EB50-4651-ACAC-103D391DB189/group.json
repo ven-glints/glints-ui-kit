@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C95109AF-EB50-4651-ACAC-103D391DB189",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B3C6075F-EC70-4AFA-BB84-F25D989B3B77",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "565BDFAD-25B9-4E05-B1D3-5B619CC755CE",
+    "height": 663,
+    "width": 1534,
+    "x": 200,
+    "y": 200
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "50AD1149-30D3-478E-8FBF-791DEBE08D5E"
+    },
+    {
+      "class": "group",
+      "id": "03086FDE-C8BA-488F-B8FC-4F7C3D7F3783"
+    }
+  ],
+  "name": "jobs - default",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CCABC18-3C6B-4C96-8A99-F81B73857BD7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

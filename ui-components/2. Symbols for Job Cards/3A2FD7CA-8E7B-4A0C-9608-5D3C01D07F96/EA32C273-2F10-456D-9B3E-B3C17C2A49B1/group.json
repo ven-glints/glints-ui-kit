@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EA32C273-2F10-456D-9B3E-B3C17C2A49B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F07626D5-2B15-42E9-BE46-06787992AACB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9C8C9DA-289C-40A9-B754-40252CC83844",
+    "height": 535,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "580082CE-776B-4AE8-8389-BD6D2EEF8B63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15712D46-8AB6-4FE2-B33E-43965D3FB260"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D35ECAA9-94F2-4594-B519-AF18293A7904"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A8DBC5D-2638-4EA8-8190-56BBEABC30EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79730DA2-9410-4699-8089-6A6E74901D69"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C5B3AA26-9FF5-44E8-8C97-08016B362636"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "657527CC-71D6-454D-90BD-6A99E84A249F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18B56989-7A88-4DE1-918A-F0B1D05EE475"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE7F0E50-594F-40FB-B5E9-1339E7F60FC2"
+    }
+  ],
+  "name": "item",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A0EBC00-9C0F-4FEB-B5BD-3E203BC9049D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

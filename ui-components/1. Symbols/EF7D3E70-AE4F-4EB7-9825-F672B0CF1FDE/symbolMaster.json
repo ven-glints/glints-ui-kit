@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "371FA64A-9999-4F39-BC25-E450D2B52C64",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 650,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF7D3E70-AE4F-4EB7-9825-F672B0CF1FDE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82672281-BC5E-4F88-9E09-2171D89FB413",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6596BFC0-6CD7-4D23-BDB7-56A8E2073BBE",
+    "height": 53,
+    "width": 400,
+    "x": 41702,
+    "y": -860
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1845A343-BB60-4527-ABE4-70F4258D0DAB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A29D1EB7-D5D2-4547-8B44-21C170775F98"
+    }
+  ],
+  "name": "Form/text-Field-Small/input-box-error",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF0A0FE5-C1DC-4794-AF0B-707608C1AC9E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1D2C19C8-F8F9-4EC6-8920-B0C8C4023AF8",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "01D95410-4DCB-40F3-80DA-CBD4020A210E",
+    "guides": [
+    ]
+  }
+}

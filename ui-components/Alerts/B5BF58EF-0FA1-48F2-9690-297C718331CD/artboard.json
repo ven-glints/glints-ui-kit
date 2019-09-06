@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "50A7CE2D-30A2-4AC7-8F58-2E6DC1DBB488",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5BF58EF-0FA1-48F2-9690-297C718331CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A504D89-EC52-4108-91E0-C64E069A8857",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F741B03-9606-4360-81FD-A2FE7243F261",
+    "height": 3455,
+    "width": 2793,
+    "x": -3364,
+    "y": -236
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E67BA265-FC82-4037-9E31-6A8BE7C42194",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3BA016F0-F8CB-479D-85C0-B6BD00084F34"
+    },
+    {
+      "class": "group",
+      "id": "25DFFFA0-18D7-48ED-A138-BD39622F9551"
+    },
+    {
+      "class": "group",
+      "id": "55F23319-2C22-46BC-B245-85381937DF87"
+    },
+    {
+      "class": "group",
+      "id": "634A17D2-130B-422B-BF2A-1B6603925802"
+    },
+    {
+      "class": "group",
+      "id": "B6B9D06F-9904-4EC4-942A-167FD2B4E5DA"
+    },
+    {
+      "class": "group",
+      "id": "BCBCCE23-F850-4E26-96AE-57DEC0D5D708"
+    },
+    {
+      "class": "group",
+      "id": "DCB14848-2BE9-47B3-87EB-44F6C7CA6D50"
+    },
+    {
+      "class": "group",
+      "id": "97022DF7-271F-4570-AE03-D4895B291005"
+    },
+    {
+      "class": "text",
+      "id": "B9C43251-FE39-449F-B582-863C59F2AE27"
+    }
+  ],
+  "name": "Candidates - Alerts",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FCD233A4-9E91-45FC-B208-5DCD25A33E74",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BC40EF24-DD27-4CB1-8BF3-52C72914BCD0",
+    "guides": [
+    ]
+  }
+}

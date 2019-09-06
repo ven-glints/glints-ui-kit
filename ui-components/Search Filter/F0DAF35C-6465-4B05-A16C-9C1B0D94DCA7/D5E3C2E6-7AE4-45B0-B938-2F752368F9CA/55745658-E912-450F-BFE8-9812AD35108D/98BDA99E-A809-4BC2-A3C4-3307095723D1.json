@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "98BDA99E-A809-4BC2-A3C4-3307095723D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E697934A-5D7C-43FC-9B98-95A7C75BE083",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CFDC8073-4713-4BA5-80A3-AC6613D1220C",
+    "height": 17,
+    "width": 102,
+    "x": 20,
+    "y": 76
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "filter-heading",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28B8EC75-69B7-4B81-BD8B-51AE417E76ED",
+      "overrideName": "B35C3132-25F6-4DA3-A3AE-F5F3B8386FF3_stringValue",
+      "value": "popular skills"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9CDA087D-4B33-4C7A-8022-547B99AE2182",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B568B38B-AEED-4523-9CB4-A408087D3D3C",
+  "verticalSpacing": 0
+}

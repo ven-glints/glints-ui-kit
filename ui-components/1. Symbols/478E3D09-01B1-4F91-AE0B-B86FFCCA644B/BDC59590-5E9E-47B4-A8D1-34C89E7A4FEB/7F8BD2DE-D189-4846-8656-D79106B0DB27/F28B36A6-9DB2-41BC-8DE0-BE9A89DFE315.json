@@ -1,0 +1,54 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "F28B36A6-9DB2-41BC-8DE0-BE9A89DFE315",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3032324B-4057-4245-9D2F-93FAA2FFD3DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C981378B-6482-4C1A-B95C-1548C8433EF0",
+    "height": 212.1985815602836,
+    "width": 257.9569995222169,
+    "x": -49.78117534639274,
+    "y": -51.06382978723403
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/e42a7514be45c0903724f299776d6c4fc6bd134f.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "stock-photo-shocked-face-of-asian-man-in-white-shirt-on-grey-background-749047861",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88F3EE22-DA26-43D8-AB87-9F8845568DDD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

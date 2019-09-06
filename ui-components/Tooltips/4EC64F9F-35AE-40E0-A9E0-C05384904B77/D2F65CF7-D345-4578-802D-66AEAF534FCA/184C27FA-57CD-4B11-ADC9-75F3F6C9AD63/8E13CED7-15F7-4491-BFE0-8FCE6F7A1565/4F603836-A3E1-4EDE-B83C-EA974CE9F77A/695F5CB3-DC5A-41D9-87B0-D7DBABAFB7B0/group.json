@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "695F5CB3-DC5A-41D9-87B0-D7DBABAFB7B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "311667E9-99A5-49ED-9B7B-B1F30E28B624",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6F7821AC-D924-432F-9CE8-1526C17E17FD",
+    "height": 80,
+    "width": 80,
+    "x": 70,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CF2646C1-2AC3-4616-9001-A2AD95BD2BA5"
+    },
+    {
+      "class": "bitmap",
+      "id": "95398DA5-2E7F-4032-B145-AF3C6A4E0F37"
+    }
+  ],
+  "name": "logo copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EE4816A5-BA72-4575-A637-B264357A0786",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

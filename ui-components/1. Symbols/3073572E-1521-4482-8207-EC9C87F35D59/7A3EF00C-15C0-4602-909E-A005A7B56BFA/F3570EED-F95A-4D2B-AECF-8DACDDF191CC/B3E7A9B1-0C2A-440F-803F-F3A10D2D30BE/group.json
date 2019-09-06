@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B3E7A9B1-0C2A-440F-803F-F3A10D2D30BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "620628F0-1527-4F6D-8BFA-BCFDE9E6A449",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A8358C9C-5CE4-44ED-8D38-EC641591D860",
+    "height": 100,
+    "width": 54,
+    "x": 26,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3FDA051F-B53D-4BB9-9A18-D4656A9D3E50"
+    }
+  ],
+  "name": "002-dollar-symbol",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C4F32AED-901F-47BB-93ED-DB97CBCA2E7E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

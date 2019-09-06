@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "97EA2D63-280D-4906-9484-7D92D8896DA7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3006E0D-BC15-44EB-846E-8834EAE29D57",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D639ADF-0959-4879-BDE9-6C38D323A76B",
+    "height": 15,
+    "width": 95,
+    "x": 15,
+    "y": 15
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "omnisearch-section-heading-mobile",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E395028-B62E-47DA-A7F5-9CAFE40C6CF2",
+      "overrideName": "377634A5-0B5A-4A71-8235-E6261C77352F_stringValue",
+      "value": "job function"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4DE1BE6-0D63-46CA-B3E9-AD66CC421EAE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "593804E6-0DC5-48A2-9941-B06B4BAE2F90",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B5486CB-74DA-40D7-861C-98D2D3DBCAB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 1159,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6498AD96-2A1D-4AF0-B8EA-39B58B3C17A0"
+    },
+    {
+      "class": "shapePath",
+      "id": "632500DD-CEB2-4F37-B7E6-0BAE72BB1BEE"
+    },
+    {
+      "class": "group",
+      "id": "20085096-7533-42E8-90C3-02270D0838DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31B10F57-7754-416E-8761-59C11396BEB6"
+    }
+  ],
+  "name": "joblist/searchbox-active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

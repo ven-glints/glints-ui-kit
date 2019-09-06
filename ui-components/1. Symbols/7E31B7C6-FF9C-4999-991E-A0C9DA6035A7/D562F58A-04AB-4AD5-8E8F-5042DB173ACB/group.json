@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D562F58A-04AB-4AD5-8E8F-5042DB173ACB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72E208C3-6514-48B0-A194-C7CA8CE26E6D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E689876-A6B9-4787-A53B-7D9C87CB0E4D",
+    "height": 46,
+    "width": 400,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "11E3B98F-0D18-41C3-BBB6-A771F3E53266"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A24B9FB-CEFE-49C1-ABD3-367F148B9FA9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99773C5F-E571-4DE4-B48D-191CA9FB90DC"
+    }
+  ],
+  "name": "Text Field - Default",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D001856-596C-4174-90C5-ADA76AF3096B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

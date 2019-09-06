@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "450CA0BF-2317-40DD-A587-928BE9BC3B14",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 4718,
+  "clippingMaskMode": 0,
+  "do_objectID": "3A2FD7CA-8E7B-4A0C-9608-5D3C01D07F96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98D16F43-023A-4A7E-8F98-20933E7407D0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60B849A8-E0D9-461A-AF9C-34AF3AF7BA52",
+    "height": 535,
+    "width": 300,
+    "x": 882,
+    "y": 2819
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "831F1E2F-11EE-492B-A6FD-F7AB3B3EBBD0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EA32C273-2F10-456D-9B3E-B3C17C2A49B1"
+    }
+  ],
+  "name": "Job Card/Mobile/Regular 3 lines with Bonus",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1DC6B6E-1150-47D4-AA1C-CD2EB6866594",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D538B396-F122-4E1E-9310-9A37AF225502",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AE9ECD56-0464-45EE-8A6D-45E0215AA703",
+    "guides": [
+    ]
+  }
+}

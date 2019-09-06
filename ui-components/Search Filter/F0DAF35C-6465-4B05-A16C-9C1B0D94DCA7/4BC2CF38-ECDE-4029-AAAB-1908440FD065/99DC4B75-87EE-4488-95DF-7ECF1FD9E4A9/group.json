@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "99DC4B75-87EE-4488-95DF-7ECF1FD9E4A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27EFF2A1-2C3E-4004-97AD-92C2CD2BF729",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0B25504-774F-4041-9F7F-75C1F7BD639D",
+    "height": 70,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "29460313-B5E2-4B5A-B99F-250E8D6BD79A"
+    },
+    {
+      "class": "bitmap",
+      "id": "CA6C108C-3B72-44D8-8FE6-81CE3F525B77"
+    }
+  ],
+  "name": "mobile - navbar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7946D635-33FB-4CCE-920F-E706A5C5ACCC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

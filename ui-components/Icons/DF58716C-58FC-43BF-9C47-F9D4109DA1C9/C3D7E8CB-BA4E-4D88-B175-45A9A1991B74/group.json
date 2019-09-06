@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C3D7E8CB-BA4E-4D88-B175-45A9A1991B74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "41674D9C-E085-4073-8E87-6304D8BD0451",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4D7CAB80-659F-403F-8667-323E2D8A65B7",
+    "height": 155,
+    "width": 400,
+    "x": 600,
+    "y": 4447
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A670DEF2-F0E8-4B44-9464-2487879A7FF9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EAFD8262-48F4-431B-BF25-63A817362527"
+    }
+  ],
+  "name": "behance",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "413E4EE7-AFDE-4207-B283-BBAAE87277DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D15B5396-F50A-4BED-8C11-D6F750846045",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C214F4CD-5792-465E-B794-C955C61632B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8786C77B-AC25-4E52-96A3-F1D7C714013B",
+    "height": 48,
+    "width": 320,
+    "x": 0,
+    "y": 192
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sidebar Mobile/Menu/Default Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA1D7EB0-1859-4F9C-9532-561C2223B535",
+      "overrideName": "FE91E6EA-68CA-444D-BDDA-063D9DB98BCC_stringValue",
+      "value": "PATHWAYS"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A39E465-6B46-4138-945B-B4C8B769B2BB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "25B8D99E-9A24-434A-9BB3-DE61AC816832",
+  "verticalSpacing": 0
+}

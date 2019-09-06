@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B77B74BD-B7A8-4C8B-B5C6-015330B58446",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8052EFDA-AE4E-415B-9208-E10828C7291E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A400D16C-1AE8-4D3B-8B9A-0D27666EBD8A",
+    "height": 475,
+    "width": 336,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Application Card 336px/Special",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D58892D2-D3DD-478B-A7A0-E74F73718E4A",
+      "overrideName": "8B562683-A0FE-47C9-BC6E-AE85EF836967/DC974953-0783-4C26-984C-E23E1DE16261_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/01202ee821b13e7a8f6eb9e4fd47317aa4b81931.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9BF5CADD-D767-44EF-B7C0-68BA146B9DC8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1D3B1821-110F-4D6B-BC7D-5C8BDE0D5895",
+  "verticalSpacing": 0
+}

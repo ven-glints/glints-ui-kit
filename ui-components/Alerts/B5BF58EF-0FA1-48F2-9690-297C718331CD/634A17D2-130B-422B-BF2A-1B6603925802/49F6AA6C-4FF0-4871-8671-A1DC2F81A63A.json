@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "49F6AA6C-4FF0-4871-8671-A1DC2F81A63A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "50421BE8-3D44-4A4E-850D-1A7F1ECCB812",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6FA44B68-B75C-451B-9E5B-27791D8326F7",
+    "height": 63,
+    "width": 800,
+    "x": 392,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "floating-message-alert/success",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "082B58EC-2514-4123-B960-5C267864C1F2",
+      "overrideName": "830FC60E-91A0-41F3-84F9-63699FEC1A20/816FCC3A-C3F1-4BC3-BEAC-9A1C2CA923E5_stringValue",
+      "value": "Aww yeah, you successfully read this important alert message. This example text is going to run a bit longer so that you can see how spacing within an alert works with this kind of content."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF4232BC-C2B8-4A22-8805-8453B3D6EB4D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "547A5BCB-351B-4B5D-A4B6-137946388902",
+  "verticalSpacing": 0
+}

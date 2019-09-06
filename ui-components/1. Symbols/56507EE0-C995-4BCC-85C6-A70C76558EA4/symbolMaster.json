@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CD59CF5F-E6CA-40BF-B8A2-2F9A1E446428",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 810,
+  "clippingMaskMode": 0,
+  "do_objectID": "56507EE0-C995-4BCC-85C6-A70C76558EA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B5DCFF77-61F1-4B7B-96B4-E2E83386B947",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AD715A1E-BAB9-40E0-B4CC-ABBAE1BE14FC",
+    "height": 55,
+    "width": 55,
+    "x": 17085,
+    "y": -699
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A61F1839-96C8-4FC9-8161-E18F4F969D4E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "79ED5EC6-5BEB-41CC-B055-24B0497C0960"
+    }
+  ],
+  "name": "✱/Color/blue",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3EB88F64-C83A-4FE7-BFA8-228E5C88D797",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7D02B035-9FF2-4CDC-8ED4-D71D26C3A8F8",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "49FD18DC-5632-4170-84EA-A34A4483806C",
+    "guides": [
+    ]
+  }
+}

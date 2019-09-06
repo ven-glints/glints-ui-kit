@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5F872A85-1656-4AC6-A38F-08CB41B76399",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 378,
+  "clippingMaskMode": 0,
+  "do_objectID": "F2D3C04E-4142-4751-A8E3-C4CCBD3627AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1886A9C-9018-4FA6-99D1-475CEFC0E3DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A09F2FC1-30CC-4052-B7E0-47545439FBE4",
+    "height": 18,
+    "width": 18,
+    "x": 6764,
+    "y": 398
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "13CF76A7-26C2-47A8-92C5-A5A83B58B32F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B08CA408-9E4E-4395-A290-20ADBEF00E9F"
+    }
+  ],
+  "name": "Form/checkbox/box-checked",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E39D32E-87C4-4A99-82D0-D79E8A467BB5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "49585A83-59C0-458C-8DA6-438041090D53",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5D5FEA90-25B6-4772-BB45-FC975EAEB75B",
+    "guides": [
+    ]
+  }
+}

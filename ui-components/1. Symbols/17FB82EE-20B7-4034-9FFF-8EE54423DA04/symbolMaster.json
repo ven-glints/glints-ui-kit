@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E33D9E20-4CD4-43CC-8E6E-67A2CF1C921D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3883,
+  "clippingMaskMode": 0,
+  "do_objectID": "17FB82EE-20B7-4034-9FFF-8EE54423DA04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6BFE0E03-1FBC-49AC-AFA4-7ACF801F56AB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "116943D4-5860-49B9-9203-63A2CF59C25D",
+    "height": 13,
+    "width": 20,
+    "x": 6763,
+    "y": 1301
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E515329A-7648-4771-835F-D892CFE45423",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E04AE4F8-3857-46D3-BDBA-202D4FC31AA3"
+    }
+  ],
+  "name": "flag/Australia",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B13C742E-F2F0-4F0A-974C-4D0449AA6A55",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7BEE9986-844E-48EA-B269-8B0C2DD01272",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "942129F0-6436-4651-BC9B-EEE555CA80B6",
+    "guides": [
+    ]
+  }
+}

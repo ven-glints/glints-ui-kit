@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "ABA292EB-B717-440B-AB79-53C419EB756E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 429,
+  "clippingMaskMode": 0,
+  "do_objectID": "A97CAFAC-A37E-45EE-9E59-925B34EF6580",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6BAD8F58-939A-4345-99DD-3DD84DA45A54",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "568E5B44-2E26-476B-96B4-D3FFB74739FB",
+    "height": 40,
+    "width": 300,
+    "x": 100,
+    "y": 9019
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "314EEB4A-0F5A-40E3-9254-2563B256D33F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "421B38DE-661A-47B6-83AF-6CF64EB3152A"
+    }
+  ],
+  "name": "Alert / Static / Success",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7CE7189E-47DC-4B30-BC9D-58E87176B79D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "23B6D8D5-FE83-472F-BCF7-22699707906F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0E72DAC3-B75A-4642-8AAE-897C3852FA96",
+    "guides": [
+    ]
+  }
+}

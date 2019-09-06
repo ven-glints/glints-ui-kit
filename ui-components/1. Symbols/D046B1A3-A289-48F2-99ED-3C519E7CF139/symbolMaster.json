@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "38289504-51C3-45E0-A6BB-0EC718221D16",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 3174,
+  "clippingMaskMode": 0,
+  "do_objectID": "D046B1A3-A289-48F2-99ED-3C519E7CF139",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4788F559-B1E1-4E14-B32D-0430F0A79AFA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "937244E5-FFC9-46BB-BB7A-5A9C54A23BCC",
+    "height": 100,
+    "width": 100,
+    "x": 16195,
+    "y": 13004
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5BC2AF7D-0F5A-4057-8E74-DD1CEE8038E6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "671FEBC2-CFF1-479C-9827-F0DA8DA772F2"
+    }
+  ],
+  "name": "icon/employer-checkmark-solid",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9035C050-CA8D-4CD2-B730-327E1AB39E1F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "39F10018-57EF-4A35-A72C-A0AC79B55857",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E762E684-5EAA-40D9-9471-36DB8C593A80",
+    "guides": [
+    ]
+  }
+}

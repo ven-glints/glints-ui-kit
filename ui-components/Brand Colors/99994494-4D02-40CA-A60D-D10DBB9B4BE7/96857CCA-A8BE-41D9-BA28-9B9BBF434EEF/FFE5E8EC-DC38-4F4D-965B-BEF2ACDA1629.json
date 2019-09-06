@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FFE5E8EC-DC38-4F4D-965B-BEF2ACDA1629",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D2EFB1D-0276-4E39-9DED-D3D77CE4922B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9ECB2C7-5F47-47A7-9AF7-967D104A703D",
+    "height": 264,
+    "width": 200,
+    "x": 302,
+    "y": 237
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Brand Color Item Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D1EFB3B-8490-473A-9A77-5973030252DB",
+      "overrideName": "99F2224F-880C-446D-84CB-869360461010_symbolID",
+      "value": "123D7151-544B-40D9-9266-C556A878035A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D260D9D1-1760-46D1-9F9C-774A7D263094",
+      "overrideName": "1CF38AE4-E0D9-4CA5-A23C-D7FB5F81E7D2_stringValue",
+      "value": "Glints Red"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EF532DC8-1FA2-4BFC-8A28-855985BE7015",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D50D1DB6-A446-4748-BB83-DAB16701CB40",
+  "verticalSpacing": 0
+}

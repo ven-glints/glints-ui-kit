@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5D1A2764-165B-4F87-AEC5-FC9C04002073",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "218994BF-CBBD-465C-80F3-23D4FF8EE8B6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1C155833-550A-4B91-8EAD-099E2666E710",
+    "height": 155,
+    "width": 400,
+    "x": 1400,
+    "y": 1417
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "89A675CD-D835-42DD-A107-BD8B2B9ABFAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11919704-4BD9-42FB-9515-8874B67B006E"
+    }
+  ],
+  "name": "information outline",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0FAA7FF3-75F7-4677-86F9-D31DB689E0E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

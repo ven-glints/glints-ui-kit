@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D9417A41-6424-4DCD-80E3-96B0E527FA67",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2090,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC8B1559-A178-4436-AB6D-5E3780AA1FBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17273AE5-E251-40D8-981A-BE3AC5F51956",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "58403C67-1363-4265-8D62-4F4B58E02E25",
+    "height": 17,
+    "width": 400,
+    "x": 42188,
+    "y": -1164
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A8E08496-56E4-4F62-B056-1CAA92003419",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "506A9B4F-7B42-4496-A7BC-BD492483C518"
+    }
+  ],
+  "name": "Form/text-Field/Floating-Label/Active",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "64A05D5B-4892-4442-A7B4-7298698B6689",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7508CDEB-FE8F-4F62-87FE-A7DA1EDD6C79",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "564F043E-8956-4C11-AC94-C5AD763977FD",
+    "guides": [
+    ]
+  }
+}

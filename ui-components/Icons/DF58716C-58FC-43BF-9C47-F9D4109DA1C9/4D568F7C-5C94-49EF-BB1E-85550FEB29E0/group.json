@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D568F7C-5C94-49EF-BB1E-85550FEB29E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EDED10C9-B060-45F3-856E-5161FD94E86C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "766114BD-7082-4947-8E92-064EE67EB392",
+    "height": 155,
+    "width": 400,
+    "x": 1400,
+    "y": 4447
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4D38ED84-0159-4411-99EE-8D87D55EAA46"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED9811A9-05D5-4606-8D6A-DF98B05F75E6"
+    }
+  ],
+  "name": "Github",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F96212C4-838D-4519-96BD-F01E1135A4CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

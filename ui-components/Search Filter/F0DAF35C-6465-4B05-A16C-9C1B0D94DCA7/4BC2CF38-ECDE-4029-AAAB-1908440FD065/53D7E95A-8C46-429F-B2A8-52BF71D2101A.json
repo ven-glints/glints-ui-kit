@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "53D7E95A-8C46-429F-B2A8-52BF71D2101A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D260E50-40D3-4CE9-82C5-A138C768031F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "544B8C85-12C6-442B-82AA-AAA13E350038",
+    "height": 23,
+    "width": 300,
+    "x": 10,
+    "y": 655
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item/Regular",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "177C1D8E-4FDA-47DF-A82B-02646DAD35E2",
+      "overrideName": "020EA173-5452-486B-9B19-D74A91546517_stringValue",
+      "value": "Bogor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "554967A5-D548-42B6-96E8-6F029D657BC4",
+      "overrideName": "2908A6C2-686D-436D-A922-F2BA6FB0A0EC_symbolID",
+      "value": "1FD9F2D2-2561-41B1-8486-A43D1D7C5DF1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D18D6D5-10D9-4242-A965-A80E6DBD1E30",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "14889267-9383-4AAA-BA0D-E019592A3D00",
+  "verticalSpacing": 0
+}

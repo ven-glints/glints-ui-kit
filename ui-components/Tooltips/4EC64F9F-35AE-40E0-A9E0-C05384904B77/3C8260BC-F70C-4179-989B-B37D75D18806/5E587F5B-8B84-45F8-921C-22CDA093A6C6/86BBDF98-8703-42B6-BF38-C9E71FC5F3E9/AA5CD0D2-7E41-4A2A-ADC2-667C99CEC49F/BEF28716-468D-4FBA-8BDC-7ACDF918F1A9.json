@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BEF28716-468D-4FBA-8BDC-7ACDF918F1A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "80D0D6B1-2E5B-4898-B72E-10B078A4628C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62B4D40F-7438-4887-8F12-140024BBD4C8",
+    "height": 475,
+    "width": 336,
+    "x": 0,
+    "y": 505
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Application Card 336px/Special Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CFCA3A9B-D93F-4F51-8A36-9AB78716FE56",
+      "overrideName": "B2A89D47-2708-4DE5-8363-5F3AF7F1D7FD/CB791738-7AE8-451B-9F80-0644A6B3B750_symbolID",
+      "value": "2A505A31-23A7-42DC-987D-103DC7777112"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE49E4F2-BD4F-48E3-9691-8F83EEF111FD",
+      "overrideName": "7CFC2800-34D8-46D4-B58C-5A716B8A6327_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/56f1b2caf0abdfb7f83bf1b67ef7483e73914a9d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A61CAF35-EAB6-4008-ACFD-7743019E66CB",
+      "overrideName": "DF6F33ED-666F-4EFB-A3B6-16920C509643_stringValue",
+      "value": "Asian Paint"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0CC114A8-5BE7-4D5B-9FC5-BBFDC5F886E0",
+      "overrideName": "3F845B28-D4C3-47A6-A306-8460A1220283/DC974953-0783-4C26-984C-E23E1DE16261_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/56f1b2caf0abdfb7f83bf1b67ef7483e73914a9d.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A1E26D3-4CCD-4E41-BD37-CC948050BDEA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A62D6D63-BC55-4DFA-AD90-24956854F0E7",
+  "verticalSpacing": 0
+}

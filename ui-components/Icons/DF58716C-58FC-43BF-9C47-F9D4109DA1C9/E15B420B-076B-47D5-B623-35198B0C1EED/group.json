@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E15B420B-076B-47D5-B623-35198B0C1EED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8AF41E7F-E2AC-4E65-A0B7-C3D9BB68BE55",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4D230C44-31F6-4E49-962F-F2A1535D4204",
+    "height": 155,
+    "width": 400,
+    "x": 200,
+    "y": 2933
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "330B5020-DA18-47E2-BD7D-2936AD833137"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67BFE080-6B0F-4FC2-8099-40CACF0E8073"
+    }
+  ],
+  "name": "file outline",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88002BCE-5690-4403-A1DB-8D42A9A952FA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4C0202EA-04FB-4B51-A49A-4E3779ED4444",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 4391,
+  "clippingMaskMode": 0,
+  "do_objectID": "DF9F6F1F-F392-4C6E-B53F-9C44FCB7CF42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4CF12A03-421A-4B5B-86E5-EC7A03F3A7F8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "29E3007C-CA09-4423-A34E-119259EF2BA4",
+    "height": 454,
+    "width": 300,
+    "x": -168,
+    "y": 2819
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F29F3C2C-93CB-442E-B8C4-3AAA3CC003FA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "909E813E-6D44-449B-9EC9-41ABFD639A1A"
+    }
+  ],
+  "name": "Job Card/Mobile/Regular 2 lines",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24DA1A14-716D-469A-9A90-36A3CD8D6AB2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9D5EB0AB-0D01-482E-9272-5819A92E6F43",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BBFF94AE-D86F-48C5-8651-F82126C33C25",
+    "guides": [
+    ]
+  }
+}

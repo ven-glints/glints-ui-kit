@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1486C4E5-1287-4B4F-8F03-8E74BBD0A716",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 815,
+  "clippingMaskMode": 0,
+  "do_objectID": "4903AF3D-D46F-4A8F-800B-8E18FCFB64E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "710A1495-3B14-46F8-A277-85AB1D26A660",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C02CAA7-D15A-4FC6-8E13-274F4EC1A207",
+    "height": 33,
+    "width": 152,
+    "x": 33712,
+    "y": -564
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3B0679FC-B32C-461C-80D8-D2A6531C5493",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "056BAF71-2819-4F52-B55E-456F6A9FAB73"
+    }
+  ],
+  "name": "tooltip/capsule/white_text",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "90D1D110-B135-4D2B-9C20-F352AABC7DF6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "08A03C7E-0A26-4F5B-A78B-F543F0C27CEF",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B9E61BCD-3487-4493-96C2-F20AC1D93156",
+    "guides": [
+    ]
+  }
+}

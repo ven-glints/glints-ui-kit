@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6AC29334-BE64-4DAF-AB66-823481C1984F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F813E643-87FE-44CD-A3F7-D42B3E534C60",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0D20A339-29FF-4F4C-998D-1CBC3CB8432F",
+    "height": 155,
+    "width": 400,
+    "x": 600,
+    "y": 2933
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "50610E03-BA2E-43D0-82FC-E2CE60B819AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6A91926-19BF-4DDD-A3FD-BC06370FB93B"
+    }
+  ],
+  "name": "file solid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "365B0A3B-F8DA-41FE-8CF9-C3DA7E68D9A2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FB790FA1-3F58-4C2F-B59B-07EC3C4D1C22",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A11D4B8-D3FE-4176-BBD0-BD7321135103",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "991935DE-B377-4CCF-A898-07D26567DCF7",
+    "height": 48,
+    "width": 260,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Card/Desktop/Component/Title 3-lines",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E50D9AD-2141-48E2-AC31-7B70F27F1102",
+      "overrideName": "E3E97219-3816-4DEC-832D-D2FD5040570D_stringValue",
+      "value": "Business Development"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E4DA54A-1121-408E-825E-97C6B7C2C96B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D8D267B5-0478-4B41-A806-669B4FC6306D",
+  "verticalSpacing": 0
+}

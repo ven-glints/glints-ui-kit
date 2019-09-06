@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DAEDADF4-9D31-42C6-8E88-5E0127BCABAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "32D8BA4F-11BC-4A99-B1E8-68FBED899B4A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B406F16A-3482-44C4-B982-CC3E0CFD4B69",
+    "height": 12,
+    "width": 12,
+    "x": 0,
+    "y": 4
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/candidate-trash",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0CF7268C-B377-4DA3-855D-E21BE26A4C54",
+      "overrideName": "DEE331E6-C7F4-4E0A-94EA-5D3FDBC616C4_symbolID",
+      "value": "123D7151-544B-40D9-9266-C556A878035A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27FD53EE-5CA7-4C9D-82A8-D9E94A66E0B3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2960FEB7-937D-425C-88A6-32FE6862925B",
+  "verticalSpacing": 0
+}

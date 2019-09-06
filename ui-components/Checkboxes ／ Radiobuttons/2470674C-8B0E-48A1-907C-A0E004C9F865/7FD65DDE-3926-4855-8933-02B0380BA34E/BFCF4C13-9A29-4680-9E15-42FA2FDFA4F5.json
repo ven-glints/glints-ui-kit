@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BFCF4C13-9A29-4680-9E15-42FA2FDFA4F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C1BE412-B3B1-4239-AA0F-6D136CE98EB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A3EE6B8-F154-4D1D-9C07-2467E3D57D94",
+    "height": 23,
+    "width": 200,
+    "x": 0,
+    "y": 97
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "94D86B7F-9225-42FD-ABBB-926DABF10445",
+      "overrideName": "2908A6C2-686D-436D-A922-F2BA6FB0A0EC/8AF3BC79-3445-460D-AF74-C96D031541F6_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A282DC6-9C05-4BEE-BDF8-B11FAD175374",
+      "overrideName": "020EA173-5452-486B-9B19-D74A91546517_stringValue",
+      "value": "Matthew Lina"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "63AC8DF9-9A1C-468C-A016-C17299ED71DD",
+      "overrideName": "2908A6C2-686D-436D-A922-F2BA6FB0A0EC_symbolID",
+      "value": "5F89DDEC-8F74-48CE-BF26-AE3995FC70AD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "369B30C5-5E9F-4C73-899F-FBD5E14947E6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "14889267-9383-4AAA-BA0D-E019592A3D00",
+  "verticalSpacing": 0
+}

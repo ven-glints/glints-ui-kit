@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4C4F2883-E1EE-4C5F-AD7C-CEDF6F2A21C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31DF8685-66D5-4EB0-AF34-537656FD71CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0831FB12-F7AC-4DD4-AD8A-1C6162DC881E",
+    "height": 78,
+    "width": 300,
+    "x": 2200,
+    "y": 298
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "364DBBCF-528D-40BE-A34C-1A42D1C20DAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6AFCFB3-1745-406F-A4E0-0D5C2941BFBB"
+    }
+  ],
+  "name": "Text Field - Error",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "066CA082-E1C8-41D3-8CC9-999BC7BB0E9C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

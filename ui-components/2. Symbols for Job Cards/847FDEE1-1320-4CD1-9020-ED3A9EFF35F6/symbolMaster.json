@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D7994CB8-D525-4FC8-B5F0-B65E09C39735",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1713,
+  "clippingMaskMode": 0,
+  "do_objectID": "847FDEE1-1320-4CD1-9020-ED3A9EFF35F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DECD7122-A990-42BE-804A-15093FFAC4EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0AE9CF5E-41EE-448A-B4EB-74A1B9A3657E",
+    "height": 55,
+    "width": 446,
+    "x": -1864,
+    "y": 1477
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5BBDF77A-6F6A-465D-A00A-F170103370CC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "88D029FA-7C3E-4980-ACDF-A45A4C73360B"
+    }
+  ],
+  "name": "Job Card/Desktop/Component/CTA-Saved",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "17B08FC3-51BF-47E2-9B92-D1A64517ADD5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "86F7E576-83E9-431E-B677-075AB9C41B85",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2A1E5D1E-9372-4D5A-9570-084C363543C3",
+    "guides": [
+    ]
+  }
+}

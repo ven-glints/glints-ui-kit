@@ -1,0 +1,113 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C3C2FF36-DE6C-48D9-B527-57E84C1C4734",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 85.71428571428572,
+    "width": 100,
+    "x": 0,
+    "y": 1.27897692436818e-13
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "46D08290-F4FB-43DB-B5C4-7529C8732743"
+    },
+    {
+      "class": "shapePath",
+      "id": "B188FAD7-D3F1-43C7-BB9A-9DB4411BC694"
+    },
+    {
+      "class": "shapePath",
+      "id": "AE3DF510-7095-4AD0-90E8-70BDB4CECE5B"
+    },
+    {
+      "class": "shapePath",
+      "id": "56FC9B0E-7479-4BC3-B261-98A53C2D1F53"
+    },
+    {
+      "class": "shapePath",
+      "id": "1662E4B8-1444-47E4-AB08-0D988A097945"
+    },
+    {
+      "class": "shapePath",
+      "id": "9EA90470-4075-4FFD-8BC9-E7EA728726FF"
+    },
+    {
+      "class": "shapePath",
+      "id": "CA201EFA-CA4F-4C33-AF7F-0B34916C619F"
+    }
+  ],
+  "name": "camera-retro - FontAwesome",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "FontAwesome",
+            "size": 20
+          }
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

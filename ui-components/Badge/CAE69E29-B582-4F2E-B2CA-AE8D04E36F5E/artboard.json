@@ -1,0 +1,84 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "428A1C61-EE8A-42B9-B63E-8F8A6F8E4CD4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CAE69E29-B582-4F2E-B2CA-AE8D04E36F5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2CD92D7C-28E7-4F2F-9F54-C2FCB2BF540A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B1D917B1-C0A3-47FA-891E-0E7EF5D4CCC0",
+    "height": 523,
+    "width": 1000,
+    "x": -57,
+    "y": 902
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "22C94BB8-1ABD-4FBC-9128-F928316C8C39",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "01DBD6B2-5A5B-4A52-925F-DDA22497CB60"
+    },
+    {
+      "class": "group",
+      "id": "E031FA77-2BFB-45BA-955D-3D99461A6DE5"
+    }
+  ],
+  "name": "Badge",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "770D2490-9CB5-4119-B8C4-BEA0A0933270",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F9AE4685-2733-473A-9B08-58B39D855EB1",
+    "guides": [
+    ]
+  }
+}

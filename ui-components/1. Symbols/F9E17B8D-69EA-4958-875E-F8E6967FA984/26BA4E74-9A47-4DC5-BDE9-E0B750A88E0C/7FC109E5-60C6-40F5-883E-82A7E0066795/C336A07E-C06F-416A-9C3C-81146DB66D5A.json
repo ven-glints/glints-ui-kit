@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C336A07E-C06F-416A-9C3C-81146DB66D5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DEB5E8F-3DAD-4F5B-801A-7D7B5C996647",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "696D15D4-AFDE-4E20-BA22-DC770F9836A4",
+    "height": 17,
+    "width": 406,
+    "x": 0,
+    "y": 44
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Card/Desktop/Component/Timestamp Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD4DB2B5-F47C-4BFA-BA8A-90D855953B6B",
+      "overrideName": "81ED0F50-D44A-48F9-9346-4824042AC231_stringValue",
+      "value": "This company was login 2 days ago"
+    }
+  ],
+  "resizingConstraint": 31,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "765DD37A-E6D6-4B63-8B57-60379BC6B2F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "37315328-E43E-4745-9A73-08D05D45C3A8",
+  "verticalSpacing": 0
+}

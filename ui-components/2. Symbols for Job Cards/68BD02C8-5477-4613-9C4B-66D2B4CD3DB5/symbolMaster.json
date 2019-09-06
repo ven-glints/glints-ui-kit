@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "11E6C9B0-2BAF-4A23-B995-4EB40808ACFF",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1774,
+  "clippingMaskMode": 0,
+  "do_objectID": "68BD02C8-5477-4613-9C4B-66D2B4CD3DB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A0CED685-37D8-4242-8A84-8A82C0AE8B4A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CAA96021-CA2B-41B5-B29B-684049F6DC04",
+    "height": 50,
+    "width": 115,
+    "x": -2149,
+    "y": 1512
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "75CCDB5D-8C7E-4733-B416-2DBEC632C1EC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "39F54694-F269-4F3D-90FB-839049F819F9"
+    }
+  ],
+  "name": "Job Card/Desktop/Component/CTA/Details-Hover",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42C3FFD5-AD6B-440E-8914-0FC98741CCDD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "41F939F2-A916-48C6-99E0-E5FCF1B519DD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BA072767-EA48-4B18-93E8-25D719A3AFD8",
+    "guides": [
+    ]
+  }
+}

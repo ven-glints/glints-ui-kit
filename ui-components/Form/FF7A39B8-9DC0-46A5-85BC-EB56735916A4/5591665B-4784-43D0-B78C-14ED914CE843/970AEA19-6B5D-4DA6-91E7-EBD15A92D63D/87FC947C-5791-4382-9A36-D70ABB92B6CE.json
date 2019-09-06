@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "87FC947C-5791-4382-9A36-D70ABB92B6CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14FCDBFD-E323-4404-8B78-470ED457F11F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D70304C-1204-4742-9081-4B13B18126E0",
+    "height": 17,
+    "width": 126,
+    "x": 10,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/text-Field/Floating-Label/Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A058FED-6457-4169-BD94-5376D8254A77",
+      "overrideName": "38D455A3-2431-44C9-A9DF-E24725F2D5AF_stringValue",
+      "value": "Enter your text here"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "43C98BC4-A133-4463-9928-8DB6A90723E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D23B596D-2C32-4A42-89B4-8EAE764AB04C",
+  "verticalSpacing": 0
+}

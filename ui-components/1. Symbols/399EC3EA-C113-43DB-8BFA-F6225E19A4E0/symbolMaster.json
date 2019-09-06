@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8ECB6434-49A1-4F17-8592-50E1512FC098",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 205,
+  "clippingMaskMode": 0,
+  "do_objectID": "399EC3EA-C113-43DB-8BFA-F6225E19A4E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E21C7E88-97B6-4A60-9154-262FDC721FF5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "64E08F5A-B7CE-4B91-A34E-5BA454A3E6FB",
+    "height": 53,
+    "width": 300,
+    "x": 100,
+    "y": 8174
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "346638EA-AB08-4C08-AF8F-7CE857CA614C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3FB2B4EE-26DC-467E-A1DC-FD1149620ED1"
+    }
+  ],
+  "name": "Button-Blue-300/Default",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "981010A8-82F2-459F-B3F1-A56112001AB5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "65C46480-0F13-416D-B7A6-77FAD966FEFA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "55AB8D6E-03D4-4AB7-BE0E-578E0AEB52F7",
+    "guides": [
+    ]
+  }
+}

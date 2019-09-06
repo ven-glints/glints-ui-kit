@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5E3F9E27-81DF-4405-ACCC-51F69F92BCF6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A150B04-7573-4BA9-884C-B7F4FB46A837",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8F8F55A2-E41D-4776-A97D-F134B8D17DE2",
+    "height": 30,
+    "width": 225,
+    "x": 150,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tag/filter-tag",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FECBA280-3A8D-4406-8367-F9732E3B042F",
+      "overrideName": "988DC364-3743-41DA-B724-89C514DD0DA4_stringValue",
+      "value": "Mechanical Engineering"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "67F0E5E4-B681-481F-9D5E-F6C563B41CE7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4884471D-90B6-485C-898F-3203D2DFBED5",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "83D7E6FF-25CD-4681-86F7-2D48BCF05938",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 448,
+  "clippingMaskMode": 0,
+  "do_objectID": "8CCEC473-8221-4048-96AD-1C24A247B982",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D88B821-61D5-489C-A92D-8ADE946FDCD8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66421A3B-DEB3-4A0D-BEE4-36D85649A964",
+    "height": 53,
+    "width": 300,
+    "x": 100,
+    "y": 2197
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "53B27FF1-F07F-44FF-9B62-5214670BADCA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2A8404EC-AA49-40FF-9401-43C78B9B345C"
+    }
+  ],
+  "name": "Button/Mobile/BG/Glints-Blue",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "723AD9EB-AF48-4DF5-953D-F68DBF0DD6E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "365B6FB7-9651-4565-8726-8D549A9CAA70",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D7BA85EC-D88B-44F3-BEAC-09993FAA7EF0",
+    "guides": [
+    ]
+  }
+}

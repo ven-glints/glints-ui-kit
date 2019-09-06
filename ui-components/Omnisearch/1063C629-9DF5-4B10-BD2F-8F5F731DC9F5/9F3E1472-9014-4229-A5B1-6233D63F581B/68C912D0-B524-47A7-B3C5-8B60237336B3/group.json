@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "68C912D0-B524-47A7-B3C5-8B60237336B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0E781DB2-D5C2-4F27-95E1-50E12961F0A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4AAAD1FC-3B31-468B-8E3D-30410F524068"
+    },
+    {
+      "class": "shapePath",
+      "id": "6665FB37-D98D-44D4-88E5-428C3A9FFDB1"
+    },
+    {
+      "class": "text",
+      "id": "F4293405-0A87-4983-B107-8FBA3867FA68"
+    }
+  ],
+  "name": "home/searchbox-mobile-active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

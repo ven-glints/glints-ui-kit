@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8294294B-3C29-423A-90A3-B5EE8BB6661A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1623D5AC-08FA-40D3-83D0-D6C02A6DB7FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "68F3B216-5499-44C8-A9F1-871BE611BBAC",
+    "height": 20,
+    "width": 248,
+    "x": 21,
+    "y": 133
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1058BF4-60BE-456F-AFD7-0324914F0E9E",
+      "overrideName": "55062722-C0EF-40F0-9574-68A65300DEA1_stringValue",
+      "value": "Javascript"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B0CD5607-4CFF-42A4-8E7B-C161ACE5B9B9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69D5FE0E-3982-4F99-AD3E-59EEC42B47E7",
+  "verticalSpacing": 0
+}

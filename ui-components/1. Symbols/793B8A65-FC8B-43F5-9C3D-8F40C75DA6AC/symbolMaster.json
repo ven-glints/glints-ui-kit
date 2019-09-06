@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "40FE3B1C-37F9-4A2C-93C0-45C1041F507A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 341,
+  "clippingMaskMode": 0,
+  "do_objectID": "793B8A65-FC8B-43F5-9C3D-8F40C75DA6AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A34D6BD6-BCB4-4604-9201-6B989FCF4338",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C56D4014-2580-4966-A0F2-5CEA43ECD910",
+    "height": 53,
+    "width": 112,
+    "x": 33985,
+    "y": -527
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1CB371CB-C241-46FB-9C25-C4110836E8BB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0A190EEB-D8B1-431C-BB82-3889796775EB"
+    }
+  ],
+  "name": "filter/heading-default",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B68028F1-707D-4EB7-AF12-371BCC24E50D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "460665A3-91CB-4B45-8838-B604D58CB93D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "ADA43C56-FDD5-4208-88C8-852377F34D3B",
+    "guides": [
+    ]
+  }
+}

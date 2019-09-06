@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9C3EAD60-753E-4548-BBC6-D300A63CD189",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B196C7C-5703-4ADE-982C-A5B33995828B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "92AA10D1-28D7-4A79-B329-808A2C9043C8",
+    "height": 20,
+    "width": 248,
+    "x": 20,
+    "y": 226
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1058BF4-60BE-456F-AFD7-0324914F0E9E",
+      "overrideName": "55062722-C0EF-40F0-9574-68A65300DEA1_stringValue",
+      "value": "Finance"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D068A79-0B21-4101-8ABC-A8729388D3E3",
+      "overrideName": "9F9415EA-83AC-40B6-B258-D51D75E292D5_symbolID",
+      "value": "5F89DDEC-8F74-48CE-BF26-AE3995FC70AD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AEA520BD-96B5-4EAC-9016-82F3E20224A3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69D5FE0E-3982-4F99-AD3E-59EEC42B47E7",
+  "verticalSpacing": 0
+}

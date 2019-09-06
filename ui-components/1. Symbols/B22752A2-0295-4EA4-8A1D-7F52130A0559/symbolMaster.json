@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CF4A466E-8B09-41CF-8461-BDCE69A77645",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 993,
+  "clippingMaskMode": 0,
+  "do_objectID": "B22752A2-0295-4EA4-8A1D-7F52130A0559",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF79283B-CD16-43B5-BFE1-87D5B765107E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "108363A0-1F1F-4E80-9E9F-434FE407239D",
+    "height": 55,
+    "width": 55,
+    "x": 50556,
+    "y": -1233
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "16022E62-E92E-40C2-ABBD-24876151CBDD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "80C3F8E5-9F59-4844-80BD-B92748BEF05F"
+    }
+  ],
+  "name": "✱/Color/action-blue",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "70C491B6-817B-4987-9557-A786B70921AB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6A0FDD1F-8BCB-464A-AE65-B055D0A01027",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "76B1A376-4B83-45BE-A3AE-F67928082478",
+    "guides": [
+    ]
+  }
+}

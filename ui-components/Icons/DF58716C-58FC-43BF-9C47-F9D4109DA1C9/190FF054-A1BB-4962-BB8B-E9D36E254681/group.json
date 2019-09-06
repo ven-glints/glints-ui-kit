@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "190FF054-A1BB-4962-BB8B-E9D36E254681",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD875D1C-F375-4B58-B49E-498BACA22216",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0F18FD50-0148-4ED0-AC32-D81B17E600CE",
+    "height": 155,
+    "width": 400,
+    "x": 1800,
+    "y": 1417
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C14CF10A-9371-4766-AC57-269840ACC6CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03805F88-75DF-4FD0-A143-E41C270F918C"
+    }
+  ],
+  "name": "spinner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "13039884-1086-4D53-A3D3-19272043D51B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

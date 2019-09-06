@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C9E9822F-E64E-4FA7-A4E4-1362CEDC147D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03ABA13F-7E30-413B-9B86-0F020E0A2608",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE68C12F-1F9D-4E16-BDAD-2C3036E39749",
+    "height": 23,
+    "width": 60,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Mobile/Text/Blue",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "05159305-4AEF-4AA4-8806-B0101FD596EF",
+      "overrideName": "240F5D67-4F9C-4EC8-9A52-C8A10F96EF19_stringValue",
+      "value": "filter"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "640F961B-3491-4B39-A69F-31E17D224E20",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FB1BDCA7-8258-4A95-82CA-7E9249F39E78",
+  "verticalSpacing": 0
+}

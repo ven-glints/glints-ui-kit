@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "829E43A8-C80A-4217-AB47-5C9F6AEFCD6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 352,
+    "width": 300,
+    "x": 139,
+    "y": 600
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7253B21F-AFAA-4408-9CB4-92E56C507C99"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "51899ADB-9E6B-46FE-8210-E0ACBFECA899"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3990E0BB-C1E7-4AC2-A1E4-E009406EBACD"
+    },
+    {
+      "class": "text",
+      "id": "D1724894-891E-4B5A-BC1B-9F104BD4B086"
+    }
+  ],
+  "name": "Bottom Pop Over w/ Menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

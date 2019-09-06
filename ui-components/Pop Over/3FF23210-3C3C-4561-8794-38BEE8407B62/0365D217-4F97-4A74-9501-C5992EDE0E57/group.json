@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0365D217-4F97-4A74-9501-C5992EDE0E57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 368,
+    "width": 300,
+    "x": 687,
+    "y": 85
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "76647443-D3AA-43B6-9A6C-D122C4A67183"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B11CE914-3023-45F2-909D-AAD0FE6692FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2856944D-14BD-4547-B440-418D3C64D501"
+    },
+    {
+      "class": "text",
+      "id": "4F35BEE5-80A5-4B66-B027-8C1659824441"
+    }
+  ],
+  "name": "Top Pop Over ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

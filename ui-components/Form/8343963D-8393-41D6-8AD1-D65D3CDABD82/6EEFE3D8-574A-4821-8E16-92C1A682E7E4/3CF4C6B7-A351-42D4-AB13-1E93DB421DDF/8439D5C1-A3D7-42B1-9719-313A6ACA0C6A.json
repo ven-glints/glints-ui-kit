@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8439D5C1-A3D7-42B1-9719-313A6ACA0C6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AF2D4E35-88A2-4B6F-9F84-91BB671CEC7A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56D79D13-B0FD-4627-8D6B-2688FFD288AA",
+    "height": 20,
+    "width": 133,
+    "x": 127,
+    "y": 51
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Text-Field/Helper-Text/Error",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "63049577-DC6A-4BEB-A5BD-68257682447B",
+      "overrideName": "EFDD6C88-0AAA-4789-BA81-20658AC8A050_stringValue",
+      "value": "Your phone number is invalid"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "17316E14-3188-4767-9139-7A5439D7ACC1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A01EF5BA-A48D-4FB0-A896-DDEFEAC6BFA1",
+  "verticalSpacing": 0
+}

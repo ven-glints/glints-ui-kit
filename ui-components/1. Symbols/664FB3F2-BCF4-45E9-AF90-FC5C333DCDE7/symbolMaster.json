@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5CBAB4D9-A02B-40F1-A46C-22C618647959",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 858,
+  "clippingMaskMode": 0,
+  "do_objectID": "664FB3F2-BCF4-45E9-AF90-FC5C333DCDE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F24A1F53-B5FD-4B0D-BF5B-3EC8E9C91FBD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90A94F24-A116-4F7D-A12B-6096C8A19BD7",
+    "height": 55,
+    "width": 55,
+    "x": 17005,
+    "y": -699
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "86711A57-FC14-4AF2-A275-DD8FE6BF6BF3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "97A1FA09-D27E-43D9-8F27-BF56D5216C96"
+    }
+  ],
+  "name": "✱/Color/action-blue",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18C48D04-45DA-4C64-8FE8-B21A9A813E68",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "68EEDA20-429C-4695-B22D-24E5CBA63A2E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "71AB60D5-1E5F-46A3-8B02-514E0B41C9DD",
+    "guides": [
+    ]
+  }
+}

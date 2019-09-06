@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F764C30A-6948-474F-93A3-965CFE9952C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7480D65D-13BE-4778-8234-DE05317EB7FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "22F6ADF4-FEA5-4BE5-B195-6665CC9526DA",
+    "height": 166,
+    "width": 400,
+    "x": 1800,
+    "y": 3935
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "2B8CB465-46BA-4AD5-B9E1-26D77F34687D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85BC514E-82A4-4C10-AE4C-3E514671795C"
+    }
+  ],
+  "name": "mail solid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8FA47DF-2980-420E-9BAF-2F62F4E85CC1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

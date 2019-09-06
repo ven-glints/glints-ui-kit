@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1FE41C06-6FF7-4776-8CD0-6EACB755A380",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BBA7397C-FADE-4A8B-B876-2A14BF1060BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "45485D1A-CE2F-4579-997A-C7C49422218D",
+    "height": 53,
+    "width": 260,
+    "x": 0,
+    "y": 98
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "75359679-AF0C-4481-A5A8-8D66E2B27E36"
+    },
+    {
+      "class": "text",
+      "id": "43F0DD24-08C3-4606-85D3-4F54CF0E1BF7"
+    }
+  ],
+  "name": "Password Field - Default ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A97CC53A-1AE8-4C6A-B1A3-F81DD07F24BF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

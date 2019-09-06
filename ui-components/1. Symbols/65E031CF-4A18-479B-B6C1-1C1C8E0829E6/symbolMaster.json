@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "35CD1359-7A59-4D36-8AC0-0BE247F7FCE2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1505,
+  "clippingMaskMode": 0,
+  "do_objectID": "65E031CF-4A18-479B-B6C1-1C1C8E0829E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B06FE8A-3E15-4409-B356-7407FFF1DD42",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50345531-EC65-4294-95A9-9DCCF23B6121",
+    "height": 53,
+    "width": 300,
+    "x": 460,
+    "y": 1049
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1D6018F0-90A6-4B5E-900A-74B5F3C57F02",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A42D5A42-7212-47C7-825D-67DAF5CE1F5F"
+    }
+  ],
+  "name": "Button/Mobile/Red-Hover",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B7FA87E-67E9-4046-B999-68D6C989604B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B0754945-C1D8-4815-A6A8-C18E5DF67B60",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "31288939-4B35-4315-B21E-73BDD2D74948",
+    "guides": [
+    ]
+  }
+}

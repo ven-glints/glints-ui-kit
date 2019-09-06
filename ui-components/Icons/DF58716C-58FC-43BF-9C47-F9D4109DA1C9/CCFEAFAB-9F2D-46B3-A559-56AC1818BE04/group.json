@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCFEAFAB-9F2D-46B3-A559-56AC1818BE04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C30F29F-40A6-4E11-8D5E-A1D70BB36E9B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E89061DE-3382-402D-AC1A-9BCB5AB80E01",
+    "height": 155,
+    "width": 400,
+    "x": 1400,
+    "y": 3178
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FFB6FB6A-BE3B-4ED6-8909-2397BE163EFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "319A89D6-F793-41CC-85B9-27CCF2D4140C"
+    }
+  ],
+  "name": "eye solid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F2BEE332-482C-47D9-B4EF-7FC6F899C8E9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

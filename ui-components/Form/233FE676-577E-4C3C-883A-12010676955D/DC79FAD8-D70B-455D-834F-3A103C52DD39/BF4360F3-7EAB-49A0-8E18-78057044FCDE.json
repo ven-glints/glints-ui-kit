@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BF4360F3-7EAB-49A0-8E18-78057044FCDE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0EE6F049-7A53-4393-9968-CCC1C4D3F7DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC960C0F-C67F-43BB-92AA-993A45763132",
+    "height": 20,
+    "width": 300,
+    "x": 0,
+    "y": 68
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/text-Field/Helper-Text/Error",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53C09EF9-2996-4338-815D-FE2C409A97B0",
+      "overrideName": "EFDD6C88-0AAA-4789-BA81-20658AC8A050_stringValue",
+      "value": "Your first name is not good enough"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F49CDAF7-CE60-48FF-810E-47C283B6D524",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A01EF5BA-A48D-4FB0-A896-DDEFEAC6BFA1",
+  "verticalSpacing": 0
+}

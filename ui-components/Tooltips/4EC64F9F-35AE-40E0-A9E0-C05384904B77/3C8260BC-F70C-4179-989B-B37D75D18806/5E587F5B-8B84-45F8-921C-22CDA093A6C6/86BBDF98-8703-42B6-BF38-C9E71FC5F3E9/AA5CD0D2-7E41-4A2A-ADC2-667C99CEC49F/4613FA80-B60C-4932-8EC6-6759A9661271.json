@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4613FA80-B60C-4932-8EC6-6759A9661271",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "487828E9-7379-44D7-94C7-698A3AE0CBCE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "567A90D8-7212-4966-85DD-8A5C37192E62",
+    "height": 475,
+    "width": 336,
+    "x": 732,
+    "y": 505
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Application Card 336px/Special Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0D913FC-45B1-4EED-9558-39A2A81349D6",
+      "overrideName": "5D679D70-E169-4A62-9BB5-FF5024FABA32/CB791738-7AE8-451B-9F80-0644A6B3B750_symbolID",
+      "value": "72B2405A-FEE0-40CF-92FA-89738055A767"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F26050C-6B00-4CFF-A969-0F1DBAFE5B00",
+      "overrideName": "D601A4A2-C3B0-40CE-B36E-FAC5E6340709/DC974953-0783-4C26-984C-E23E1DE16261_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/01202ee821b13e7a8f6eb9e4fd47317aa4b81931.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7A93EBD-8114-427B-9478-27B530B3DBFB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "11A6039B-97DC-4F03-9A7D-9B0F9205D045",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "19095F0D-DCDD-4BFA-B932-88288A78BAAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D6B3CA7B-ACAE-4030-996F-DC1F91F217DE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "16CB0BFF-1DE9-497B-BEA5-3496FA312D1D",
+    "height": 59,
+    "width": 59,
+    "x": 104,
+    "y": 195
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/candidate-quotation-mark",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9010B09A-2C34-4878-9C53-A54923E54730",
+      "overrideName": "749DF537-2323-47CD-8EB5-62219D1A08E4_symbolID",
+      "value": "123D7151-544B-40D9-9266-C556A878035A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E631A546-3B70-4CA9-B155-B2D95E21A41B",
+      "overrideName": "89717BA3-9820-4AD2-A991-3668B6830E85_symbolID",
+      "value": "123D7151-544B-40D9-9266-C556A878035A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1061525B-8C0E-49C0-BFCF-D27512FA2D78",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BF006434-82AE-45FA-A810-80FAFE5A2CF8",
+  "verticalSpacing": 0
+}

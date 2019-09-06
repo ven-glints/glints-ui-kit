@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F28C669-688B-4A45-AC98-304C6F207CCE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20E767D5-ADE1-4EC3-90EF-75495994B75D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1C01B21-6CC1-4CCF-8E3F-99EEC31D6D2C",
+    "height": 306,
+    "width": 400,
+    "x": 0,
+    "y": 10
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Textarea Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F0F8ACB4-8E83-41D8-A253-E31FDB3492CF",
+      "overrideName": "07AB3000-0181-487D-B2CE-214DB0A15838_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "47BF65A9-9F95-43B5-9F89-5080C8166FEC",
+      "overrideName": "8F9EC179-0EF7-4D6B-8515-9561212C326E_symbolID",
+      "value": "565987B0-F540-474B-9015-75E6C980B968"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B38310E-FAB3-4CA5-9D69-B31732D2DE18",
+      "overrideName": "8F9EC179-0EF7-4D6B-8515-9561212C326E/FD685354-8307-4FBA-A350-FB25F3530526_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis sodales purus, lobortis congue tortor. Ut scelerisque malesuada efficitur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis sodales purus, lobortis congue tortor. Ut scelerisque malesuada efficitur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis sodales purus, lobortis congue tortor. Ut scelerisque malesuada efficitur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D805CF1-2053-46FB-94A7-8C8702472EB6",
+      "overrideName": "7A5775BB-42C1-4D46-8867-BB2043B520CF_symbolID",
+      "value": "6061CE93-20A8-4EDA-9912-03DD923297CF"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "08AB6BB4-431F-4F0F-953B-994BF5F0C3EA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "588C3A2A-5D8A-4E7C-902F-7B2BD6319868",
+  "verticalSpacing": 0
+}

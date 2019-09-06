@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3751AC5-3917-4AFF-857F-0E19A5607D34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3566D330-8A1A-40F0-BC8C-0104AF1D601B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "394F04C6-3C54-42F5-BE2F-053036104AD8",
+    "height": 53,
+    "width": 260,
+    "x": 360,
+    "y": 98
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9C3D19DE-7EFE-4A4C-B9F7-E0FB3999C60C"
+    },
+    {
+      "class": "text",
+      "id": "C726E21F-FA7F-42F8-A1FD-A33BDE5490B0"
+    }
+  ],
+  "name": "Password Field - Default  Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FCCDE2FF-E598-453A-B1F3-336B979C64C5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

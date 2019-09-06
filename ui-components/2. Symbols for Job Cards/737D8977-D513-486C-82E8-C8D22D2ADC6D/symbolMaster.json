@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D4FAA734-D518-43F7-BF3C-1140D4BB219F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1146,
+  "clippingMaskMode": 0,
+  "do_objectID": "737D8977-D513-486C-82E8-C8D22D2ADC6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2472E9F-0153-4408-9B26-15C4E25FAB94",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4061CC6E-D4EA-4D53-A739-CFB88CAA18D8",
+    "height": 90,
+    "width": 90,
+    "x": -2422,
+    "y": 1372
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0960C88B-9377-4D18-91CD-25FCA8186D03",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F151585F-B99B-4CBE-9473-B0A3274ED5B6"
+    }
+  ],
+  "name": "Job Card/Desktop/Component/Company-Logo",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36E9CDFF-6970-49AF-AF0A-0E52989701BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "65D0F526-F9DC-4B93-A019-32C212E45390",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0CC104B3-12F6-499D-8EB3-50EA4BB3DAF7",
+    "guides": [
+    ]
+  }
+}

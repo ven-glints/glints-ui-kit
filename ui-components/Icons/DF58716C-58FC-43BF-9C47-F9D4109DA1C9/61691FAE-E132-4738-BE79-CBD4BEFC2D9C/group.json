@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "61691FAE-E132-4738-BE79-CBD4BEFC2D9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "607BD4DC-D45A-460D-B8A4-AC33F7D3F2E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "46F1502E-CE5A-4AEA-B03E-C01D3EE40CA4",
+    "height": 155,
+    "width": 400,
+    "x": 1800,
+    "y": 4447
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FD7D19B3-5EF0-4E84-A300-7DD37F0417E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3255C91-43DF-4121-83B8-95BD8FA43BFD"
+    }
+  ],
+  "name": "Google Plus",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E228AD3C-C33A-4F2C-AAAA-E1F364A92C2E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

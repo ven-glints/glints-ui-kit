@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9A2C8C33-A3CE-4FF4-BE9A-0CCFA445B81B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC61D4D9-FD61-4299-85C7-B218DCF5E594",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC61C203-5FE9-4CE6-8926-6526A1D6BC64",
+    "height": 479,
+    "width": 300,
+    "x": 1000,
+    "y": 389
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Card/Mobile/Regular 3 lines",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85325FAF-5150-46F1-9C14-A45527D0989D",
+      "overrideName": "A6AE7F5A-065B-4124-A3F2-A0D1514A6328_symbolID",
+      "value": "CE26B2F5-CFEF-45D8-893B-EA44A3E11589"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A0F1212-638B-47E6-9014-5707DBA8A429",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F74354B1-8DE1-4133-964D-CBE1D27FD07F",
+  "verticalSpacing": 0
+}

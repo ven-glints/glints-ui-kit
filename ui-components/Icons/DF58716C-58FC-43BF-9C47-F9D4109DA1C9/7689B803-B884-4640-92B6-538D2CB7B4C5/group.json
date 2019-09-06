@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7689B803-B884-4640-92B6-538D2CB7B4C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "95258899-5585-46F5-AFB9-3DDF90A87107",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "389153CF-A599-4E21-89EE-FE8E4CCDB1D6",
+    "height": 155,
+    "width": 400,
+    "x": 600,
+    "y": 4692
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E136C7C8-8742-4DAA-B6F9-361F051A9397"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5DEF1D92-A618-4C39-9C45-4F945D4AE175"
+    }
+  ],
+  "name": "Youtube",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E0DFC3C8-EF42-4BF4-8F7A-A5B72D4502BB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

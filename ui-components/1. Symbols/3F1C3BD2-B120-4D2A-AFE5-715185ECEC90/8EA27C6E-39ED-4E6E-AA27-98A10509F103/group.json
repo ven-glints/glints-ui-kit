@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8EA27C6E-39ED-4E6E-AA27-98A10509F103",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB8186CF-CBD9-4181-8DE6-E23A881CCE6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F25CABD1-150C-4018-AEBD-FDF72667FABD",
+    "height": 100,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "20130598-12DF-4944-8ED9-37A9D4E6B5A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7AADECBA-6CEC-4A6F-BB2D-012A669C35FF"
+    }
+  ],
+  "name": "icon/candidate-arrow-next",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA26D426-C897-45B5-96BD-55667D0C7ABA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

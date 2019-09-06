@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FB804701-3CE6-4AE9-A96F-D1BDF6560FC1",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2875,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C2B5BAD-C48B-4A18-A6EB-C010F8197F4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FDD5DFEC-34CE-4049-822F-29122DCC44F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6272DAAB-0D0A-467A-819E-231F539229D8",
+    "height": 520,
+    "width": 446,
+    "x": -912,
+    "y": 1372
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1436B613-2C04-4FFD-A2C9-5B62D32089D6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "12B38D06-4C44-4A0C-BC69-E03B8DA11088"
+    }
+  ],
+  "name": "Job Card/Desktop/Special",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6680279A-BEC9-4512-B1DD-C71561BAB117",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A1EE2395-0FBD-4448-A387-502F6CBEF440",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D2B47CD1-9A86-41BD-B911-0B3D82C1DBF6",
+    "guides": [
+    ]
+  }
+}

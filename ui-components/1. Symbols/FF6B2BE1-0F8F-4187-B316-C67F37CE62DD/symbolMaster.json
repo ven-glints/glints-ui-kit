@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9FA6FC50-57E5-42A1-A066-4CE2101660E4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 443,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF6B2BE1-0F8F-4187-B316-C67F37CE62DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9D34AE66-FA28-48E3-A664-3EA46AAD472C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F01D590-8E54-49A0-9D25-F9E19DC4F85E",
+    "height": 53,
+    "width": 400,
+    "x": 41702,
+    "y": -586
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E28A883E-C490-4D62-96E4-06699F920CBD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B6EDC491-13AC-4452-AB4F-1B236A1A483A"
+    }
+  ],
+  "name": "TextField/input-box-active",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "509D3628-898D-4E8F-B797-E45CCA79A05F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "39F43374-E1B0-4558-A172-94EAD152D45F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8182AC86-C01B-413F-AB45-8549E0324FDD",
+    "guides": [
+    ]
+  }
+}

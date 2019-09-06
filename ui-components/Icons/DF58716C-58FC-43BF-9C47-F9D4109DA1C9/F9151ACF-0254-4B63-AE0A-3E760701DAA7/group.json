@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F9151ACF-0254-4B63-AE0A-3E760701DAA7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "356116B5-10AA-4F46-8B0A-4661B50F2F13",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D8EB8EF1-4D09-4D8A-899D-8E2EC61048ED",
+    "height": 155,
+    "width": 400,
+    "x": 1000,
+    "y": 1674
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "14634C7A-5530-4680-B4B5-750D816C3E3C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0964CC9-97DF-4B99-9911-02508877153A"
+    }
+  ],
+  "name": "warning solid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E3A6193-701A-4BC9-9DA8-E2D6E0A9DFCE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

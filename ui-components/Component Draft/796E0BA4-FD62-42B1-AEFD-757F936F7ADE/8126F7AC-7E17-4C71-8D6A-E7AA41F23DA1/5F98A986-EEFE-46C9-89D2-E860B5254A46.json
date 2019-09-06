@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F98A986-EEFE-46C9-89D2-E860B5254A46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56AE64A5-86A9-424C-B8FB-3A01BCB0A6DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "15549135-7AD3-4B08-B1AC-41131920479C",
+    "height": 20,
+    "width": 91,
+    "x": 45,
+    "y": 10
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Mobile/Text/White",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FDDE3371-B67A-4AF1-9C1E-03ADAB522320_stringValue",
+      "value": "BOOKMARK"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB472555-DA6F-4E03-9894-67FB43BA87D9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "323C9188-7DC6-4C96-B63C-3EF74E2DA732",
+  "verticalSpacing": 0
+}

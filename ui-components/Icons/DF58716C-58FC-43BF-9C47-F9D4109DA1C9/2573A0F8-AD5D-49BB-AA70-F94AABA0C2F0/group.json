@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2573A0F8-AD5D-49BB-AA70-F94AABA0C2F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9914052D-EC53-4EA9-845F-9B20CDE34F6E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "35C450CE-D7C4-4E60-B8DF-79F8278E631E",
+    "height": 166,
+    "width": 400,
+    "x": 1000,
+    "y": 916
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A1D03D91-E1D5-41E8-B0D3-2634EC516F6F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D28D208-7784-439A-A9D1-AE37FB3E4AD6"
+    }
+  ],
+  "name": "money",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BC3496B4-48CD-4492-8181-602744EE2A10",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

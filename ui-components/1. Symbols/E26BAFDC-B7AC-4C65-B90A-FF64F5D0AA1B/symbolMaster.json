@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6CB71A88-F0FB-44E3-B312-818484CC2FD4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1387,
+  "clippingMaskMode": 0,
+  "do_objectID": "E26BAFDC-B7AC-4C65-B90A-FF64F5D0AA1B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37F9F4BD-B6A7-4C0D-BCF3-5AB753585CED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C2446D0-1DFF-4C89-8EDF-056AB9A59092",
+    "height": 53,
+    "width": 300,
+    "x": 820,
+    "y": 2074
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8C1C2728-172D-4BCB-AB25-CCC30863F40A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D4439027-8144-46EE-B9C5-05AE890FFA0D"
+    }
+  ],
+  "name": "Button/Mobile/BG/Blue-Employer-Hover",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E417A6A-47A1-4BF7-A384-F5E813BF628E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8115C8E9-67FF-422E-96A8-F0A888EDE8C1",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E3892FE8-CF69-4CB0-A8DE-6C448D3D56B6",
+    "guides": [
+    ]
+  }
+}

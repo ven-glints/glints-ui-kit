@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6AA7CEEB-AC96-4B4A-BFC5-8D8A4E35366E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 849,
+  "clippingMaskMode": 0,
+  "do_objectID": "C4D3B169-F1DB-4F86-9F8E-74BA4818CAB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "89A1C330-F752-424F-8BFA-714DE1A7E338",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B18A4618-F90B-48C4-8C45-B5812B2DF8E8",
+    "height": 24,
+    "width": 321,
+    "x": -1368,
+    "y": 2287
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "03D92E75-875B-453C-AA42-F27AE0AF08F8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2658372E-DFDA-4B68-92A1-B422AD900514"
+    }
+  ],
+  "name": "Job Card/Desktop/Component/Tag-label/Closed",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF8C257F-2686-47F6-A7D1-23CEDB08EECD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E7FAE093-F9A5-43A2-B57B-C10EC2123053",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FA2CB737-B174-4346-B560-D1E7DE55BD53",
+    "guides": [
+    ]
+  }
+}

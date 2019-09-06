@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5DDCC9B6-08C5-4174-BBD1-6930E5BCDE2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B342A4F3-940B-43F3-B42D-4B03D125F243",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C9F939F-56DB-425B-A8F2-D11498917583",
+    "height": 155,
+    "width": 270,
+    "x": 15,
+    "y": 199
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Card/Desktop/Component/Salary with Bonus 2 lines",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E9248DC-1B73-4583-BEB9-B713D59F0A05",
+      "overrideName": "320857DA-53D3-4722-9706-3B3D7C6FCCF0/0328FBE0-E1DD-4E81-9F30-D3DDCAD80811_stringValue",
+      "value": "Bonus of IDR 850 K / month"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6004962A-2926-423F-9302-8CF072914E0A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E9B1DE8B-752F-403B-86D0-4D3479692778",
+  "verticalSpacing": 0
+}

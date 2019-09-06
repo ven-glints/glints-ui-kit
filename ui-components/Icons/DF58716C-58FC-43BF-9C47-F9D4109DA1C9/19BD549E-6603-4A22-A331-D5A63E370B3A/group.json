@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "19BD549E-6603-4A22-A331-D5A63E370B3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB91475E-F50C-4D0D-9D3A-E55A6C5C9CAC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "892F9982-824F-4F36-AE2B-2D17C8518C33",
+    "height": 166,
+    "width": 400,
+    "x": 1400,
+    "y": 2677
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F48F886A-EFFD-4F6D-8C6B-AEE3E7E4E8F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9204722-4420-4259-A9FE-4154499C124B"
+    }
+  ],
+  "name": "download enclosed",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36D4F3E9-AD5D-408E-A96A-9BB44ADC2E5C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

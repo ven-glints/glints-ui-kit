@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D5762741-CE1D-4F42-A485-3468C9A67C83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A212941-BBAF-4B25-BC3D-2EC26557A6F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5947C833-8BE3-403F-8062-0BDB6FE9F02F",
+    "height": 545,
+    "width": 310,
+    "x": 1400,
+    "y": 389
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1083B970-3228-4296-A68C-95C6FE4E817D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "792349F8-44C4-447D-98BA-0635B50E1E0C"
+    },
+    {
+      "class": "group",
+      "id": "F9B7BEFF-7EDC-4B45-9B70-238435AEB168"
+    }
+  ],
+  "name": "Job Card/Mobile/Regular 3 lines with Bonus",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F897E4C-C951-438C-8CD0-E37B46898D7B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

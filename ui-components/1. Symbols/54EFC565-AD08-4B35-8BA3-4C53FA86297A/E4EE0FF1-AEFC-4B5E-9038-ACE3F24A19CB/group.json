@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E4EE0FF1-AEFC-4B5E-9038-ACE3F24A19CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A935327D-93AD-48CD-A27C-E08C855038D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DCDD7CDF-235A-47B9-AD99-7FD24F675747",
+    "height": 60,
+    "width": 480,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C7779FCD-8A9E-426E-9D56-FF0712C6FF12"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E9A68AF-C148-4A4D-A3CC-434F695E1057"
+    },
+    {
+      "class": "group",
+      "id": "44DAE111-E27E-4744-B002-F67D8DD07A62"
+    }
+  ],
+  "name": "Header-ILP-Mobile-Landscape",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6615846F-4403-455D-8695-DF0D3B0108B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

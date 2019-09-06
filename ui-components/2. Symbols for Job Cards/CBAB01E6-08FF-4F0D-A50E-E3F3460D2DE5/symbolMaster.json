@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7D41F2E8-477D-4A3D-A7EC-DF25403E3D7C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 7749,
+  "clippingMaskMode": 0,
+  "do_objectID": "CBAB01E6-08FF-4F0D-A50E-E3F3460D2DE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B19DB109-CDD5-404D-92F7-8B02AD8E97CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5CEC66DE-FBE5-4479-820F-6FCEFA8D0A15",
+    "height": 513,
+    "width": 300,
+    "x": -868,
+    "y": 2819
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "91571D05-53A8-4537-9B3B-64207DDF6EBF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "80EBAF3D-BC4E-4462-8DB7-6EA71A2F25A9"
+    }
+  ],
+  "name": "Job Card/Mobile/Special",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54BF40B2-6CC4-4073-85F3-717108162716",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EDA8E5B6-BA58-4B3A-8BF3-9FBBA5CB706A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C06C8BCC-9BDC-4E74-9000-4890B31D7E9C",
+    "guides": [
+    ]
+  }
+}

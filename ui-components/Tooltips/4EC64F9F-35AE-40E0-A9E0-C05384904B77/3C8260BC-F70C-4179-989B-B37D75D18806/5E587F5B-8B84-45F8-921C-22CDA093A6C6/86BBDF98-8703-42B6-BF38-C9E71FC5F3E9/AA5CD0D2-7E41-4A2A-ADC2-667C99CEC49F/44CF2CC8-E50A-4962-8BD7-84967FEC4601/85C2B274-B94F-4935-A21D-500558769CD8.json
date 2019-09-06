@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "85C2B274-B94F-4935-A21D-500558769CD8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "979C4F84-6617-45EB-B311-4546C46B36FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB0ED91B-BE5B-40B8-B936-292A2CF3845B",
+    "height": 475,
+    "width": 336,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Job Application Card 336px/Special Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "82839236-0943-4BDE-A899-29AB7FDCDFED",
+      "overrideName": "776F6A3D-925F-4520-8AA4-23A977FC644A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/74436f25672556b3e02402cd502d6538e7768357.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E79BAC7F-DEF1-4B3B-BD46-946EDA685BFE",
+      "overrideName": "76AE744B-F218-4661-8D5A-398EF0385742_stringValue",
+      "value": "PT Pertamina (Persero)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF5E32BB-05AA-4B9D-A5C3-B16CBB8ED5A4",
+      "overrideName": "5D679D70-E169-4A62-9BB5-FF5024FABA32/CB791738-7AE8-451B-9F80-0644A6B3B750_symbolID",
+      "value": "06B9072C-3B3C-4715-9B6C-EEE718B8DD1E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C581DBA-EBDB-496F-998A-33AC17DA29AA",
+      "overrideName": "5D679D70-E169-4A62-9BB5-FF5024FABA32/519397B5-0144-4D69-8A9E-D1F0720B9C78_stringValue",
+      "value": "Was seen by recruiter on 18 Jul 2018"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD9F66EE-4929-4C5A-AA81-C8DB4241E9E8",
+      "overrideName": "D601A4A2-C3B0-40CE-B36E-FAC5E6340709/DC974953-0783-4C26-984C-E23E1DE16261_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/74436f25672556b3e02402cd502d6538e7768357.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2711964-E44D-41CB-B6D2-21F0016617E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "11A6039B-97DC-4F03-9A7D-9B0F9205D045",
+  "verticalSpacing": 0
+}

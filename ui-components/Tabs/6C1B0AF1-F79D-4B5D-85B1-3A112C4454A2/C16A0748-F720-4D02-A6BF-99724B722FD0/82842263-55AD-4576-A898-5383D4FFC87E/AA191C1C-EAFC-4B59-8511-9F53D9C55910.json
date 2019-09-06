@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AA191C1C-EAFC-4B59-8511-9F53D9C55910",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3BD8CE8C-CCAA-4A71-BBBB-5F30DC1D907C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DBF33738-65BD-429D-B1F2-4E0028E53BA1",
+    "height": 53,
+    "width": 300,
+    "x": 10,
+    "y": 14
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Mobile/Blue-Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4BFD651E-F6C1-4FE1-9B7C-46DA453F2763",
+      "overrideName": "C7713A6E-58A8-4024-A97E-0B1968D2D513/433C8913-2630-4389-BCE8-7F3D1EE1AA69_stringValue",
+      "value": "APPLY FILTER"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "468666D3-789C-4AB4-9DBA-ADDDC2945311",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "791D44E9-FD1F-4A66-8A77-89CB6DFFDEDB",
+  "verticalSpacing": 0
+}

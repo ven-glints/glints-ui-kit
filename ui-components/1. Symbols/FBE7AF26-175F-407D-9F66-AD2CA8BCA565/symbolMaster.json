@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F9C7F650-26CB-4427-9642-CBCC6AA3ACD5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1326,
+  "clippingMaskMode": 0,
+  "do_objectID": "FBE7AF26-175F-407D-9F66-AD2CA8BCA565",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "94F5496D-033B-4C4D-BF97-7D8B2CD41E45",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "95E9D8DC-520F-4922-BEFE-E79DC52C501F",
+    "height": 53,
+    "width": 300,
+    "x": 101,
+    "y": 1049
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E28A2B8A-F623-470E-A448-DE1890427560",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "81F780F1-35B8-4A8F-AA0C-FDC57DDEA7A4"
+    }
+  ],
+  "name": "Button/Mobile/Red-Default",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2B3B7D0-7489-419D-9238-6E999C4FE22B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F1BB0DBC-BA03-459C-B568-DD8DD181B3A4",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A12777B3-E1CC-4972-91B5-67A99955D361",
+    "guides": [
+    ]
+  }
+}

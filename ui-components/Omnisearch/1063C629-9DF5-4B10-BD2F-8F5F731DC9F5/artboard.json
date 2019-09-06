@@ -1,0 +1,116 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "74FB2769-05B2-4795-8363-6842F9D0B3C2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1063C629-9DF5-4B10-BD2F-8F5F731DC9F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8FF98B9B-7143-4914-B853-1CE22CB3426B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ED2A84B2-6983-4902-995B-2F10A1C6A65D",
+    "height": 1643,
+    "width": 2337,
+    "x": -1016,
+    "y": -634
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C7E6B73E-64DE-4D40-94F7-4D559DF6FF91",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E87D5552-FE24-4CFC-AE20-7D4E090CCD59"
+    },
+    {
+      "class": "group",
+      "id": "C0FFAB62-D95C-40D2-94B1-0CDA18D89439"
+    },
+    {
+      "class": "text",
+      "id": "1BE07E10-6419-412D-89E3-CB550F9BA89E"
+    },
+    {
+      "class": "text",
+      "id": "80DAC9B4-4BAE-4584-8B37-ABDC9EEACCF0"
+    },
+    {
+      "class": "group",
+      "id": "6C525ADD-8F36-4835-BE4E-657C453ACEB8"
+    },
+    {
+      "class": "group",
+      "id": "7026BFD4-1F08-4034-A521-3EABAC087C45"
+    },
+    {
+      "class": "group",
+      "id": "9F3E1472-9014-4229-A5B1-6233D63F581B"
+    },
+    {
+      "class": "group",
+      "id": "E3F7ED03-64C4-43A7-8BD0-D5C6EA7F7026"
+    },
+    {
+      "class": "group",
+      "id": "517C468D-A3FE-4E3A-8310-DD3127A9D977"
+    },
+    {
+      "class": "group",
+      "id": "22D28313-A92E-4590-8734-1C2B138ADA15"
+    }
+  ],
+  "name": "Homepage - Omnisearch ",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "410EF1F1-51E5-4E03-8A86-65C969580676",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1C9A8B25-92CC-4FCA-84F4-32CFAF7574A0",
+    "guides": [
+    ]
+  }
+}

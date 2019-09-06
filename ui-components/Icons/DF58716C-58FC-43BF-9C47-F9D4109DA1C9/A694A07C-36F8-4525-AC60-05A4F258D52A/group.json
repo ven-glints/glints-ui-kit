@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A694A07C-36F8-4525-AC60-05A4F258D52A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01EB935D-AA5F-4709-9643-71462F0D1786",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D7CBF9A2-9707-4E36-BBE4-BDA4B3E1C587",
+    "height": 155,
+    "width": 400,
+    "x": 1000,
+    "y": 4692
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4F71EB8C-DE43-456B-85C2-3CB5DAC7DA7E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "900D666C-9CBE-496E-918D-F298D573C8EB"
+    }
+  ],
+  "name": "Youtube Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "908295C4-2BF9-44C7-83A6-70844B11812E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

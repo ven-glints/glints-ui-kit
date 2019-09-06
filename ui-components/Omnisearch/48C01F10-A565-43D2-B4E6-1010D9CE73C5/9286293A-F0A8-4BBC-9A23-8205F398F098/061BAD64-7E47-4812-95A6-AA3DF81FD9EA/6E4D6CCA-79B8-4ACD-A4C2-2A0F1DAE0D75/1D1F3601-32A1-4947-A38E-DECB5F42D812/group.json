@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1D1F3601-32A1-4947-A38E-DECB5F42D812",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66B63518-7F28-4185-92A7-7AF0EFFD5E73",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F7B6AA39-ABA6-4A89-B1C8-F6FC11C346F7",
+    "height": 99,
+    "width": 270,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C1672B5F-7BE9-4218-ADCA-92C9797C8161"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FA2E532-0493-4376-B973-B5A52C8F7018"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDDD3E9C-9035-404E-AEDA-B7BF095CA336"
+    }
+  ],
+  "name": "career",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "614E6997-1F14-4FE8-AE52-2BBC0D56ACDC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

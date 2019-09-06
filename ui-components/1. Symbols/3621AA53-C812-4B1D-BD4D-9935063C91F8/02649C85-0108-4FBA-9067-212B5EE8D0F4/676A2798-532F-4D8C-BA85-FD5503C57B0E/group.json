@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "676A2798-532F-4D8C-BA85-FD5503C57B0E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23A20C27-BA9B-49BE-B66B-1FE8214D5718",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2B79154E-CDD3-4A00-8565-B3B56676C1B2",
+    "height": 100,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6500CDBF-FBF8-41B7-8812-7ECEE5EE7632"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "632455B7-8BB9-40CA-815D-17FDEFE74C1F"
+    },
+    {
+      "class": "oval",
+      "id": "B8523C8C-9F8A-4918-966C-8F195271AE5D"
+    }
+  ],
+  "name": "ig - logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "212C0705-B6D3-47C0-A0CA-F9AC7972DB47",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

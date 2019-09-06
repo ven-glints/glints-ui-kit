@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4724CC18-DD43-4FCD-8726-F534A5CDCE02",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1024,
+  "clippingMaskMode": 0,
+  "do_objectID": "468FFA9D-4013-4AE4-BF0B-107583E31492",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20A6B935-AE30-4D5A-9B1D-06DC662064CE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06EDBAA7-36D4-4C06-9C7B-62B6F62BE1F4",
+    "height": 55,
+    "width": 55,
+    "x": 17405,
+    "y": -699
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E0158F85-979D-4826-AB05-800613AB0F32",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E79F37DA-C2D1-4DE1-A52A-60766830D40C"
+    }
+  ],
+  "name": "✱/Color/dark-grey",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED3D50B4-529D-4C76-B755-7C122FB0419E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1BCD3B84-F0C7-4BA3-816A-68D253CAD309",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3A604407-310C-4A93-9395-80A0723189E1",
+    "guides": [
+    ]
+  }
+}

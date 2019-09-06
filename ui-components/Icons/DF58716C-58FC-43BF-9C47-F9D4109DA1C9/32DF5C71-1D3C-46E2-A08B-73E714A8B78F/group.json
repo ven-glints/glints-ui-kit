@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "32DF5C71-1D3C-46E2-A08B-73E714A8B78F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98F06ABD-560C-42B2-8C4F-3DDD65053D62",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "812D843B-9DAC-4C06-9707-AC41DE3DA86C",
+    "height": 155,
+    "width": 400,
+    "x": 1800,
+    "y": 2175
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6B864E28-D629-42FA-B50F-789C14CC0895"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8357811C-CC0B-484F-B086-5BE0A0D8EA47"
+    }
+  ],
+  "name": "pdf",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6DD1D33D-97C4-4293-9CB8-19B467011275",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

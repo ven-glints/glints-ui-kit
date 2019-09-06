@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AE7D6EC2-7CC6-429B-B94F-C2728C3D2005",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1268,
+  "clippingMaskMode": 0,
+  "do_objectID": "7E946E81-32AD-44BE-8893-4E28E960DCE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3FAAA5A8-09F7-4D84-9460-6C6AEAF4ED9B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D7BFABC-05B5-4D84-8E61-8AC784B3451C",
+    "height": 55,
+    "width": 55,
+    "x": 17645,
+    "y": -527
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7734D912-EA9C-49D8-9A17-A839CD292A8C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CD52D838-2D8D-426F-B300-B7C7121239EF"
+    }
+  ],
+  "name": "✱/Color/BG-warning",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "255F5703-89A5-475F-86CA-608D647D566C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A66F627D-0239-4484-96FC-1A5944567BB3",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "84DE3EA6-D123-4546-949C-C9FB025CD16D",
+    "guides": [
+    ]
+  }
+}

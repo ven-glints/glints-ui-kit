@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "970AEA19-6B5D-4DA6-91E7-EBD15A92D63D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "958BEE33-D89E-46CD-873E-BD302CFEFC7F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "69C60AFC-6C95-45C6-B715-EE8A9475EF4F",
+    "height": 316,
+    "width": 400,
+    "x": 2000,
+    "y": 88
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "29AA45C3-1CCE-444E-B109-9C510498E248"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87FC947C-5791-4382-9A36-D70ABB92B6CE"
+    }
+  ],
+  "name": "Textarea - Default - Over 12 rows",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6A34B24D-17C5-4E8A-99D6-83473C2A98FB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

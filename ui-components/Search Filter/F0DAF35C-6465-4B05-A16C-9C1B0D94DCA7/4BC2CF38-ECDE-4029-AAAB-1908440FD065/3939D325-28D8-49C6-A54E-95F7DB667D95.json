@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3939D325-28D8-49C6-A54E-95F7DB667D95",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "77962C05-BB90-4A80-9B1D-69607DF7E694",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D679E3D-5B81-4D12-B8DA-B51D45EE389F",
+    "height": 53,
+    "width": 300,
+    "x": 10,
+    "y": 169
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Text-Field",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0950351E-6E34-40B0-8AD5-CF857CD10E11",
+      "overrideName": "BD020F6D-882F-4804-8B8D-2993EBBE8B29_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD62650D-8F58-4B6E-8F2F-84C098875856",
+      "overrideName": "2FE7336A-9C82-4A44-B2AF-9ECEE71E35E3/73F05C0D-589D-49C7-888E-12C9983EE9FA_stringValue",
+      "value": "Search by country"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A768D34-62FC-424C-94C1-308FF4ABACD5",
+      "overrideName": "83274881-2620-4409-93F5-5B0A95F44681_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26138F43-E3ED-41C1-B7E5-3F6DACA7FBF7",
+      "overrideName": "2FE7336A-9C82-4A44-B2AF-9ECEE71E35E3/7C57F918-319D-409D-A26E-2F8BB4D57804_stringValue",
+      "value": "Search by country"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10578DEC-656F-4ACD-8A27-2F105DD77848",
+      "overrideName": "2FE7336A-9C82-4A44-B2AF-9ECEE71E35E3/B3110987-5E06-4894-A50D-B291F82B607B_stringValue",
+      "value": "Search by country"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE2DF117-3A04-4A1B-B601-60B9AAA52906",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1AC97544-D4EF-4061-8B43-21A3A711A8F0",
+  "verticalSpacing": 0
+}

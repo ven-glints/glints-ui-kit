@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "90B2B73F-15AB-4F5E-96A9-4EDF5EEF2A15",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E58865B5-2E92-46CA-AE7C-02B6FAD48037",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "78C8F617-4F9F-46A5-A08C-BD70AF6BA500",
+    "height": 264,
+    "width": 200,
+    "x": 902,
+    "y": 202
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Brand Color Item Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C225C158-4BAA-452B-BCBC-1529AE90C1FD",
+      "overrideName": "1CF38AE4-E0D9-4CA5-A23C-D7FB5F81E7D2_stringValue",
+      "value": "Magenta"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C2D6EC0B-5AD5-4348-998A-E7FDB503BB4E",
+      "overrideName": "99F2224F-880C-446D-84CB-869360461010_symbolID",
+      "value": "9F931B28-86D5-4518-9161-876131709B75"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE371D66-8B28-4BEA-A757-DCB7D4553EF0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D50D1DB6-A446-4748-BB83-DAB16701CB40",
+  "verticalSpacing": 0
+}

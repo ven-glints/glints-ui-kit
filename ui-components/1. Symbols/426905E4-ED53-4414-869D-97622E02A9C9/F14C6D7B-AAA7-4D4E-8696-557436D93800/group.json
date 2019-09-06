@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F14C6D7B-AAA7-4D4E-8696-557436D93800",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE97D351-A23E-4001-AF34-C7F302AD5927",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9D011CE-E124-4D3A-B99F-51BF7AF5C536",
+    "height": 222,
+    "width": 380,
+    "x": 0,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "219D17AD-DD46-4040-81D4-61CFF8706D33"
+    },
+    {
+      "class": "text",
+      "id": "46A50A25-E3BE-4726-B753-65AE9C9E4843"
+    },
+    {
+      "class": "text",
+      "id": "4354333E-9E74-4515-A5CD-0934E278FA57"
+    },
+    {
+      "class": "shapePath",
+      "id": "6E477946-E9EA-45F1-91F2-7C1EE15B1B70"
+    }
+  ],
+  "name": "details/01-hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D815CA18-63E1-4C73-B497-4B52CD87CC15",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

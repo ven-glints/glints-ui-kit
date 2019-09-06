@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9A55C194-D3E3-42B6-A99D-4A5628F04168",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "69213462-9FDB-4E50-A1E9-A3A4FC29C4D8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F471BCD2-1E29-42B9-BBFF-8A9CE9125E23",
+    "height": 780,
+    "width": 1000,
+    "x": 200,
+    "y": 200
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FAC658E5-78EA-48D5-B941-85966FFCA3BA"
+    },
+    {
+      "class": "text",
+      "id": "F28C3D87-20C6-4FD0-9639-9C5C2AA78541"
+    },
+    {
+      "class": "text",
+      "id": "08631E75-0F1C-4099-AF2B-9A30DD9EA31A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B7F328B-F695-4E67-867C-3AA0B258C189"
+    },
+    {
+      "class": "group",
+      "id": "B1728084-4432-4E1F-9C14-4E788420F295"
+    },
+    {
+      "class": "group",
+      "id": "EF64F698-7442-4196-870A-5473F3E96886"
+    },
+    {
+      "class": "text",
+      "id": "BD952DDA-AF60-484C-B7BC-3C50D81221C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC685ECD-F97F-4A2D-8F85-AC1F204D149E"
+    },
+    {
+      "class": "group",
+      "id": "34CF9BF0-E75A-49A7-8702-BE077E532168"
+    },
+    {
+      "class": "text",
+      "id": "4E137C51-DDD7-4B4C-9BE0-06C25B649008"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABFA0392-F94B-43DB-8C52-050B67A87D62"
+    }
+  ],
+  "name": "Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "31DD94EA-7018-4D40-AE82-3756D96F8387",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

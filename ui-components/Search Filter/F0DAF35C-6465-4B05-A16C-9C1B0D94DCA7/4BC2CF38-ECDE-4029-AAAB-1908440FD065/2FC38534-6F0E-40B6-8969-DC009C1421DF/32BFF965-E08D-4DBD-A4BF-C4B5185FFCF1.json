@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "32BFF965-E08D-4DBD-A4BF-C4B5185FFCF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BF217E1-7AA2-45CE-A776-EFEBDEBE7716",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1581301A-BFFD-45B7-963F-A9644315A1C1",
+    "height": 23,
+    "width": 300,
+    "x": 0,
+    "y": 73
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item/Regular",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "177C1D8E-4FDA-47DF-A82B-02646DAD35E2",
+      "overrideName": "2B963BB8-2A5D-42CA-9B78-6E1302E09C46/0362B4A1-E4E1-4348-B34C-C2CD0C040179_stringValue",
+      "value": "Indonesia"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5315A01D-B3BA-4751-BB27-5FBFE2C895ED",
+      "overrideName": "020EA173-5452-486B-9B19-D74A91546517_stringValue",
+      "value": "Indonesia"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E89E4C77-C613-4D0A-A852-F4ED55491169",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "14889267-9383-4AAA-BA0D-E019592A3D00",
+  "verticalSpacing": 0
+}

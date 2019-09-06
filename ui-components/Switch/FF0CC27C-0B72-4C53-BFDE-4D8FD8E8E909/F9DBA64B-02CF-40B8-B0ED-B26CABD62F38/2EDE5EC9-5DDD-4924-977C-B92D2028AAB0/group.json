@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2EDE5EC9-5DDD-4924-977C-B92D2028AAB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "714C373C-4FB4-4434-9C64-A221620D9653",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BD23F07-6DF4-4E13-92A7-DF0426D7B239",
+    "height": 47,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1124C34D-AC5F-4F5D-B909-0ACA2BAC96BF"
+    },
+    {
+      "class": "rectangle",
+      "id": "E909C284-71D6-44CF-8D15-04336E31D628"
+    },
+    {
+      "class": "group",
+      "id": "826CE3D5-AA7E-413F-88B3-5D13AAB664E6"
+    }
+  ],
+  "name": "internships",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B11657B5-2E42-4FD9-A60A-4637E34D4B91",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

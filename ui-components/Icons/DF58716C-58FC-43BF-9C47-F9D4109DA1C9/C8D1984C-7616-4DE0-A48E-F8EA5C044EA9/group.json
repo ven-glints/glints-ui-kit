@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8D1984C-7616-4DE0-A48E-F8EA5C044EA9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F1CB6AE-4AA3-49FA-B319-850B09B52CDF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4CEE2B6E-2891-458A-B401-AB0EE9CC1295",
+    "height": 155,
+    "width": 400,
+    "x": 1800,
+    "y": 4191
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C6422B94-0637-4D65-B939-0E2AB3247902"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E483B9D0-22E4-4577-9C14-6A38FF7CFDB3"
+    }
+  ],
+  "name": "whatsup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "977AA905-47CE-41C6-A7AF-5C2E6D06EE11",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B234B8D7-F99B-49B7-ACB2-33DA30266F72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DABD5AE6-72A2-4707-9A12-A0C735793A66",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "669EF1DF-3E91-4B20-9AEC-EB8FDC50541E",
+    "height": 15,
+    "width": 15,
+    "x": 133,
+    "y": 12
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/employer-view",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "19A637FF-9DF9-4C94-AE33-F23326B0B175",
+      "overrideName": "BFA21FD4-0A3F-4223-B98B-2BF1145F3BF8_symbolID",
+      "value": "68EEDA20-429C-4695-B22D-24E5CBA63A2E"
+    }
+  ],
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "307A7861-3E7F-454C-BF93-45155E36BAE9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3A21016-593C-499B-87A6-AA5D107AE3CE",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CB226FF9-0566-4B2B-A3ED-A7472DB5F308",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2591F10F-34E2-4E6B-984C-BD9F38B397E4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "92986CC6-D54E-48F1-B75D-F138878BD6F8",
+    "height": 15,
+    "width": 8.814935064935064,
+    "x": 15,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8AEFB1F0-8635-4B6B-BD4C-CD6852EE6395"
+    }
+  ],
+  "name": "play-symbol",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8CAF28A-9281-4BE7-BB49-5341D9BBBB69",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

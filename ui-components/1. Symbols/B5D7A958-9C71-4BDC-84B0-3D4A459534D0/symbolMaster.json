@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AE9C31E9-9C44-4AD4-80E7-6A05028C4A89",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 906,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5D7A958-9C71-4BDC-84B0-3D4A459534D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9E7D9761-1B5D-4039-95E7-B588D754961E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50C67DFA-70AF-4510-9695-9F0C4183F33F",
+    "height": 53,
+    "width": 300,
+    "x": 820,
+    "y": 1359
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "90055ABD-8660-40BC-AF43-3E2EDE399BA4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5D7092D4-957E-4BD7-82F4-1E70F65B19E4"
+    }
+  ],
+  "name": "Button/Mobile/BG/Focus",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "91B82969-0C06-45C3-9452-A48D82F4B42A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6818E46E-E67D-4168-90B8-404DBE096D5D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8CB6E286-5524-4E93-9650-7F99B6BA3D86",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B86ADE4-22BA-40A8-9AD5-91405A6CBE9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4F30ABE-524E-4F1F-B752-C9194319BFF0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "93C7172B-17FE-4FA5-BAB8-1612EAD2508A",
+    "height": 23,
+    "width": 300,
+    "x": 0,
+    "y": 116
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox Item/Regular",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "177C1D8E-4FDA-47DF-A82B-02646DAD35E2",
+      "overrideName": "2B963BB8-2A5D-42CA-9B78-6E1302E09C46/0362B4A1-E4E1-4348-B34C-C2CD0C040179_stringValue",
+      "value": "Jakarta"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "63890877-A8F3-4750-A57E-24F5F742BF31",
+      "overrideName": "020EA173-5452-486B-9B19-D74A91546517_stringValue",
+      "value": "Jakarta"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53BDD6A8-BFBA-4AB7-B643-B872EC6ECC80",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "14889267-9383-4AAA-BA0D-E019592A3D00",
+  "verticalSpacing": 0
+}

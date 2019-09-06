@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F8BEC511-F5A6-49D9-895D-D9CB98AD0206",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "53E74CCB-CD26-46F6-9E0F-BC4FC6923734",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CBBC2500-97AF-4F6C-8F6B-2BE888B3EBF8",
+    "height": 40,
+    "width": 83,
+    "x": 10,
+    "y": 20
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "filtertab/career-active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "577E660A-D965-4AFB-9421-7C55634E8DFD",
+      "overrideName": "9C1F5B8C-F4E0-42F1-AB5B-DD64BAAF94B7_stringValue",
+      "value": "career"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F7C4BAD-D55D-49FE-A67B-12F25CBB8B33",
+      "overrideName": "A9C24057-CFD4-458F-8240-60A79141733A_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74AB503E-45B7-4877-8D7B-66C7C6E3E900",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EB47E347-0E7E-4B6A-8AA6-D1C9B92AC3CB",
+  "verticalSpacing": 0
+}

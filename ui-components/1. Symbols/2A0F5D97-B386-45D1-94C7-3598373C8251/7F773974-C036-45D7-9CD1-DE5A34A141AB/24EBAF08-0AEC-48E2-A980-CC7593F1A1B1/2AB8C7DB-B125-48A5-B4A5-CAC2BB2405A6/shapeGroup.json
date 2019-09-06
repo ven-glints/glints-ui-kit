@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2AB8C7DB-B125-48A5-B4A5-CAC2BB2405A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE18DFEE-4DC1-4C69-8FFC-42B34A75AC8E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1837E14D-A163-40AE-86EA-9761C9A67529",
+    "height": 94,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1E7959D7-381C-4F03-B46B-052EFF875C86"
+    },
+    {
+      "class": "shapePath",
+      "id": "D4856065-EC7D-4710-89B6-DCA3B81D2EB9"
+    },
+    {
+      "class": "shapePath",
+      "id": "A85F3767-9652-43BA-98B4-7377FC36CB9A"
+    }
+  ],
+  "name": "LinkedIn_3_",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2668BEBC-4C5F-41B0-92D4-8CAD21699CC7",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

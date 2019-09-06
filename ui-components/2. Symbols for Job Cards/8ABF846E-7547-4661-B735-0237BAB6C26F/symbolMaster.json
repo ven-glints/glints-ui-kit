@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0FF9E407-1501-4670-866A-98220AEB55C7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1585,
+  "clippingMaskMode": 0,
+  "do_objectID": "8ABF846E-7547-4661-B735-0237BAB6C26F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "203F56D3-91C7-4425-9638-06D8781E413D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "236B69B2-9516-4857-B8F9-B4539036D746",
+    "height": 55,
+    "width": 446,
+    "x": -1864,
+    "y": 1372
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5FE844AF-4BF8-4FEC-97FF-27908182FECA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D6668CB6-364F-4628-A852-41F117BF3E29"
+    }
+  ],
+  "name": "Job Card/Desktop/Component/CTA-Default",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F7C740F-5D6E-4265-9810-A14404B66105",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "49B0C642-DE25-422D-B7AF-7F1B80E2C83D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CA1D6F57-8A3A-426F-9761-77DCC35DFD84",
+    "guides": [
+    ]
+  }
+}

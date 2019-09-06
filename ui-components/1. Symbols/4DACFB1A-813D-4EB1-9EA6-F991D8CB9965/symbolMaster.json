@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "19AED11B-74DD-47D2-9FA6-7D4E3211970E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 254,
+  "clippingMaskMode": 0,
+  "do_objectID": "4DACFB1A-813D-4EB1-9EA6-F991D8CB9965",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACC600EC-655B-4F4E-BEFF-9D1D380AC4AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D0E86801-F8D4-4476-95C7-90323770AA8E",
+    "height": 53,
+    "width": 300,
+    "x": 100,
+    "y": 1788
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D111EBAC-A8CE-45E3-AA1B-3CF5342211C2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "840E1812-5F8E-45C2-865C-9718BB567211"
+    }
+  ],
+  "name": "Button/Mobile/BG/White-Ghost-Hover",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E7DF225-44E8-48E2-94BE-B41BA398838E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C71EE3F8-9259-41F8-BA50-E0908A2E3DCA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E1030DD0-6000-44D0-82C5-2A6BF6A05FDF",
+    "guides": [
+    ]
+  }
+}

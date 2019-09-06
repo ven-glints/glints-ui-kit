@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F113B6D6-2C1C-49DA-8781-164ACB9ABDED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3DD4E2D8-811A-4501-8F08-2DF6DE9BFF49",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "24F014CA-343E-4E83-BD97-A3F0BCDD1DC5",
+    "height": 56,
+    "width": 300,
+    "x": 808,
+    "y": 88
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D30B7010-334E-40FD-ABD6-7D41B336B0E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37B001AC-41A5-40F1-9D32-08C52801A72A"
+    }
+  ],
+  "name": "Text Field - Active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "847EC864-BB9E-4A13-B27F-2CE32A72CE15",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

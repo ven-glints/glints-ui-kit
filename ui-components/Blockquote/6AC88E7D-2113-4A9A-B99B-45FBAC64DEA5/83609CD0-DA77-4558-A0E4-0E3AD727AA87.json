@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "83609CD0-DA77-4558-A0E4-0E3AD727AA87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9989F8B9-CE83-40EC-A403-9772D4D05641",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B047AC8D-BC47-4C34-AF9E-99A890706992",
+    "height": 346,
+    "width": 620,
+    "x": 200,
+    "y": 703
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "blockquote",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10C3CF38-8225-4AB3-A09B-378C6A311965",
+      "overrideName": "8B4E9554-63FF-4B8F-8C26-043745B7BC00/D0468376-D4AF-4252-A161-EDA5A6AC6C2E_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/db5841941eaaf1f608f0a419e753753ca644d2e6.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3AB6F1A9-5C9D-4851-A766-37A5A9E1894F",
+      "overrideName": "AFD9A5EE-FEE0-4972-B89D-9772EED2C0E3/E1EB0E6F-F541-4A50-B879-42CF116DA153_stringValue",
+      "value": "National University of Singapore (NUS)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95CBA44A-B9DC-4B4E-BAED-285A576F374B",
+      "overrideName": "AFD9A5EE-FEE0-4972-B89D-9772EED2C0E3/EE151A40-5711-4CEC-90AC-6DC27CA3D9CE_stringValue",
+      "value": "Zai Muhd"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "61A764EE-BD9E-459D-AEB4-A8DEE5D28282",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9721E56C-B7EE-43D8-9CA9-124D746565B8",
+  "verticalSpacing": 0
+}

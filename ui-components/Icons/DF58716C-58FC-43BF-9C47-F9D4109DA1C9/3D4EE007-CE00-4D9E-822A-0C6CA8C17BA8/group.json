@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D4EE007-CE00-4D9E-822A-0C6CA8C17BA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46770ECB-C576-4BCF-B466-ABF677168EEA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "13559A52-D80E-485E-8EFA-ED0E7E217A0D",
+    "height": 155,
+    "width": 400,
+    "x": 200,
+    "y": 4692
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4C7FC24A-1EA8-40CD-8C4C-9EF35EC09576"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F40F245-C043-4003-8F97-27E7F4531ECE"
+    }
+  ],
+  "name": "vimeo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "82C9F003-0783-4C14-A88C-C01D4FB06261",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

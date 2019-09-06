@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0AD89BD0-D762-4F38-B737-20F9805D8BEB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1276,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A219013-611F-483C-9612-9EFF44ABF2A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03638902-3524-42A2-83FE-5C29F19D8CBF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A42D838B-A20B-43E3-BF5F-80FFB1F0BEE7",
+    "height": 50,
+    "width": 67,
+    "x": -1641,
+    "y": 2819
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3CFFE6BA-87D3-405B-B414-A3960A561478",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "60D872B8-DA8B-4429-B0E9-688D9ACF20D7"
+    }
+  ],
+  "name": "Job Card/Mobile/Component/CTA/Save-Default",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "069C1891-EE3C-478D-8008-38836EC0AFF9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CEF3AF52-5F0D-48AA-B29F-96EA0578CF75",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DE0456D9-CC18-40E1-846E-07A1C909675C",
+    "guides": [
+    ]
+  }
+}

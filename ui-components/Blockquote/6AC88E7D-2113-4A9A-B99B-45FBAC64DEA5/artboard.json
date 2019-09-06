@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C89B0832-85E9-475A-A84E-B2CBCF1D4283",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6AC88E7D-2113-4A9A-B99B-45FBAC64DEA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF1D6BAF-C73F-405C-A981-1A7C93FFB7EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D43C573-21DD-43CD-8103-D68CE08F8296",
+    "height": 1783,
+    "width": 2328,
+    "x": -57,
+    "y": -33
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DC5E0201-4024-47D1-9FB1-C092D1D9CF00",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FFAC1C91-4FCC-4E20-9E8D-81F0564F226C"
+    },
+    {
+      "class": "text",
+      "id": "2C62B01A-896B-49A7-B79A-EFD69CE588D9"
+    },
+    {
+      "class": "text",
+      "id": "1C6859F8-00E6-4C0E-93E0-25E1134C47A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83609CD0-DA77-4558-A0E4-0E3AD727AA87"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95A0E226-32F5-4150-A5B6-6A1F2C362131"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93C3D059-60B8-41B0-8E0F-2D474AAC01FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "228BC6D7-EFFA-446D-960B-CC8BDC8A8BB6"
+    },
+    {
+      "class": "text",
+      "id": "6BB5400A-E916-4859-84CC-E988FAC18836"
+    }
+  ],
+  "name": "Candidate - Blockquote",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A59F273-AC0C-4FE7-B08C-F74D6DD8A8C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1C2E854E-D132-4024-80D6-3CAA68248445",
+    "guides": [
+    ]
+  }
+}

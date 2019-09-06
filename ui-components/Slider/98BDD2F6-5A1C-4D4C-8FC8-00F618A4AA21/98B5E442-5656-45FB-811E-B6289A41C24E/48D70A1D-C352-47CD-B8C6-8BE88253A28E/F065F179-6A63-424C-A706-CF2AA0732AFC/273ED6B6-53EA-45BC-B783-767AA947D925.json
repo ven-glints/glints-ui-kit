@@ -1,0 +1,98 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "273ED6B6-53EA-45BC-B783-767AA947D925",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3BE5DC45-4257-43FB-87ED-3DA16200FE17",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "04E51450-B2AA-4902-BDC8-8C426A47DB13",
+    "height": 346,
+    "width": 620,
+    "x": 660,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "blockquote",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10C3CF38-8225-4AB3-A09B-378C6A311965",
+      "overrideName": "8B4E9554-63FF-4B8F-8C26-043745B7BC00/D0468376-D4AF-4252-A161-EDA5A6AC6C2E_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/db5841941eaaf1f608f0a419e753753ca644d2e6.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED1E9CDD-C9C6-4C75-9694-EE0E4925AD92",
+      "overrideName": "AFD9A5EE-FEE0-4972-B89D-9772EED2C0E3_symbolID",
+      "value": "3DD1B603-655A-4762-94E0-4F4F933CD5AB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "535B06B3-575F-4A56-9417-AFC3D2A76157",
+      "overrideName": "AFD9A5EE-FEE0-4972-B89D-9772EED2C0E3/46A50A25-E3BE-4726-B753-65AE9C9E4843_stringValue",
+      "value": "National University of Singapore (NUS)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "433297B8-31B7-4588-80ED-AD6FBB156AFF",
+      "overrideName": "AFD9A5EE-FEE0-4972-B89D-9772EED2C0E3/4354333E-9E74-4515-A5CD-0934E278FA57_stringValue",
+      "value": "Zai Muhd"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7803897-A4A3-4342-B54D-E1AE02834085",
+      "overrideName": "2198DF88-32E3-4055-A3C4-233398984905_symbolID",
+      "value": "EFDDF5AF-9CBC-4F0C-AD39-5B26BF303DA5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03433E10-5636-4211-8617-9F8D61266006",
+      "overrideName": "A3E412CF-82D2-47FD-8CCF-8B415308D1F5/89717BA3-9820-4AD2-A991-3668B6830E85_symbolID",
+      "value": "123D7151-544B-40D9-9266-C556A878035A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "93E7080C-17C7-480D-B127-368551E31EB5",
+      "overrideName": "9686F635-F9D5-40F0-B15B-BE22E97B024B/749DF537-2323-47CD-8EB5-62219D1A08E4_symbolID",
+      "value": "123D7151-544B-40D9-9266-C556A878035A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8168D2A-3C69-4AB8-BCE9-6246A211A6BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9721E56C-B7EE-43D8-9CA9-124D746565B8",
+  "verticalSpacing": 0
+}

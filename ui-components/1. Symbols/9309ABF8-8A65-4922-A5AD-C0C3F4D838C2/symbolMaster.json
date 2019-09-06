@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E9D483FB-604C-493C-85D6-6900110979E7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1033,
+  "clippingMaskMode": 0,
+  "do_objectID": "9309ABF8-8A65-4922-A5AD-C0C3F4D838C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2207CBF-D640-4D9D-99C1-EC27024504C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A6358D80-DD12-4137-BE43-05715A2810CF",
+    "height": 55,
+    "width": 55,
+    "x": 18121,
+    "y": -699
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "71780523-6397-4D56-B825-2A48F7B116E1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4170DD92-43BA-4928-82C7-91E1CA52B978"
+    }
+  ],
+  "name": "✱/Color/soft-grey",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B5B4C3B-4A2C-46FD-9D9C-6A6539B205CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C5F100F9-FE66-40AD-BE93-D081B609C6C5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "64E160DF-1C1D-4F94-83E8-199FC5D0C253",
+    "guides": [
+    ]
+  }
+}

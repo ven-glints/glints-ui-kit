@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8DD95ED8-04CE-4B0E-A0C0-28213FA4FB81",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1251,
+  "clippingMaskMode": 0,
+  "do_objectID": "408D8957-60EB-4D20-948B-CC0FC01FF336",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E5A6A76-7BD0-433C-BD71-4285F92DDFDC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "65F52C08-7C84-47DB-AE0E-E725A92590F1",
+    "height": 53,
+    "width": 300,
+    "x": 101,
+    "y": 906
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E32CE8AF-22BD-4044-8CC7-20876DB28335",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1929D3A9-AF8C-4C78-9871-47CA28B8952C"
+    }
+  ],
+  "name": "Button/Mobile/White-Ghost",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9B8194B-DD49-4CEF-B7F3-51D81A331CFE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DFA5214D-E2FA-4D43-90A0-712FEB77756F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5EF87DD6-21D8-4CAB-8BAD-6EE32667B5D3",
+    "guides": [
+    ]
+  }
+}

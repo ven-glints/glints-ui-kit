@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FEAA05FF-A007-4C81-ADCF-07AB3D2EDEFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "58CBA6A2-F328-45A9-8589-45F9D373704B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0AAED5EF-9EC8-4492-A2E5-7F34091C5F0E",
+    "height": 155,
+    "width": 400,
+    "x": 1800,
+    "y": 916
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "70578A2D-5075-44B1-8B0B-832654340EEF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C47EE0BA-43D7-4F7E-9B04-F7268A1AAEC0"
+    }
+  ],
+  "name": "heart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA901681-862F-47C0-9F37-1E7E44AC32D9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

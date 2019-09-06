@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BFE236D0-4FA0-4869-AEB7-892EB32F67C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 736,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1B362FC2-D020-457A-BCFE-DD66226ABBAA"
+    },
+    {
+      "class": "group",
+      "id": "60961E9E-BCF0-46EF-A9C5-B63539222127"
+    },
+    {
+      "class": "text",
+      "id": "ABDD044B-180E-44ED-B802-D139B798DCC8"
+    },
+    {
+      "class": "text",
+      "id": "8D4CD2DC-7994-4B6F-BCDA-B94AC570DF49"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DDD4160-2055-4F33-8AB9-5696C01A81E7"
+    }
+  ],
+  "name": "side bar - employers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

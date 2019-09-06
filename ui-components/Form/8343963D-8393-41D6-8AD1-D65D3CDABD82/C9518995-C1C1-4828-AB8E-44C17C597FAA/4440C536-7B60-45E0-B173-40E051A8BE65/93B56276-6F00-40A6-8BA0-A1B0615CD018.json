@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "93B56276-6F00-40A6-8BA0-A1B0615CD018",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3D2DF835-6810-417F-BA98-3EF247717022",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D0978128-9C94-4F42-8B92-3977BF32CAE0",
+    "height": 23,
+    "width": 72,
+    "x": 40,
+    "y": 15
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/text-Field/Text-Field-Value/Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6DF4F96D-52AE-4F7B-B415-81319D787091",
+      "overrideName": "9D9A092A-F8E0-459D-B03F-107946F805B3_stringValue",
+      "value": "+6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "052CF6D5-4F0D-4C3B-A348-ED594AF289F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8845348A-0706-4E63-B672-AEF724C9614D",
+  "verticalSpacing": 0
+}

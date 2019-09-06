@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F2ED5E62-675F-4090-9693-F0F4BB000092",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1106,
+  "clippingMaskMode": 0,
+  "do_objectID": "2597F847-457F-43D9-B9AE-7DE1B997AAA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8EF23AF6-7169-4DC8-B9B4-D60FC0E845EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ED285CCD-AB6F-4098-9CEC-0479DB653836",
+    "height": 50,
+    "width": 77,
+    "x": -1991,
+    "y": 1372
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "45DBF936-9D07-430B-9FEF-3004359A2B85",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4BDA1A8B-CA9B-4E02-A044-07D2447AA3AD"
+    }
+  ],
+  "name": "Job Card/Desktop/Component/CTA/Save-Saving",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3FB40B7D-11C5-4C93-8526-94F36638BC25",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9D62BD0B-843A-4085-BEF5-E3CC0F418B08",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "67D567FA-06CB-447B-BC14-2723022B23E1",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "84840CFD-9A9E-4A87-BDB7-671ECFB28FEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39B0D0D1-7534-4EE2-A11B-7852F03AED84",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BBFF363-EF51-40F9-B48A-E0AA83D54C15",
+    "height": 40,
+    "width": 300,
+    "x": 0,
+    "y": 58
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/text-Field/Helper-Text/Error",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "149154C9-23C2-4FCA-B873-42176A10015D",
+      "overrideName": "BC8F8F58-80CF-4DF0-8A13-E6D25BA5107B_stringValue",
+      "value": "Your name must be good. Contains vowels and consonants"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA04BFEB-0EAA-4025-89F6-5F45F31F3064",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7E57546B-9A17-44BD-B9BD-B09B9CCE62A9",
+  "verticalSpacing": 0
+}

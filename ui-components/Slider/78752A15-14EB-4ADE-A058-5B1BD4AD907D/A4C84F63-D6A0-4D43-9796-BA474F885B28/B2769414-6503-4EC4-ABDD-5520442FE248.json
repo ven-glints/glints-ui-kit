@@ -1,0 +1,98 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B2769414-6503-4EC4-ABDD-5520442FE248",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FC3CC539-F139-4918-8366-778E7EC55164",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "962CDBF1-44B5-4536-A5EE-D5AA1E2CD0EF",
+    "height": 300,
+    "width": 480,
+    "x": 1043,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "blockquote-default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A8A202D-FC87-4DE7-8744-94037070BE2D",
+      "overrideName": "56BBCDD2-6239-4C78-9EF3-E23D8A1EEAA6_stringValue",
+      "value": "Jia Ann"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FE081E5-03FF-443E-B208-0B4AD8E84FA0",
+      "overrideName": "6A79215D-129B-4922-B5F1-ABDB48A3EFCD_stringValue",
+      "value": "Nanyang Technological University (NTU)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB405946-9701-44C7-A4E1-EE848C2E2202",
+      "overrideName": "03884860-FCDD-4BD8-9B0A-C5557A259A07/EF9FEC41-9B6D-4F88-B69D-193D26E793C2_stringValue",
+      "value": "Jia Ann"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "62199865-9FAE-40BD-B1AA-47BDBE19A327",
+      "overrideName": "03884860-FCDD-4BD8-9B0A-C5557A259A07/BDCACE5B-52C1-445D-9977-0FECED45EFF6_stringValue",
+      "value": "Nanyang Technological University (NTU)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70821483-68DB-4EED-A954-EDB174DF4191",
+      "overrideName": "54F69CC4-1499-4113-B78F-B12E2FB1CEB3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3abc1d05853d68cb8536bfa8b9f98ca5c1a3ffd5.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B3D5ACB-6BF0-4D99-A8A4-811BBBAC9C0B",
+      "overrideName": "8CD2A4B1-0BAC-416E-9F12-95B41FA168B9_stringValue",
+      "value": "Nanyang Technological University "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31B6AAEA-B754-4D05-AFBA-E778B1BD3E18",
+      "overrideName": "ADEC250A-B22E-4C08-A415-430E0F1FDEDF_stringValue",
+      "value": "Jia Ann"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "887952AE-335D-4D93-87CE-813F5D804D15",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "83C956F3-4A43-480C-86E6-C65E60AF1CEF",
+  "verticalSpacing": 0
+}

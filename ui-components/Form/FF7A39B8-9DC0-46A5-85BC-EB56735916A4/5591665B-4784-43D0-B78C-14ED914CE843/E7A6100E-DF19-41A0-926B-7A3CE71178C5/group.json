@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E7A6100E-DF19-41A0-926B-7A3CE71178C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "256341D9-C3F8-4B81-AAB1-D915605B9FF8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "94B36193-8781-4F73-B9A6-337CED358B4A",
+    "height": 110,
+    "width": 667,
+    "x": 0,
+    "y": 464
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "7B34F783-3362-4CAF-8061-38DAEB732BF4"
+    },
+    {
+      "class": "text",
+      "id": "4B623032-522A-48CF-BE22-BFF44BB6C214"
+    }
+  ],
+  "name": "notes",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D1E79187-06A8-4A96-BA5B-E13F7331FFC8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

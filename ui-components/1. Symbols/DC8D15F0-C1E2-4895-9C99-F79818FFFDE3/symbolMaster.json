@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2525F475-3BC1-4FD8-A7C4-B70D01CFACB3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 26423,
+  "clippingMaskMode": 0,
+  "do_objectID": "DC8D15F0-C1E2-4895-9C99-F79818FFFDE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "650B8526-5A78-4AAE-BC01-885CD3BDEAED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E1B45272-CFEF-434C-A0DD-B0DE8320AB65",
+    "height": 100,
+    "width": 100,
+    "x": 16504,
+    "y": -266
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A8C281EF-E695-4291-B00F-C7A0706E9EF2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "54C64C77-7949-420B-9FF4-7F9671565CA4"
+    }
+  ],
+  "name": "avatar/TalentHunt",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F3033AD-3564-49FA-8236-F56EA0214205",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F4B53976-A080-410C-B6AD-646007E0441A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "22DA3A15-0229-4366-87F2-9D4D0C4C70CD",
+    "guides": [
+    ]
+  }
+}

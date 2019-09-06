@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9D5BDE2F-375A-450F-B90A-AD8CF3296E99",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2423,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C69D49A-1B92-4B60-9CE4-3B41CF58D83E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E873AF13-76AE-4AB3-B660-F536BDC5043C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD1CE39B-DA0B-48A1-B78B-0A24E4BB6855",
+    "height": 26,
+    "width": 133,
+    "x": 33479,
+    "y": -350
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BEAABCD6-D9CF-4B80-9704-1CF5A31D111B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F572B27B-0D11-4F78-94C1-68E42A477545"
+    }
+  ],
+  "name": "companycard/label-soft",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1AEF3962-001D-4494-887C-6FE6DAF2572B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "88DFB382-ACE4-46DD-B8F6-894C0889BB54",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DC397B8D-9149-409B-B429-55CC716D4A3B",
+    "guides": [
+    ]
+  }
+}

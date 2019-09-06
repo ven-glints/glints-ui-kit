@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "401CB766-63D2-434E-B952-37A4C5B041E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "87499655-8D9E-4BEF-B978-062D9C4CB26F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5DDA194-1C78-4198-A21D-3AB20166C631",
+    "height": 168,
+    "width": 286,
+    "x": 792,
+    "y": 650
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "033309F7-2844-4BDB-A552-0D5F45BB1884"
+    },
+    {
+      "class": "text",
+      "id": "7E7998C6-8A98-48E9-8039-6E34A653CBC7"
+    },
+    {
+      "class": "text",
+      "id": "F5DF5BDD-9AEC-4547-8408-C7F2F919D809"
+    }
+  ],
+  "name": "statistics/employers-home-mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "23F3EA27-E75B-4AA3-A4DB-CFBF21C0EC5A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

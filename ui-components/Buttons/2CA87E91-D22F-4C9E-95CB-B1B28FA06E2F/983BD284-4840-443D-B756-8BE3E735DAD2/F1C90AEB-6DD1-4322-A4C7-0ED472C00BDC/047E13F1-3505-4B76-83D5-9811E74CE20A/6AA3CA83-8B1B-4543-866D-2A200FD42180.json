@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6AA3CA83-8B1B-4543-866D-2A200FD42180",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D43A5CE-9A7A-46CE-978C-C2C764610228",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D03D7159-40B2-4176-B62B-DE7DF0E8AA80",
+    "height": 15,
+    "width": 15,
+    "x": 40,
+    "y": 19
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/employer-arow-round-forward",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97DC199B-AA7A-4B87-BF2D-40E0FBD4C40E",
+      "overrideName": "B051181E-4FB3-4271-B50C-F884EDD859B8_symbolID",
+      "value": "C7F5390B-72CA-49DA-A85E-16150A6AFC12"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "43C3E91F-C839-4A4A-8836-B429B9F02E46",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5E42F099-3C0F-43C8-9067-8E06E093681D",
+  "verticalSpacing": 0
+}

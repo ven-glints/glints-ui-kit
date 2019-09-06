@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3B93F093-BCE2-40AE-AB9A-BC7D34B28D8A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2026,
+  "clippingMaskMode": 0,
+  "do_objectID": "7E31B7C6-FF9C-4999-991E-A0C9DA6035A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC1C3247-D948-4169-B0AD-C4F15B38D6B1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "121B4D6D-1254-45E7-9303-92943DD94C24",
+    "height": 46,
+    "width": 400,
+    "x": 41204,
+    "y": -607
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6D41532A-E1CB-44DC-90D2-2F2C13142A98",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D562F58A-04AB-4AD5-8E8F-5042DB173ACB"
+    }
+  ],
+  "name": "Form/Text-Field-Small",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5BB72C0C-959E-4D4A-9A33-715E8A4BFDD5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "265ACBB3-2382-436A-ACBA-80E7A0E63DA6",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C1F2F6D9-9FA1-4946-9794-8767C1DB1D32",
+    "guides": [
+    ]
+  }
+}
