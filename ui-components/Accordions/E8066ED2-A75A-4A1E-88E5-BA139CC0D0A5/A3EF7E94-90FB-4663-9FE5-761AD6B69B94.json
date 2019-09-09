@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Poppins-Bold",
+              "name": "Poppins-Regular",
               "size": 26
             }
           },
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 37,
-    "width": 121,
+    "width": 114,
     "x": 100,
     "y": 76.5999984741211
   },
-  "glyphBounds": "{{0, 11}, {117, 27}}",
+  "glyphBounds": "{{1, 11}, {112, 27}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Poppins-Bold",
+            "name": "Poppins-Regular",
             "size": 26
           }
         },
